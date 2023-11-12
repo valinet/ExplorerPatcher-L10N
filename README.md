@@ -33,5 +33,5 @@ We would like to thank the following people for their contributions in translati
 
 | Language             | Contributor(s)                                  |
 |----------------------|-------------------------------------------------|
-| Chinese (Simplified) | @zetaloop                                       |
+| Chinese (Simplified) | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Japanese             | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
