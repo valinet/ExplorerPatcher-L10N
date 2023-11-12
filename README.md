@@ -4,8 +4,8 @@ This repository contains the localization files for [ExplorerPatcher](https://gi
 base English texts are available in the main repository under:
 
 * Properties Window, Notifications, and Crash
-  Dialog: [ep_gui/resources/lang](https://github.com/Valinet/ExplorerPatcher/tree/master/ep_gui/resources/lang)
-* Setup: [ep_setup/resources/lang](https://github.com/Valinet/ExplorerPatcher/tree/master/ep_setup/resources/lang)
+  Dialog: [ep_gui/resources/lang](https://github.com/valinet/ExplorerPatcher/tree/master/ep_gui/resources/lang)
+* Setup: [ep_setup/resources/lang](https://github.com/valinet/ExplorerPatcher/tree/master/ep_setup/resources/lang)
 
 # Contributing
 
