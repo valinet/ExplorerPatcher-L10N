@@ -1,4 +1,4 @@
-﻿#include "resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
