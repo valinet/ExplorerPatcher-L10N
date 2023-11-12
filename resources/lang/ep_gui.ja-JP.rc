@@ -153,10 +153,7 @@ BEGIN
     IDS_EXP_TITLEBAR_1          "タイトルを隠してアイコンを表示"
     IDS_EXP_TITLEBAR_2          "アイコンを隠してタイトルを表示"
     IDS_EXP_TITLEBAR_3          "アイコンとタイトルを隠す"
-    IDS_EXP_MICA                "マイカ効果(透過ぼかし)を適用する範囲"
-    IDS_EXP_MICA_0              "ファイル エクスプローラーに任せる (デフォルト)"
-    IDS_EXP_MICA_1              "タイトル バー、コマンド バー、ナビゲーション バーに適用"
-    IDS_EXP_MICA_2              "使用しない"
+    IDS_EXP_MICA                "Windows 7 のエクスプローラー ウインドウのナビゲーション バーにマイカ効果を適用する"
 
     IDS_START                   "スタート メニュー"
 
