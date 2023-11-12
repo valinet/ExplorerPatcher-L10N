@@ -315,7 +315,7 @@ BEGIN
 
     IDS_SP                      "スポットライト"
 
-    IDS_SP_HIDEICON             """この写真について学ぶ""のアイコンを非表示にする"
+    IDS_SP_HIDEICON             """この写真について学ぶ"" のアイコンを非表示にする"
     IDS_SP_DESKTOPMENU          "デスクトップのコンテキスト メニューの項目"
     IDS_SP_DESKTOPMENU_0        "項目なし"
     IDS_SP_DESKTOPMENU_32       "次の写真に切り替える"
