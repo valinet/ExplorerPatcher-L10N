@@ -22,12 +22,16 @@ to [compile ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/wiki/Com
 translations in action. If you are not able to do so, please mention it in your pull request and we will test and fix
 the translation files for you.
 
-In `.rc` files, please make sure that the double quotes `"` are represented as double double quotes `""`.
+Things to consider:
+
+* In `.rc` files, please make sure that the double quotes `"` are represented as double double quotes `""`.
+* Please also make sure that the `.rc` files are in UTF-8 encoding with CRLF (`\r\n`) line endings.
 
 ## Acknowledgements
 
 We would like to thank the following people for their contributions in translating ExplorerPatcher:
 
-| Language | Contributor(s)                                  |
-|----------|-------------------------------------------------|
-| Japanese | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
+| Language             | Contributor(s)                                  |
+|----------------------|-------------------------------------------------|
+| Chinese (Simplified) | @zetaloop                                       |
+| Japanese             | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
