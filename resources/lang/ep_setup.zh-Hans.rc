@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_CHINESE_SIMPLIFIED, SUBLANG_CHINESE_SIMPLIFIED
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "您确定要从您的电脑上移除 ExplorerPatcher 吗？"
+    IDS_SETUP_INSTALL_LOGOFF    "为了安装，您将被自动登出 Windows。当您重新登录时，ExplorerPatcher 将准备就绪。\n\n您要继续吗？"
+    IDS_SETUP_UNINSTALL_LOGOFF  "为了完成卸载，您将被自动登出 Windows。\n\n您要继续吗？"
+    IDS_SETUP_UNINSTALL_RESTART "请重新启动电脑以完成卸载。\n\n您要现在重新启动吗？"
+    IDS_SETUP_UNINSTALL_FINISH  "卸载完成。感谢您使用 ExplorerPatcher。"
+    IDS_SETUP_FAILED            "在部署 ExplorerPatcher 时发生了错误。\n这很可能是由于之前的更新的一个或多个备份文件仍在使用中。解锁这些文件应该可以解决此问题。\n\n故障排除步骤：\n• 如果当前打开了“属性”对话框，请关闭并重新打开。\n• 杀死并重新启动所有“explorer.exe”进程。\n• 如果您已将 ExplorerPatcher 注册为 shell 扩展，则重新启动电脑可能会解决此问题。\n• 最后，重新启动电脑并重试。"
+END
