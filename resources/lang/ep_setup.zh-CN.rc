@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "您确定要从电脑中卸载 ExplorerPatcher 吗？"
+    IDS_SETUP_INSTALL_LOGOFF    "要完成安装，需要登出 Windows 账号，您重新登录后即可使用 ExplorerPatcher。\n\n现在登出账号吗？"
+    IDS_SETUP_UNINSTALL_LOGOFF  "要完成卸载，需要登出 Windows 账号。\n\n现在登出账号吗？"
+    IDS_SETUP_UNINSTALL_RESTART "要完成卸载，需要重启电脑。\n\n现在立刻重启吗？"
+    IDS_SETUP_UNINSTALL_FINISH  "卸载完成。感谢使用 ExplorerPatcher。"
+    IDS_SETUP_FAILED            "配置 ExplorerPatcher 软件时出现错误。\n这很可能是因为一些旧版本的备份文件被占用，解锁这些文件应该可以修复该问题。\n\n如何解锁：\n• 关闭并重新打开 ExplorerPatcher 设置界面（“属性”窗口）。\n• 结束并重新启动所有 explorer.exe 进程。\n• 如果开启了注册为外壳扩展插件，那么需要重启电脑。\n• 实在不行的话，重启电脑再试一次。"
+END
