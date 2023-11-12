@@ -7,7 +7,7 @@ base English texts are available in the main repository under:
   Dialog: [ep_gui/resources/lang](https://github.com/valinet/ExplorerPatcher/tree/master/ep_gui/resources/lang)
 * Setup: [ep_setup/resources/lang](https://github.com/valinet/ExplorerPatcher/tree/master/ep_setup/resources/lang)
 
-# Contributing
+## Contributing
 
 If you want to have ExplorerPatcher in your language and willing to maintain in the long run, or if you spot a mistake,
 an inaccuracy, or want to improve the translations of a language that you are fluent in, pull requests are very much
@@ -24,7 +24,7 @@ the translation files for you.
 
 In `.rc` files, please make sure that the double quotes `"` are represented as double double quotes `""`.
 
-# Acknowledgements
+## Acknowledgements
 
 We would like to thank the following people for their contributions in translating ExplorerPatcher:
 
