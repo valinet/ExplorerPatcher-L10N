@@ -1,0 +1,14 @@
+﻿#include "resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "お使いの PC から ExplorerPatcher を削除してもよろしいですか?"
+    IDS_SETUP_INSTALL_LOGOFF    "インストールするために、自動的に Windows からサインアウトされます。再度サインインすると、ExplorerPatcher を使用できるようになります。\n\n続行しますか?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "アンインストールを完了するために、自動的に Windows からサインアウトされます。\n\n続行しますか?"
+    IDS_SETUP_UNINSTALL_RESTART "アンインストールを完了するために、PC を再起動してください。\n\n今すぐ再起動しますか?"
+    IDS_SETUP_UNINSTALL_FINISH  "アンインストールが完了しました。ExplorerPatcher をご利用いただきありがとうございます。"
+    IDS_SETUP_FAILED            "ExplorerPatcher のサービス中にエラーが発生しました。\nこれは、以前のアップデートのバックアップ ファイルがまだ使用されていることが原因である可能性が高いです。ファイルのロックを解除すると、この問題が解決されるはずです。\n\nトラブルシューティングの手順:\n• ""プロパティ"" ダイアログが開いている場合は、閉じて再度開いてください。\n• すべての ""explorer.exe"" プロセスを終了して再起動してください。\n• ExplorerPatcher をシェル拡張として登録している場合は、PC を再起動するとおそらく解決します。\n• 最後に、PC を再起動してもう一度お試しください。"
+END
