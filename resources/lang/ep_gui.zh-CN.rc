@@ -315,7 +315,7 @@ BEGIN
 
     IDS_SP                      "聚焦"
 
-    IDS_SP_HIDEICON             "隐藏 “了解此图片” 按钮"
+    IDS_SP_HIDEICON             "隐藏"了解此图片"按钮"
     IDS_SP_DESKTOPMENU          "桌面右键菜单"
     IDS_SP_DESKTOPMENU_0        "（无）"
     IDS_SP_DESKTOPMENU_32       "下一张"
