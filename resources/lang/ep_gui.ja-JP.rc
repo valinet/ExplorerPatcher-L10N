@@ -396,7 +396,7 @@ BEGIN
     IDS_ABOUT_OS                "%s、OS ビルド %d.%d で実行中。"
     IDS_ABOUT_GITHUB            "プロジェクトの GitHub"
     IDS_ABOUT_WEBSITE           "Web サイト"
-    IDS_ABOUT_DONATE            "寄付 (PayPal で)"
+    IDS_ABOUT_DONATE            "寄付"
     IDS_ABOUT_FAQ               "よくある質問"
     IDS_ABOUT_SETTINGS          "これらの設定の管理の詳細"
     IDS_ABOUT_IMPORT            "設定のインポート"
