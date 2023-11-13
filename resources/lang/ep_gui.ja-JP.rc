@@ -412,6 +412,7 @@ BEGIN
     IDS_ADV_DELAY_6000          "6 秒"
     IDS_ADV_DELAY_8000          "8 秒"
     IDS_ADV_DELAY_10000         "10 秒"
+    IDS_ADV_XAMLSOUNDS          "エクスプローラーの XAML ビューで UI サウンドを有効にする"
 
     IDS_ABOUT                   "このプログラムについて"
 
