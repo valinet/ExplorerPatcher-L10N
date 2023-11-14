@@ -5,10 +5,10 @@ LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNINSTALL_PROMPT  "您確定要從電腦中卸載 ExplorerPatcher 嗎？"
+    IDS_SETUP_UNINSTALL_PROMPT  "您確定要從電腦中移除 ExplorerPatcher 嗎？"
     IDS_SETUP_INSTALL_LOGOFF    "要完成安裝，需要登出 Windows 帳號，您重新登入後即可使用 ExplorerPatcher。\n\n現在登出帳號嗎？"
-    IDS_SETUP_UNINSTALL_LOGOFF  "要完成卸載，需要登出 Windows 帳號。\n\n現在登出帳號嗎？"
-    IDS_SETUP_UNINSTALL_RESTART "要完成卸載，需要重啟電腦。\n\n現在立刻重啟嗎？"
-    IDS_SETUP_UNINSTALL_FINISH  "卸載完成。感謝使用 ExplorerPatcher。"
-    IDS_SETUP_FAILED            "配置 ExplorerPatcher 軟體時出現錯誤。\n這很可能是因為一些舊版本的備份文件被占用，解鎖這些文件應該可以修復該問題。\n\n如何解鎖：\n• 關閉並重新打開 ExplorerPatcher 設置界面（「屬性」窗口）。\n• 結束並重新啟動所有 explorer.exe 進程。\n• 如果開啟了註冊為外殼擴展插件，那麼需要重啟電腦。\n• 實在不行的話，重啟電腦再試一次。"
+    IDS_SETUP_UNINSTALL_LOGOFF  "要完成移除，需要登出 Windows 帳號。\n\n現在登出帳號嗎？"
+    IDS_SETUP_UNINSTALL_RESTART "要完成移除，需要重啟電腦。\n\n現在立刻重啟嗎？"
+    IDS_SETUP_UNINSTALL_FINISH  "移除完成。感謝使用 ExplorerPatcher。"
+    IDS_SETUP_FAILED            "設定 ExplorerPatcher 軟體時出現錯誤。\n這很可能是因為一些舊版本的備份檔案被占用，解鎖這些檔案應該可以修復該問題。\n\n如何解鎖：\n• 關閉並重新打開 ExplorerPatcher 設定介面（「屬性」視窗）。\n• 結束並重新啟動所有 explorer.exe 程序。\n• 如果開啟了註冊為 Shell 擴充外掛，那麼需要重啟電腦。\n• 實在不行的話，重啟電腦再試一次。"
 END
