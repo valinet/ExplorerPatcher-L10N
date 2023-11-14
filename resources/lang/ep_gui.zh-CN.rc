@@ -18,7 +18,7 @@ BEGIN
     IDS_UPDATES_DLFAILED_T      "更新失败"
     IDS_UPDATES_DLFAILED_B      "发生网络错误或安装错误。"
     IDS_UPDATES_INSTALLEDVER    "当前版本：%d.%d.%d.%d"
-    IDS_UPDATES_PROMPT          "是否安装 ExplorerPatcher 更新? \n\n下载地址: \n%s"
+    IDS_UPDATES_PROMPT          "是否安装 ExplorerPatcher 更新? \n\n下载地址:\n%s"
 
     IDS_SYM_DL_T                "系统版本 %s 的符号文件正在下载中…"
     IDS_SYM_DL_B                "请等待几分钟。在完成之前，ExplorerPatcher 的部分功能暂时受限。点击了解有关符号文件的更多信息。"
@@ -412,6 +412,7 @@ BEGIN
     IDS_ADV_DELAY_6000          "6 s"
     IDS_ADV_DELAY_8000          "8 s"
     IDS_ADV_DELAY_10000         "10 s"
+    IDS_ADV_XAMLSOUNDS          "Enable UI sounds in Explorer's XAML views"
 
     IDS_ABOUT                   "关于"
 
