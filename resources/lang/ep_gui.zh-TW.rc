@@ -97,7 +97,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_2   "隱藏外觀"
     IDS_TRAY_SKINICONS          "使用 Windows 11 主題的系統工具列圖示"
     IDS_TRAY_REPLACENETWORK_L1  "右鍵網路圖示打開網路和網際網路設定時，"
-    IDS_TRAY_REPLACENETWORK_L2  "打開："
+    IDS_TRAY_REPLACENETWORK_L2  "打開"
     IDS_TRAY_REPLACENETWORK_0   "設定 - 網路和網際網路（預設）"
     IDS_TRAY_REPLACENETWORK_1   "控制面板 - 網路和共享中心"
     IDS_TRAY_REPLACENETWORK_2   "控制面板 - 網路連接"
