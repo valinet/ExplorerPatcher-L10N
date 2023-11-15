@@ -32,7 +32,8 @@ Things to consider:
 We would like to thank the following people for their contributions in translating ExplorerPatcher:
 
 | Language              | Contributor(s)                                  |
-| --------------------- | ----------------------------------------------- |
+|-----------------------|-------------------------------------------------|
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Chinese (Traditional) | @snowlinouo                                     |
+| Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
