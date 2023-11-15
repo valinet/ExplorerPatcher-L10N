@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_INDONESIA, SUBLANG_INDONESIA_ID
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Apakah Anda yakin ingin meng-uninstal ExplorerPatcher dari komputer Anda?"
+    IDS_SETUP_INSTALL_LOGOFF    "Untuk meng-instal, Anda akan secara otomatis keluar dari Windows. ExplorerPatcher akan siap digunakan saat Anda masuk kembali.\n\nLanjutkan?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Untuk menyelesaikan proses uninstal, Anda akan keluar secara otomatis dari Windows.\n\Lanjutkan?"
+    IDS_SETUP_UNINSTALL_RESTART "Mulai ulang komputer untuk menyelesaikan instalasi.\n\nMulai ulang sekarang?"
+    IDS_SETUP_UNINSTALL_FINISH  "Uninstal selesai. Terima kasih telah menggunakan ExplorerPatcher."
+    IDS_SETUP_FAILED            "Terjadi kesalahan pemeliharaan pada ExplorerPatcher.\nHal ini kemungkinan besar disebabkan oleh satu atau beberapa file cadangan dari pembaruan sebelumnya yang masih digunakan. Melepaskan kunci file akan memperbaiki masalah ini.\n\nLangkah-langkah pemecahan masalah:\n• Tutup dan buka kembali dialog ""Properti"" jika sedang terbuka.\n• Matikan dan mulai ulang semua instance dari ""explorer.exe"".\ n• Jika Anda telah mendaftarkan ExplorerPatcher sebagai ekstensi shell, memulai ulang PC mungkin akan memperbaikinya.\n• Terakhir, mulai ulang PC dan coba lagi."
+END
