@@ -35,5 +35,6 @@ We would like to thank the following people for their contributions in translati
 |-----------------------|-------------------------------------------------|
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Chinese (Traditional) | @snowlinouo                                     |
+| Dutch                 | @GewoonIraj                                     |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
