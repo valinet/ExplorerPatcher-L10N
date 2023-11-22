@@ -5,10 +5,10 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNINSTALL_PROMPT  "Are you sure you want to remove ExplorerPatcher from your PC?"
-    IDS_SETUP_INSTALL_LOGOFF    "In order to install, you will be automatically signed out of Windows. ExplorerPatcher will be ready for use when you sign back in.\n\nDo you want to continue?"
-    IDS_SETUP_UNINSTALL_LOGOFF  "To complete the uninstallation, you will be automatically signed out of Windows.\n\nDo you want to continue?"
-    IDS_SETUP_UNINSTALL_RESTART "Please reboot the PC to complete the uninstall.\n\nDo you want to reboot now?"
-    IDS_SETUP_UNINSTALL_FINISH  "Uninstall completed. Thank you for using ExplorerPatcher."
-    IDS_SETUP_FAILED            "An error has occurred while servicing ExplorerPatcher.\nThis is most likely caused by one or more of the backup files from a previous update still being in use. Unlocking the files should fix this issue.\n\nTroubleshooting steps:\n• Close and reopen the ""Properties"" dialog if it is currently open.\n• Kill and restart all ""explorer.exe"" processes.\n• If you have registered ExplorerPatcher as a shell extension, then restarting the PC will probably fix this.\n• Lastly, reboot the PC and try again."
+    IDS_SETUP_UNINSTALL_PROMPT  "Biztosan el akarja távolítani az ExplorerPatchert a számítógépről?"
+    IDS_SETUP_INSTALL_LOGOFF    "A telepítéshez ki fogjuk jelentkeztetni a Windowsból. Az ExplorerPatcher használatra kész lesz, amikor újra bejelentkezik.\n\nFolytatja?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Az eltávolítás befejezéséhez ki fogjuk jelentkeztetni a Windowsból.\n\nFolytatja?"
+    IDS_SETUP_UNINSTALL_RESTART "A számítógépet újra kell indítani az eltávolítás befejezéséhez.\n\nÚjraindítja a gépet most?"
+    IDS_SETUP_UNINSTALL_FINISH  "Eltávolítás sikeres. Köszönjük, hogy az ExplorerPatchert választotta."
+    IDS_SETUP_FAILED            "Nem sikerült az ExplorerPatcher módosítása vagy eltávolítása.\nEzt valószínűleg az okozza, hogy a korábbi verzió egy vagy több biztonsági mentési fájlja még használatban van. Ezeknek a fájloknak a feloldása megoldhatja a problémát.\n\nHibaelhárítási lépések:\n• Zárja be és nyissa meg újra a ""Tulajdonságok"" ablakot, ha jelenleg nyitva van.\n• Állítsa le és indítsa el újra az ""explorer.exe"" folyamatot.\n• Ha az ExplorerPatcher rögzítette rendszerhéjbővítményként, a számítógép újraindítása megoldhatja a problémát.\n• Végül, indítsa újra a számítógépet és próbálja meg még egyszer."
 END
