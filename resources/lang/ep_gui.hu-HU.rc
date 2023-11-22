@@ -398,7 +398,7 @@ BEGIN
     IDS_ADV_NOPROPERTIES        "Ne változtasson a tálca helyi menüjén (Pl.: ne jelenítse meg a ""Tulajdonságok""-at)"
     IDS_ADV_SYMBOLS             "Szimbólumok letöltésének engedélyezése"
     IDS_ADV_PINNEDITEMS         "Kitűzött tálcaikonok parancsikonként (ne csoportosítsa futó alkalmazásokkal)"
-    IDS_ADV_REMOVEEXTRAGAP      "Ne legyen kihagyott hely a kitűzött tálcaikonok után (megjelenített címkék)"
+    IDS_ADV_REMOVEEXTRAGAP      "Ne legyen kihagyott hely a kitűzött tálcaikonok után (megjelenített címkék esetén)"
     IDS_ADV_DELAY               "Bejelentkezéskori extra késleltetés"
     IDS_ADV_DELAY_0             "Nincs (alapértelmezett)"
     IDS_ADV_DELAY_300           "300 ms"
