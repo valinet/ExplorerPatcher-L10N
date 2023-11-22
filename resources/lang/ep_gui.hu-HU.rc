@@ -395,10 +395,10 @@ BEGIN
     IDS_ADV_PAINTDESKTOPVERSION "Windows build-számának megjelenítése az asztalon"
     IDS_ADV_CLASSICTHEME        "Haladó renderelési javítások használata a klasszikus témánál"
     IDS_ADV_SYSLISTVIEW32       "SysListView32 engedélyezése Intéző nézetekhez"
-    IDS_ADV_NOPROPERTIES        "Ne változtasson a tálca helyi menüjén (Pl.: ne jelenítse meg a ""Tulajdonságok"" elemet)"
+    IDS_ADV_NOPROPERTIES        "Ne változtasson a tálca helyi menüjén (Pl.: ne jelenítse meg a ""Tulajdonságok""-at)"
     IDS_ADV_SYMBOLS             "Szimbólumok letöltésének engedélyezése"
-    IDS_ADV_PINNEDITEMS         "Kitűzött tálcaelemek viselkedjenek parancsikonként (ne csoportosítsa a futó alkalmazásokkal)"
-    IDS_ADV_REMOVEEXTRAGAP      "Tálcagomok címkéinek megjelenítése esetén távolítsa el a kitűzött elemek körüli extra helyet"
+    IDS_ADV_PINNEDITEMS         "Kitűzött tálcaikonok parancsikonként (ne csoportosítsa futó alkalmazásokkal)"
+    IDS_ADV_REMOVEEXTRAGAP      "Ne legyen kihagyott hely a kitűzött tálcaikonok után (megjelenített címkék)"
     IDS_ADV_DELAY               "Bejelentkezéskori extra késleltetés"
     IDS_ADV_DELAY_0             "Nincs (alapértelmezett)"
     IDS_ADV_DELAY_300           "300 ms"
@@ -430,5 +430,5 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "A beállítások exportálása sikeres volt."
     IDS_ABOUT_RESET             "Gyári beállítások visszaállítása"
 
-    IDS_FOOTER_RESTART          "Windows Intéző újraindítása"
+    IDS_FOOTER_RESTART          "Intéző újraindítása"
 END
