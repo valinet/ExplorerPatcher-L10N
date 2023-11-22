@@ -1,7 +1,7 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_Romanian (Română), SUBLANG_Romanian_RO
+LANGUAGE LANG_ROMANIAN, SUBLANG_ROMANIAN_ROMANIA
 
 STRINGTABLE
 BEGIN
@@ -180,7 +180,7 @@ BEGIN
     IDS_START_MONITOROVERRIDE_7 "Monitor #7"
     IDS_START_MONITOROVERRIDE_8 "Monitor #8"
     IDS_START_MONITOROVERRIDE_9 "Monitor #9"
-    IDS_START_NORECOMMENDED     "Dezactivați secțiunea ""Recomandate""
+    IDS_START_NORECOMMENDED     "Dezactivați secțiunea ""Recomandate"""
     IDS_START_MAKEALLAPPSDEFAULT "Deschideți Start în Toate aplicațiile în mod implicit"
     IDS_START_SHOWMORETILES     "Afișați mai multe plăci"
     IDS_START_CORNERPREF        "Preferință de colț"
