@@ -374,7 +374,7 @@ BEGIN
     IDS_UPDATES_POLICY_0        "Ajánlja fel az elérhető frissítés azonnali telepítését"
     IDS_UPDATES_POLICY_2        "Ne keressen elérhető frissítéseket"
     IDS_UPDATES_PREFER_STAGING  "Bétaverzió felajánlása, ha elérhető (nem ajánlott)"
-    IDS_UPDATES_DOWNGRADES      "A szerverről érkező legutóbbi verziót felajánlása akkor is, ha korábbi (nem ajánlott)"
+    IDS_UPDATES_DOWNGRADES      "A szerverről érkező legutóbbi verzió felajánlása akkor is, ha korábbi (nem ajánlott)"
     IDS_UPDATES_UPDATESERVERS   "Frissítési szerverek:"
     IDS_UPDATES_RELEASES        "Kiadott verziók"
     IDS_UPDATES_RELEASES_PROMPT "Olyan linket adjon meg, ami kompatibilis a GitHub releases API-val. A frissítések saját szerverről való kiszolgálásával kapcsolatban további információt a wikiben talál."
