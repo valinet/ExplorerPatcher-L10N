@@ -96,8 +96,8 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_0   "Dezactivat"
     IDS_TRAY_SHOWDESKTOPBTN_2   "Ascuns"
     IDS_TRAY_SKINICONS          "Aplicați stilul Windows 11 pictogramelor din bara de sistem"
-    IDS_TRAY_REPLACENETWORK_L1  "Alegeți 'Deschideți setările de rețea și Internet' când faceți clic dreapta pe"
-    IDS_TRAY_REPLACENETWORK_L2  "Pictograma de rețea ar trebui să se deschidă:"
+    IDS_TRAY_REPLACENETWORK_L1  "Alegeți 'Deschideți setările de rețea și Internet' când faceți clic dreapta pe Pictograma"
+    IDS_TRAY_REPLACENETWORK_L2  "de rețea ar trebui să se deschidă"
     IDS_TRAY_REPLACENETWORK_0   "Secțiunea Rețea din aplicația Setări (implicit)"
     IDS_TRAY_REPLACENETWORK_1   "Centru de rețea și partajare în Panoul de control"
     IDS_TRAY_REPLACENETWORK_2   "Conexiuni de rețea în Panoul de control"
@@ -128,8 +128,8 @@ BEGIN
 
     IDS_EXP                     "File Explorer"
 
-    IDS_EXP_SHEXT_L1            "Pentru ca setările marcate cu (**) să funcționeze și în casetele de dialog Deschidere sau Salvare fișier, înregistrați-vă"
-    IDS_EXP_SHEXT_L2            "acest utilitar ca extensie shell folosind opțiunea de mai jos."
+    IDS_EXP_SHEXT_L1            "Pentru ca setările marcate cu (**) să funcționeze și în casetele de dialog Deschidere sau"
+    IDS_EXP_SHEXT_L2            "Salvare fișier, înregistrați-vă acest utilitar ca extensie shell folosind opțiunea de mai jos."
     IDS_EXP_SHEXT_LEARN         "Află mai multe"
     IDS_EXP_SHEXT_REGISTER      "Înregistrați-vă ca extensie shell"
     IDS_EXP_DISABLECTXMENU      "Dezactivați meniul contextual Windows 11"
@@ -168,8 +168,8 @@ BEGIN
     IDS_START_MAXFREQAPPS_0     "Nici unul"
     IDS_START_MAXFREQAPPS_6     "6 (implicit)"
     IDS_START_MAXFREQAPPS_99999 "Nelimitat"
-    IDS_START_MONITOROVERRIDE_L1 "Când utilizați mai multe afișaje, deschideți Start pe acest monitor când este invocat folosind"
-    IDS_START_MONITOROVERRIDE_L2 "tastatura"
+    IDS_START_MONITOROVERRIDE_L1 "Când utilizați mai multe afișaje, deschideți Start pe acest monitor când este invocat"
+    IDS_START_MONITOROVERRIDE_L2 "folosind tastatura"
     IDS_START_MONITOROVERRIDE_1 "Monitor principal (implicit)"
     IDS_START_MONITOROVERRIDE_0 "Monitor pe care este pornit cursorul"
     IDS_START_MONITOROVERRIDE_2 "Monitor #2"
@@ -200,7 +200,7 @@ BEGIN
 
     IDS_AT                      "Comutator de ferestre"
 
-    IDS_AT_STYLE                "Stil comutator de ferestre (Alt+Tab)."
+    IDS_AT_STYLE                "Stil comutator de ferestre (Alt+Tab)"
     IDS_AT_STYLE_0_W11          "Windows 11 (implicit)"
     IDS_AT_STYLE_0_W10          "Windows 10 (implicit)"
     IDS_AT_STYLE_3              "Windows 10"
