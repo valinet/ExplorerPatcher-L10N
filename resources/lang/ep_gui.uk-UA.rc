@@ -424,7 +424,7 @@ BEGIN
     IDS_ABOUT_WEBSITE           "Відвідайте веб-сайт"
     IDS_ABOUT_DONATE            "Підтримайте проект"
     IDS_ABOUT_FAQ               "Часті запитання"
-    IDS_ABOUT_SETTINGS          "Дізнайтеся більше про керування цими налаштуваннями"
+    IDS_ABOUT_SETTINGS          "Дізнайтеся більше про налаштування"
     IDS_ABOUT_IMPORT            "Завантажити попердні налаштування"
     IDS_ABOUT_EXPORT            "Зберегти поточні налаштування"
     IDS_ABOUT_EXPORT_SUCCESS    "Налаштування успішно збережені."
