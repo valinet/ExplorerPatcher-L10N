@@ -97,7 +97,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_2   "Приховано"
     IDS_TRAY_SKINICONS          "Застосування стилю Windows 11 до піктограм трею"
     IDS_TRAY_REPLACENETWORK_L1  "Відображати наступне при виборі"
-    IDS_TRAY_REPLACENETWORK_L2  "Відкрити налаштування мережі та інтернету:"
+    IDS_TRAY_REPLACENETWORK_L2  "Відкрити налаштування мережі та інтернету"
     IDS_TRAY_REPLACENETWORK_0   "Мережа та інтернет (системний)"
     IDS_TRAY_REPLACENETWORK_1   "Центр мережевих підключень і спільного доступу"
     IDS_TRAY_REPLACENETWORK_2   "Мережеві підключення"
@@ -153,7 +153,7 @@ BEGIN
     IDS_EXP_TITLEBAR_1          "Приховати назву, показати піктограму"
     IDS_EXP_TITLEBAR_2          "Приховати піктограму, показати назву"
     IDS_EXP_TITLEBAR_3          "Приховати піктограму та назву"
-    IDS_EXP_MICA                "Застосування ефекту Mica до панелі навігації у вікнах Файлового Провідника Windows 7"
+    IDS_EXP_MICA                "Застосування ефекту Mica до панелі навігації (Windows 7)"
 
     IDS_START                   "Пуск"
 
@@ -381,7 +381,7 @@ BEGIN
     IDS_UPDATES_STAGING         "Попередні версії(в процесі розробки)"
     IDS_UPDATES_STAGING_PROMPT  "Введіть URL-адресу, яка використовується для отримання оновлень, згідно з API GitHub. Щоб дізнатися, як налаштувати власний сервер оновлень, зверніться до вікі."
     IDS_UPDATES_CHECK           "Перевірити наявність оновлень"
-    IDS_UPDATES_INSTALL         "Оновити програму та перезапустити Файловий Провідник"
+    IDS_UPDATES_INSTALL         "Оновити програму та перезаватижити Провідник"
     IDS_UPDATES_CHANGES         "Переглянути список змін"
     IDS_UPDATES_LEARN           "Дізнатися більше"
 
