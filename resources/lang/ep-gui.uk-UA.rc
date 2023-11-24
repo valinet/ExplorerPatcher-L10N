@@ -430,5 +430,5 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Налаштування успішно збережені."
     IDS_ABOUT_RESET             "Відновити налаштування за замовчуванням"
 
-    IDS_FOOTER_RESTART          "Перезавантажити Файловий Провідник"
+    IDS_FOOTER_RESTART          "Перезавантажити Провідник"
 END
