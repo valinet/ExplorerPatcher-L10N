@@ -1,7 +1,7 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN_DE
 
 STRINGTABLE
 BEGIN
