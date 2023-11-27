@@ -5,10 +5,10 @@ LANGUAGE LANG_GERMAN, SUBLANG_GERMAN_DE
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNINSTALL_PROMPT  "Weet je zeker dat je ExplorerPatcher van je pc wilt verwijderen?"
-    IDS_SETUP_INSTALL_LOGOFF    "Om te installeren, wordt je automatisch afgemeld bij Windows. ExplorerPatcher is klaar voor gebruik wanneer je opnieuw aanmeldt.\n\nWil je doorgaan?"
-    IDS_SETUP_UNINSTALL_LOGOFF  "Om deinstallatie te voltooien, wordt je automatisch afgemeld bij Windows.\n\nWil je doorgaan?"
-    IDS_SETUP_UNINSTALL_RESTART "Herstart de pc om deinstallatie te voltooien.\n\nWil je nu herstarten?"
-    IDS_SETUP_UNINSTALL_FINISH  "Deinstallatie voltooid. Bedankt voor het gebruik van ExplorerPatcher."
-    IDS_SETUP_FAILED            "Er is een fout opgetreden tijdens het onderhoud van ExplorerPatcher.\nDit wordt waarschijnlijk veroorzaakt door een of meer van de back-upbestanden van een eerdere update die nog in gebruik zijn. Het ontgrendelen van de bestanden zou dit probleem moeten oplossen.\n\nOplossingsstappen:\n• Sluit en heropen het dialoogvenster ""Eigenschappen"" als het momenteel open is.\n• Beëindig en herstart alle processen van ""explorer.exe"".\n• Als je ExplorerPatcher als shell-extensie hebt geregistreerd, zal het opnieuw opstarten van de pc dit waarschijnlijk oplossen.\n• Tot slot, herstart de pc en probeer het opnieuw."
+    IDS_SETUP_UNINSTALL_PROMPT  "Are you sure you want to remove ExplorerPatcher from your PC?"
+    IDS_SETUP_INSTALL_LOGOFF    "In order to install, you will be automatically signed out of Windows. ExplorerPatcher will be ready for use when you sign back in.\n\nDo you want to continue?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "To complete the uninstallation, you will be automatically signed out of Windows.\n\nDo you want to continue?"
+    IDS_SETUP_UNINSTALL_RESTART "Please reboot the PC to complete the uninstall.\n\nDo you want to reboot now?"
+    IDS_SETUP_UNINSTALL_FINISH  "Uninstall completed. Thank you for using ExplorerPatcher."
+    IDS_SETUP_FAILED            "An error has occurred while servicing ExplorerPatcher.\nThis is most likely caused by one or more of the backup files from a previous update still being in use. Unlocking the files should fix this issue.\n\nTroubleshooting steps:\n• Close and reopen the ""Properties"" dialog if it is currently open.\n• Kill and restart all ""explorer.exe"" processes.\n• If you have registered ExplorerPatcher as a shell extension, then restarting the PC will probably fix this.\n• Lastly, reboot the PC and try again."
 END
