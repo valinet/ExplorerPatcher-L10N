@@ -1,0 +1,14 @@
+#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Weet je zeker dat je ExplorerPatcher van je pc wilt verwijderen?"
+    IDS_SETUP_INSTALL_LOGOFF    "Om te installeren, wordt je automatisch afgemeld bij Windows. ExplorerPatcher is klaar voor gebruik wanneer je opnieuw aanmeldt.\n\nWil je doorgaan?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Om deinstallatie te voltooien, wordt je automatisch afgemeld bij Windows.\n\nWil je doorgaan?"
+    IDS_SETUP_UNINSTALL_RESTART "Herstart de pc om deinstallatie te voltooien.\n\nWil je nu herstarten?"
+    IDS_SETUP_UNINSTALL_FINISH  "Deinstallatie voltooid. Bedankt voor het gebruik van ExplorerPatcher."
+    IDS_SETUP_FAILED            "Er is een fout opgetreden tijdens het onderhoud van ExplorerPatcher.\nDit wordt waarschijnlijk veroorzaakt door een of meer van de back-upbestanden van een eerdere update die nog in gebruik zijn. Het ontgrendelen van de bestanden zou dit probleem moeten oplossen.\n\nOplossingsstappen:\n• Sluit en heropen het dialoogvenster ""Eigenschappen"" als het momenteel open is.\n• Beëindig en herstart alle processen van ""explorer.exe"".\n• Als je ExplorerPatcher als shell-extensie hebt geregistreerd, zal het opnieuw opstarten van de pc dit waarschijnlijk oplossen.\n• Tot slot, herstart de pc en probeer het opnieuw."
+END
