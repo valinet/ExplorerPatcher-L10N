@@ -107,7 +107,7 @@ BEGIN
     IDS_TRAY_NETWORK_5          "Windows 11 WiFi flyout"
     IDS_TRAY_NETWORK_0          "Windows 10 flyout (системний)"
     IDS_TRAY_NETWORK_2          "Windows 8 flyout"
-    IDS_TRAY_NETWORK_1          "Network section in the Settings app"
+    IDS_TRAY_NETWORK_1          "Мережа та Інтернет (налаштування)"
     IDS_TRAY_SOUND              "Звук"
     IDS_TRAY_SOUND_1            "Windows 10 flyout (системний)"
     IDS_TRAY_SOUND_0            "Windows 7 flyout"
