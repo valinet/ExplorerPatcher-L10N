@@ -219,7 +219,7 @@ BEGIN
     IDS_AT_SWS_OPACITY_100      "不透明"
     IDS_AT_SWS_OPACITY_95       "95 % (デフォルト)"
     IDS_AT_SWS_COLORSCHEME      "配色"
-    IDS_AT_SWS_COLORSCHEME_0    "システムの設定に従う"
+    IDS_AT_SWS_COLORSCHEME_0    "システムの設定に従う (デフォルト)"
     IDS_AT_SWS_COLORSCHEME_1    "ライト"
     IDS_AT_SWS_COLORSCHEME_2    "ダーク"
     IDS_AT_SWS_CORNERPREF       "角の設定"

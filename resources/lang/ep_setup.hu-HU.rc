@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_HUNGARIAN, SUBLANG_HUNGARIAN_HUNGARY
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Biztosan el akarja távolítani az ExplorerPatchert a számítógépről?"
+    IDS_SETUP_INSTALL_LOGOFF    "A telepítéshez ki fogjuk jelentkeztetni a Windowsból. Az ExplorerPatcher használatra kész lesz, amikor újra bejelentkezik.\n\nFolytatja?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Az eltávolítás befejezéséhez ki fogjuk jelentkeztetni a Windowsból.\n\nFolytatja?"
+    IDS_SETUP_UNINSTALL_RESTART "A számítógépet újra kell indítani az eltávolítás befejezéséhez.\n\nÚjraindítja a gépet most?"
+    IDS_SETUP_UNINSTALL_FINISH  "Eltávolítás sikeres. Köszönjük, hogy az ExplorerPatchert választotta."
+    IDS_SETUP_FAILED            "Nem sikerült az ExplorerPatcher módosítása vagy eltávolítása.\nEzt valószínűleg az okozza, hogy a korábbi verzió egy vagy több biztonsági mentési fájlja még használatban van. Ezeknek a fájloknak a feloldása megoldhatja a problémát.\n\nHibaelhárítási lépések:\n• Zárja be és nyissa meg újra a ""Tulajdonságok"" ablakot, ha jelenleg nyitva van.\n• Állítsa le és indítsa el újra az ""explorer.exe"" folyamatot.\n• Ha az ExplorerPatchert rögzítette rendszerhéjbővítményként (Shell Extension), a számítógép újraindítása megoldhatja a problémát.\n• Végül, indítsa újra a számítógépet és próbálja meg még egyszer."
+END
