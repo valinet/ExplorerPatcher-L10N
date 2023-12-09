@@ -1,0 +1,15 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+
+STRINGTABLE
+BEGIN
+
+    IDS_SETUP_UNINSTALL_PROMPT "Sind Sie sicher, dass Sie ExplorerPatcher von Ihrem PC entfernen möchten?"
+    IDS_SETUP_INSTALL_LOGOFF "Um die Installation durchzuführen, werden Sie automatisch von Windows abgemeldet. ExplorerPatcher ist einsatzbereit, wenn Sie sich wieder anmelden.\n\nMöchten Sie fortfahren?"
+    IDS_SETUP_UNINSTALL_LOGOFF "Um die Deinstallation abzuschließen, werden Sie automatisch von Windows abgemeldet.\n\nMöchten Sie fortfahren?"
+    IDS_SETUP_UNINSTALL_RESTART "Bitte starten Sie den PC neu, um die Deinstallation abzuschließen.\n\nMöchten Sie jetzt neu starten?"
+    IDS_SETUP_UNINSTALL_FINISH "Deinstallation abgeschlossen. Danke, dass Sie ExplorerPatcher verwendet haben."
+    IDS_SETUP_FAILED "Bei der Wartung von ExplorerPatcher ist ein Fehler aufgetreten.\nDies wird höchstwahrscheinlich dadurch verursacht, dass eine oder mehrere der Sicherungsdateien von einem früheren Update noch in Gebrauch sind. Das Freigeben der Dateien sollte das Problem beheben.\n\nSchritte zur Fehlerbehebung:\n- Schließen Sie das Dialogfeld ""Eigenschaften"" und öffnen Sie es erneut, wenn es derzeit geöffnet ist.\n- Beenden Sie alle ""explorer.exe""-Prozesse und starten Sie sie neu.\n- Wenn Sie ExplorerPatcher als Shell-Erweiterung registriert haben, wird ein Neustart des PCs das Problem wahrscheinlich beheben.\n- Starten Sie den PC neu und versuchen Sie es erneut."
+END
