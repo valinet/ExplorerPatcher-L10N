@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_ROMANIAN, SUBLANG_ROMANIAN_ROMANIA
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Sigur doriți să eliminați ExplorerPatcher de pe computer?"
+    IDS_SETUP_INSTALL_LOGOFF    "Pentru a instala, veți fi deconectat automat de la Windows. ExplorerPatcher va fi gata de utilizare atunci când vă conectați din nou.\n\nDoriți să continuați?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Pentru a finaliza dezinstalarea, veți fi deconectat automat de la Windows.\n\nDoriți să continuați?"
+    IDS_SETUP_UNINSTALL_RESTART "Vă rugăm să reporniți computerul pentru a finaliza dezinstalarea.\n\nDoriți să reporniți acum?"
+    IDS_SETUP_UNINSTALL_FINISH  "Dezinstalarea a fost finalizată. Vă mulțumim că folosiți ExplorerPatcher."
+    IDS_SETUP_FAILED            "A apărut o eroare la întreținerea ExplorerPatcher.\nAcest lucru este cel mai probabil cauzat de unul sau mai multe dintre fișierele de rezervă dintr-o actualizare anterioară încă în uz. Deblocarea fișierelor ar trebui să rezolve această problemă.\n\nPași de depanare:\n• Închideți și redeschideți dialogul ""Proprietăți"" dacă este deschis în prezent.\n• Omorâți și reporniți totul ""explorer.exe"" proceselor.\n• Dacă ați înregistrat ExplorerPatcher ca extensie shell, atunci repornirea computerului va rezolva probabil acest lucru.\n• În cele din urmă, reporniți computerul și încercați din nou."
+END
