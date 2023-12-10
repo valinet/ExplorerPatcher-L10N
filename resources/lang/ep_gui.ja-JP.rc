@@ -1,4 +1,4 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
@@ -85,7 +85,7 @@ BEGIN
 
     IDS_TRAY                    "システム トレイ"
 
-    IDS_TRAY_SKINMENUS          "タスク バーとトレイのポップアップ メニューをスキンする"
+    IDS_TRAY_SKINMENUS          "タスク バーとトレイのポップアップ メニューにイマーシブ スタイルを適用する"
     IDS_TRAY_CENTERMENUS        "トレイ アイコンのポップアップ メニューを中央にする"
     IDS_TRAY_FLYOUTMENUS        "トレイ アイコンのポップアップ メニューをフライアウト動作にする"
     IDS_TRAY_TOUCHKB            "タッチ キーボード ボタンを表示する"
