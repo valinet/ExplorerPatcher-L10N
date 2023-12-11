@@ -1,12 +1,7 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-/*
-    Translation into French provided
-    by @corentios
-*/
-
-LANGUAGE LANG_FRENCH, SUBLANG_FRENCH_FR
+LANGUAGE LANG_FRENCH, SUBLANG_FRENCH
 
 STRINGTABLE
 BEGIN
