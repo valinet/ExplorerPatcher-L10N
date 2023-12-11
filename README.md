@@ -39,4 +39,5 @@ We would like to thank the following people for their contributions in translati
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
+| Romanian              | @21124637                                       |
 | Ukrainian             | @AyzekUorren                                    |
