@@ -97,7 +97,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_2   "隐藏外观"
     IDS_TRAY_SKINICONS          "使用 Windows 11 风格的系统托盘图标"
     IDS_TRAY_REPLACENETWORK_L1  "右键网络图标打开网络和 Internet 设置时，"
-    IDS_TRAY_REPLACENETWORK_L2  "打开:"
+    IDS_TRAY_REPLACENETWORK_L2  "打开"
     IDS_TRAY_REPLACENETWORK_0   "设置 - 网络和 Internet (默认)"
     IDS_TRAY_REPLACENETWORK_1   "控制面板 - 网络和共享中心"
     IDS_TRAY_REPLACENETWORK_2   "控制面板 - 网络连接"

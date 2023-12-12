@@ -36,8 +36,11 @@ We would like to thank the following people for their contributions in translati
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Chinese (Traditional) | @snowlinouo, @Corporation001                    |
 | Dutch                 | @GewoonIraj                                     |
+| French                | @corentios                                      |
+| German                | @lukinator01                                    |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
+| Korean                | @MuscularPuky                                   |
 | Romanian              | @21124637                                       |
 | Ukrainian             | @AyzekUorren                                    |
