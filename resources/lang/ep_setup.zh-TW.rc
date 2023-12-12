@@ -5,10 +5,10 @@ LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
 
 STRINGTABLE
 BEGIN
-IDS_SETUP_UNINSTALL_PROMPT  "您確定要從電腦中移除 ExplorerPatcher 嗎？"
-IDS_SETUP_INSTALL_LOGOFF    "要完成安裝，您將被自動登出 Windows 帳戶，重新登入後即可使用 ExplorerPatcher。\n\n您想要現在登出帳戶嗎?"
-IDS_SETUP_UNINSTALL_LOGOFF  "要完成移除，您將被自動登出 Windows 帳戶。\n\n您想要現在登出帳戶嗎?"
-IDS_SETUP_UNINSTALL_RESTART "需要重新啟動電腦以完成移除。\n\n現在立刻重新啟動嗎?"
-IDS_SETUP_UNINSTALL_FINISH  "移除完成。感謝您使用 ExplorerPatcher。"
-IDS_SETUP_FAILED            "設定 ExplorerPatcher 軟體時發生錯誤。\n這很可能是因為一些舊版本的備份檔案被佔用，解除鎖定這些檔案應該可以修復該問題。\n\n如何解除鎖定:\n• 關閉並重新開啟 ExplorerPatcher 「內容」視窗。\n• 結束並重新啟動所有 explorer.exe 程式。\n• 如果已將 ExplorerPatcher 註冊為殼層擴充程式，那麼需要重新啟動電腦。\n• 實在不行的話，請重新啟動電腦再試一次。"
+    IDS_SETUP_UNINSTALL_PROMPT  "您確定要從電腦中移除 ExplorerPatcher 嗎？"
+    IDS_SETUP_INSTALL_LOGOFF    "要完成安裝，您將被自動登出 Windows 帳戶，重新登入後即可使用 ExplorerPatcher。\n\n您想要現在登出帳戶嗎?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "要完成移除，您將被自動登出 Windows 帳戶。\n\n您想要現在登出帳戶嗎?"
+    IDS_SETUP_UNINSTALL_RESTART "需要重新啟動電腦以完成移除。\n\n現在立刻重新啟動嗎?"
+    IDS_SETUP_UNINSTALL_FINISH  "移除完成。感謝您使用 ExplorerPatcher。"
+    IDS_SETUP_FAILED            "設定 ExplorerPatcher 軟體時發生錯誤。\n這很可能是因為一些舊版本的備份檔案被佔用，解除鎖定這些檔案應該可以修復該問題。\n\n如何解除鎖定:\n• 關閉並重新開啟 ExplorerPatcher 「內容」視窗。\n• 結束並重新啟動所有 explorer.exe 程式。\n• 如果已將 ExplorerPatcher 註冊為殼層擴充程式，那麼需要重新啟動電腦。\n• 實在不行的話，請重新啟動電腦再試一次。"
 END
