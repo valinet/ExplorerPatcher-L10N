@@ -1,7 +1,7 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_GERMAN, SUBLANG_GERMAN_GERMANY
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
 
 STRINGTABLE
 BEGIN
@@ -90,14 +90,14 @@ BEGIN
     IDS_TRAY_FLYOUTMENUS        "Flyout-Verhalten für Popup-Menüs mit Taskleistensymbolen"
     IDS_TRAY_TOUCHKB            "Schaltfläche „Touch-Tastatur“ anzeigen"
     IDS_TRAY_SHOWSECONDS        "Uhr in Sekunden anzeigen"
-    IDS_TRAY_CCBTN              "Schaltfläche „Systemsteuerung“."
+    IDS_TRAY_CCBTN              "Schaltfläche „Systemsteuerung“"
     IDS_TRAY_SHOWDESKTOPBTN     "Desktop-Schaltfläche anzeigen"
     IDS_TRAY_SHOWDESKTOPBTN_1   "Aktiviert (Standard)"
     IDS_TRAY_SHOWDESKTOPBTN_0   "Deaktiviert"
     IDS_TRAY_SHOWDESKTOPBTN_2   "Versteckt"
     IDS_TRAY_SKINICONS          "Wenden Sie den Windows 11-Stil auf die Taskleistensymbole an"
     IDS_TRAY_REPLACENETWORK_L1  "Wählen Sie „Netzwerk- und Interneteinstellungen öffnen“, wenn Sie mit der rechten Maustaste klicken"
-    IDS_TRAY_REPLACENETWORK_L2  "Das Netzwerksymbol sollte sich öffnen:"
+    IDS_TRAY_REPLACENETWORK_L2  "Das Netzwerksymbol sollte sich öffnen"
     IDS_TRAY_REPLACENETWORK_0   "Abschnitt „Netzwerk“ in der Einstellungen-App (Standard)"
     IDS_TRAY_REPLACENETWORK_1   "Netzwerk- und Freigabecenter in der Systemsteuerung"
     IDS_TRAY_REPLACENETWORK_2   "Netzwerkverbindungen in der Systemsteuerung"
@@ -128,8 +128,8 @@ BEGIN
 
     IDS_EXP                     "Datei-Explorer"
 
-    IDS_EXP_SHEXT_L1            "Damit die mit (**) markierten Einstellungen auch in den Dialogen „Datei öffnen“ oder „Datei speichern“ funktionieren,"
-    IDS_EXP_SHEXT_L2            "registrieren Sie dieses Dienstprogramm mit der folgenden Option als Shell-Erweiterung (Anleitung in Englisch)."
+    IDS_EXP_SHEXT_L1            "Damit die mit (**) markierten Einstellungen auch in den Dialogen „Datei öffnen“ oder „Datei speichern“"
+    IDS_EXP_SHEXT_L2            "funktionieren, registrieren Sie dieses Dienstprogramm mit der folgenden Option als Shell-Erweiterung."
     IDS_EXP_SHEXT_LEARN         "Erfahren Sie mehr"
     IDS_EXP_SHEXT_REGISTER      "Als Shell-Erweiterung registrieren"
     IDS_EXP_DISABLECTXMENU      "Windows 11-Kontextmenü deaktivieren"
@@ -195,7 +195,7 @@ BEGIN
     IDS_START_APPLIST_0         "Anzeige"
     IDS_START_APPLIST_3         "Verstecken"
     IDS_START_APPLIST_1         "Deaktivieren"
-    IDS_START_NOTICE            "WICHTIG, MUSS LESEN: Hinweis zu dieser Funktion (online, auf Englisch)"
+    IDS_START_NOTICE            "WICHTIG, MUSS LESEN: Hinweis zu dieser Funktion (online)"
     IDS_START_WIN10_NOTICE      "Einige Einstellungen sind in älteren Windows 10-Versionen möglicherweise nicht verfügbar."
 
     IDS_AT                      "Fensterumschalter"
@@ -253,7 +253,7 @@ BEGIN
     IDS_AT_SWS_SCROLLWHEEL_0    "Nie (Standard)"
     IDS_AT_SWS_SCROLLWHEEL_1    "Wenn sich der Cursor über dem Umschalter befindet"
     IDS_AT_SWS_SCROLLWHEEL_2    "Immer"
-    IDS_AT_SWS_LEARN            "Erfahren Sie mehr über Simple Window Switcher (auf Englisch)"
+    IDS_AT_SWS_LEARN            "Erfahren Sie mehr über Simple Window Switcher"
 
     IDS_WEATHER                 "Wetter"
 
@@ -304,7 +304,7 @@ BEGIN
     IDS_WEATHER_CONTENTSMODE_1  "Möglichst auf 2 Zeilen"
     IDS_WEATHER_ZOOM            "Zoom"
     IDS_WEATHER_ZOOM_100        "100 % (Standard)"
-    IDS_WEATHER_LEARN           "Erfahren Sie mehr über das Wetter-Taskleisten-Widget (auf Englisch)"
+    IDS_WEATHER_LEARN           "Erfahren Sie mehr über das Wetter-Taskleisten-Widget"
     IDS_WEATHER_LASTUPDATE      "Zuletzt aktualisiert am: %s, %s."
     IDS_WEATHER_UPDATE          "Wetter jetzt aktualisieren"
     IDS_WEATHER_CLEAR           "Lokale Daten des Wetter-Widgets löschen"
@@ -382,13 +382,13 @@ BEGIN
     IDS_UPDATES_STAGING_PROMPT  "Geben Sie eine URL ein, die Ressourcen bereitstellt, die der Vorab-Versions-API von GitHub entsprechen. Um zu erfahren, wie Sie Ihren eigenen Update-Server konfigurieren, konsultieren Sie bitte das Wiki."
     IDS_UPDATES_CHECK           "Nach Updates suchen"
     IDS_UPDATES_INSTALL         "Aktualisieren Sie das Programm und starten Sie den Explorer neu"
-    IDS_UPDATES_CHANGES         "Lesen Sie mehr über Änderungen in den neuesten Versionen (auf Englisch)"
-    IDS_UPDATES_LEARN           "Erfahren Sie mehr (auf Englisch)"
+    IDS_UPDATES_CHANGES         "Lesen Sie mehr über Änderungen in den neuesten Versionen"
+    IDS_UPDATES_LEARN           "Erfahren Sie mehr"
 
     IDS_ADV                     "Erweitert"
 
     IDS_ADV_DISCLAIMER          "Ändern Sie diese Einstellungen erst, nachdem Sie die entsprechende Dokumentation gelesen haben."
-    IDS_ADV_LEARN               "Erfahren Sie mehr (auf Englisch)"
+    IDS_ADV_LEARN               "Erfahren Sie mehr"
     IDS_ADV_CONSOLE             "Konsole aktivieren"
     IDS_ADV_MEMCHECK            "Speicherlecks löschen"
     IDS_ADV_AUTOHIDE            "Doppelklicken Sie auf die Taskleiste, um das automatische Ausblenden zu aktivieren (funktioniert nur, wenn sie gesperrt ist)."
@@ -420,11 +420,11 @@ BEGIN
     IDS_ABOUT_PROJECT           "Dieses Projekt verbessert die Arbeitsumgebung unter Windows."
     IDS_ABOUT_AUTHOR            "Stolz entwickelt von Valentin-Gabriel Radu."
     IDS_ABOUT_OS                "Läuft unter %s, BS-Build %d.%d."
-    IDS_ABOUT_GITHUB            "Besuchen Sie das Projekt auf GitHub (auf Englisch)"
-    IDS_ABOUT_WEBSITE           "Besuchen sie die Website (auf Englisch)"
-    IDS_ABOUT_DONATE            "Spenden (auf Englisch)"
+    IDS_ABOUT_GITHUB            "Besuchen Sie das Projekt auf GitHub"
+    IDS_ABOUT_WEBSITE           "Besuchen sie die Website"
+    IDS_ABOUT_DONATE            "Spenden"
     IDS_ABOUT_FAQ               "Häufig gestellte Fragen"
-    IDS_ABOUT_SETTINGS          "Erfahren Sie mehr über die Verwaltung dieser Einstellungen (auf Englisch)"
+    IDS_ABOUT_SETTINGS          "Erfahren Sie mehr über die Verwaltung dieser Einstellungen"
     IDS_ABOUT_IMPORT            "Einstellungen importieren"
     IDS_ABOUT_EXPORT            "Aktuelle Einstellungen exportieren"
     IDS_ABOUT_EXPORT_SUCCESS    "Die Einstellungen wurden erfolgreich exportiert."
