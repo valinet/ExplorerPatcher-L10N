@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_KOREAN, SUBLANG_KOREAN
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "이 PC에서 ExplorerPatcher를 제거하시겠어요?"
+    IDS_SETUP_INSTALL_LOGOFF    "설치하려면 Windows에서 자동으로 로그아웃해야 합니다. 다시 로그인하면 ExplorerPatcher를 사용할 수 있습니다.\n\n계속할까요?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "제거를 완료하려면 Windows에서 자동으로 로그아웃해야 합니다.\n\n계속할까요?"
+    IDS_SETUP_UNINSTALL_RESTART "제거를 완료하려면 PC를 다시 시작해주세요.\n\n지금 다시 시작할까요?"
+    IDS_SETUP_UNINSTALL_FINISH  "제거가 완료되었습니다. ExplorerPatcher를 사용해주셔서 감사합니다."
+    IDS_SETUP_FAILED            "ExplorerPatcher를 서비스하는 동안 오류가 발생했습니다. \n이전 업데이트에서의 하나 이상의 백업 파일이 아직 사용 중이기 때문에 발생했을 수 있습니다. 파일을 잠금 해제하면 이 문제가 해결됩니다.\n\n문제 해결 단계: \n• ""속성"" 대화 상자가 현재 열려 있다면 닫고 다시 여세요.\n• 모든 ""explorer.exe"" 프로세스를 끝내고 다시 시작하세요.\n• ExplorerPatcher를 셸 확장으로 등록한 경우 PC를 다시 시작하면 이 문제가 해결될 수 있습니다.\n• 마지막으로 PC를 다시 시작한 후 다시 시도해보세요."
+END
