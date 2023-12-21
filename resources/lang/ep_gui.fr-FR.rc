@@ -20,15 +20,14 @@ BEGIN
     IDS_UPDATES_INSTALLEDVER    "Version installée : %d.%d.%d.%d"
     IDS_UPDATES_PROMPT          "Souhaitez-vous installer une mise à jour pour ExplorerPatcher ?\n\nTéléchargé depuis :\n%s"
 
-    IDS_SYM_DL_T                "Téléchargement des symboles pour la version %s du système d'exploitation, veuillez patienter…"
+    IDS_SYM_DL_T                "Téléchargement des symboles pour la version %s du système, veuillez patienter…"
     IDS_SYM_DL_B                "Cela peut prendre plusieurs minutes. Pour le moment, ExplorerPatcher peut avoir des fonctionnalités limitées et/ou défectueuses. Cliquez ici pour en savoir plus sur les symboles."
-    IDS_SYM_SUCCESS_T           "Téléchargement réussi des symboles pour la version %s du système d'exploitation"
+    IDS_SYM_SUCCESS_T           "Téléchargement réussi des symboles pour la version %s du système"
     IDS_SYM_SUCCESS_B           "Veuillez redémarrer l'Explorateur de fichiers pour restaurer une fonctionnalité normale."
-    IDS_SYM_FAILEDSOME_T        "Certains symboles ont été téléchargés pour la version %s du système d'exploitation"
+    IDS_SYM_FAILEDSOME_T        "Certains symboles ont été téléchargés pour la version %s du système"
     IDS_SYM_FAILEDSOME_B        "Certains autres symboles n'ont pas pu être téléchargés. Cela peut être dû à la récence de la version actuelle du système d'exploitation ou à une connexion Internet instable."
-    IDS_SYM_FAILEDALL_T         "Échec du téléchargement des symboles pour la version %s du système d'exploitation"
+    IDS_SYM_FAILEDALL_T         "Échec du téléchargement des symboles pour la version %s du système"
     IDS_SYM_FAILEDALL_B         "Aucun symbole n'a pu être téléchargé pour cette version. Cela peut être dû au fait que la version actuelle du système d'exploitation est trop récente ou que la connexion Internet est indisponible ou instable."
-
 
     IDS_CRASH_TITLE             "Malheureusement, l'Explorateur de fichiers a cessé de fonctionner :("
     IDS_CRASH_BODY              "Il semble que l'Explorateur de fichiers se soit fermé de manière inattendue %1$s en moins de %2$d secondes à chaque démarrage. Cela pourrait indiquer un problème causé par ExplorerPatcher, qui pourrait ne pas être conscient des changements récents dans Windows, par exemple lors de l'exécution sur une nouvelle version du système d'exploitation.\nVoici quelques recommandations :\n• Si une version mise à jour est disponible, vous pouvez <A HREF=""%3$s"">mettre à jour ExplorerPatcher et redémarrer l'Explorateur de fichiers</A>.\n• Sur GitHub, vous pouvez <A HREF=""%4$s"">voir les versions</A>, <A HREF=""%5$s"">vérifier l'état actuel</A>, <A HREF=""%6$s"">discuter</A> ou <A HREF=""%7$s"">examiner les derniers problèmes</A>.\n• Si vous soupçonnez que cela n'est pas causé par ExplorerPatcher, veuillez désinstaller toutes les extensions de shell récemment installées ou des utilitaires similaires.\n• Si aucune solution n'est disponible pour le moment, vous pouvez <A HREF=""%8$s"">désinstaller ExplorerPatcher</A>, puis le réinstaller ultérieurement lorsque la correction est publiée sur GitHub. Rassurez-vous que même si vous désinstallez, votre configuration du programme sera préservée.\n\nJe suis désolé pour les désagréments que cela pourrait causer ; je fais de mon mieux pour essayer de maintenir ce programme à jour et fonctionnel.\n\nExplorerPatcher est désactivé jusqu'au prochain redémarrage de l'Explorateur de fichiers, afin de vous permettre d'effectuer des tâches de maintenance et de prendre les actions nécessaires."
