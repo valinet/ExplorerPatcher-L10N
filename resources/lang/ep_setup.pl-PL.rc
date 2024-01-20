@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_POLISH, SUBLANG_POLISH
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Na pewno chcesz usunąć ExplorerPatcher z Twojego komputera?"
+    IDS_SETUP_INSTALL_LOGOFF    "Aby poprawnie zainstalować, zostanie automatycznie wylogowany z Windows. ExplorerPatcher będzie gotowy do użycia po zalogowaniu.\n\nChcesz kontynuować?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Aby zakończyć deinstalację, zostaniesz automatycznie wylogowany z Windows.\n\nChcesz kontynuować?"
+    IDS_SETUP_UNINSTALL_RESTART "Aby poprawnie odinstalować program, należy ponownie uruchomić komputer.\n\nChcesz go zrestartować teraz?"
+    IDS_SETUP_UNINSTALL_FINISH  "Deinstalacja zakończona. Dziękujemy za używanie ExplorerPatcher."
+    IDS_SETUP_FAILED            "Wystąpił błąd podczas obsługi programu ExplorerPatcher.\nNajprawdopodobniej jest to spowodowane tym, że jeden lub więcej plików kopii zapasowych z poprzedniej aktualizacji jest nadal w użyciu. Odblokowanie plików powinno naprawić ten problem.\nKroki rozwiązywania problemów:\n• Zamknij i otwórz okno ""Właściwości"", jeżeli jest aktualnie otwarte.\n• Zamknij i uruchom ponownie wszystkie procesy ""explorer.exe"".\n• Jeżeli zarejestrowałeś ExplorerPatcher jako rozszerzenie powłoki, ponowne uruchomienie komputera powinno rozwiązać ten problem.\n• Na koniec uruchom ponownie komputer i spróbuj jeszcze raz."
+END
