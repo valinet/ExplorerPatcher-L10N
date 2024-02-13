@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "工作列樣式"
     IDS_TB_STYLE_0              "Windows 11 (預設)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "「設定」中的工作列"
     IDS_TB_CUSTOMIZETRAYICONS   "管理軟體通知區域圖示"
     IDS_TB_CUSTOMIZESYSTEMICONS "管理系統通知區域圖示"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "工作列圖示大小"
     IDS_TB_ICONSIZE_1           "小"
     IDS_TB_ICONSIZE_0           "大 (預設)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "系統通知區域"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "匯出設定"
     IDS_ABOUT_EXPORT_SUCCESS    "設定匯出完成。"
     IDS_ABOUT_RESET             "復原預設設定"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "重新啟動檔案總管"
 END

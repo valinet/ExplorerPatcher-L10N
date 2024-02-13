@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "任务栏风格"
     IDS_TB_STYLE_0              "Windows 11 (默认)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "设置 - 任务栏选项"
     IDS_TB_CUSTOMIZETRAYICONS   "管理软件托盘图标"
     IDS_TB_CUSTOMIZESYSTEMICONS "管理系统托盘图标"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "任务栏图标大小"
     IDS_TB_ICONSIZE_1           "小"
     IDS_TB_ICONSIZE_0           "大(默认)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "托盘菜单"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "导出设置"
     IDS_ABOUT_EXPORT_SUCCESS    "设置导出完成。"
     IDS_ABOUT_RESET             "恢复默认设置"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "重启文件管理器"
 END

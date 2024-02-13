@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "タスク バーのスタイル"
     IDS_TB_STYLE_0              "Windows 11 (既定)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "設定アプリ内のタスク バーの設定"
     IDS_TB_CUSTOMIZETRAYICONS   "通知領域のアイコンをカスタマイズ"
     IDS_TB_CUSTOMIZESYSTEMICONS "通知領域のシステム アイコンをカスタマイズ"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "タスク バーのアイコン サイズ"
     IDS_TB_ICONSIZE_1           "小"
     IDS_TB_ICONSIZE_0           "大 (既定)"
+    IDS_TB_ALTIMPL_NOTICE       "ExplorerPatcher のタスク バーの実装に関する重要なお知らせ (オンライン)"
 
     IDS_TRAY                    "システム トレイ"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "現在の設定をエクスポート"
     IDS_ABOUT_EXPORT_SUCCESS    "設定のエクスポートに成功しました。"
     IDS_ABOUT_RESET             "既定の設定を復元"
+
+    IDS_UNINSTALL               "アンインストール"
+    IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher をアンインストール"
 
     IDS_FOOTER_RESTART          "エクスプローラーを再起動"
 END
