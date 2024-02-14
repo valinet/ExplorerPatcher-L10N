@@ -1,4 +1,4 @@
-﻿#include "resources/resource.h"
+#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_POLISH, SUBLANG_POLISH
@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Styl paska zadań"
     IDS_TB_STYLE_0              "Windows 11 (domyślnie)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Więcej opcji paska zadań w aplikacji Ustawienia"
     IDS_TB_CUSTOMIZETRAYICONS   "Dostosuj ikony obszaru powiadomień"
     IDS_TB_CUSTOMIZESYSTEMICONS "Dostosuj ikony systemowe w obszarze powiadomień"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Wielkość ikon na pasku zadań"
     IDS_TB_ICONSIZE_1           "Małe"
     IDS_TB_ICONSIZE_0           "Duże (domyślnie)"
+    IDS_TB_ALTIMPL_NOTICE       "Ważna informacja dotycząca implementacji paska zadań ExplorerPatcher (online)"
 
     IDS_TRAY                    "Zasobnik systemowy"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Eksportuj bieżące ustawienia"
     IDS_ABOUT_EXPORT_SUCCESS    "Ustawienia zostały wyeksportowane prawidłowo."
     IDS_ABOUT_RESET             "Przywróć ustawienia domyślne"
+
+    IDS_UNINSTALL               "Odinstaluj"
+    IDS_UNINSTALL_UNINSTALL     "Odinstaluj ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Zrestartuj Eksplorator plików"
 END
