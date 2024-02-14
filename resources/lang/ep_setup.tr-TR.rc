@@ -1,0 +1,14 @@
+#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_TURKISH, SUBLANG_TURKISH_TURKEY
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "ExplorerPatcher'i bilgisayarınızdan kaldırmak istediğinizden emin misiniz?"
+    IDS_SETUP_INSTALL_LOGOFF    "Yüklemek için Windows oturumunuz otomatik olarak kapatılacaktır. Tekrar oturum açtığınızda ExplorerPatcher kullanıma hazır olacak.\n\nDevam etmek istiyor musunuz?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Kaldırma işlemini tamamlamak için Windows oturumunuz otomatik olarak kapatılacaktır.\n\Devam etmek istiyor musunuz?"
+    IDS_SETUP_UNINSTALL_RESTART "Kaldırma işlemini tamamlamak için lütfen bilgisayarı yeniden başlatın.\n\nŞimdi yeniden başlatmak istiyor musunuz?"
+    IDS_SETUP_UNINSTALL_FINISH  "Kaldırma işlemi tamamlandı. ExplorerPatcher'i kullandığınız için teşekkürler."
+    IDS_SETUP_FAILED            "ExplorerPatcher'a hizmet verirken bir hata oluştu.\nBu büyük ihtimalle önceki güncellemedeki bir veya daha fazla yedekleme dosyasının hâlâ kullanımda olmasından kaynaklanıyor. Dosyaların kilidinin açılması bu sorunu çözecektir.\n\nSorun giderme adımları:\n• Şu anda açıksa ""Özellikler"" iletişim kutusunu kapatıp yeniden açın.\n• Tüm ""explorer.exe"" işlemlerini sonlandırın ve yeniden başlatın.\ n• ExplorerPatcher'ı kabuk uzantısı (shell) olarak kaydettiyseniz, bilgisayarı yeniden başlatmak muhtemelen sorunu çözecektir.\n• Son olarak, bilgisayarı yeniden başlatın ve tekrar deneyin."
+END
