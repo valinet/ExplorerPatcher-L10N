@@ -1,4 +1,4 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_RUSSIAN, SUBLANG_RUSSIAN_RUSSIA
@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Стиль Панели задач"
     IDS_TB_STYLE_0              "Windows 11 (по умолчанию)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Больше настроек панели задач в Параметры ПК"
     IDS_TB_CUSTOMIZETRAYICONS   "Настроить Значки области уведомлений"
     IDS_TB_CUSTOMIZESYSTEMICONS "Настроить системные значки панели уведомлений"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Размер значков панели задач"
     IDS_TB_ICONSIZE_1           "Маленький"
     IDS_TB_ICONSIZE_0           "Большой (по умолчанию)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "Трей"
 
@@ -128,8 +130,8 @@ BEGIN
 
     IDS_EXP                     "Проводник"
 
-    IDS_EXP_SHEXT_L1            "Для корректной работы настроек, помеченных (**), в диалогах Открыть или Сохранить файл, зарегистрируйте"
-    IDS_EXP_SHEXT_L2            "эту утилиту, как расширение оболочки, используя настройку ниже."
+    IDS_EXP_SHEXT_L1            "Для корректной работы настроек, помеченных (**), в диалогах Открыть или Сохранить файл,"
+    IDS_EXP_SHEXT_L2            "зарегистрируйте эту утилиту, как расширение оболочки, используя настройку ниже."
     IDS_EXP_SHEXT_LEARN         "Узнать больше"
     IDS_EXP_SHEXT_REGISTER      "Зарегистрировать, как расширение оболочки"
     IDS_EXP_DISABLECTXMENU      "Отключить контекстное меню Windows 11"
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Экспортировать текущие настройки"
     IDS_ABOUT_EXPORT_SUCCESS    "Настройки успешно экспортированы."
     IDS_ABOUT_RESET             "Восстановить настройки по умолчанию"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Перезапустить Проводник"
 END
