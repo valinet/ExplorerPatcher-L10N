@@ -1,7 +1,7 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_POLISH, SUBLANG_POLISH
+LANGUAGE LANG_POLISH, SUBLANG_POLISH_POLAND
 
 STRINGTABLE
 BEGIN
@@ -99,7 +99,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_2   "Ukryty"
     IDS_TRAY_SKINICONS          "Zastosuj styl Windows 11 do ikon zasobnika"
     IDS_TRAY_REPLACENETWORK_L1  "Wybranie 'Otwórz ustawienia sieci i internetu' prawym klawiszem myszy"
-    IDS_TRAY_REPLACENETWORK_L2  "na ikonie sieci powinno otworzyć:"
+    IDS_TRAY_REPLACENETWORK_L2  "na ikonie sieci powinno otworzyć"
     IDS_TRAY_REPLACENETWORK_0   "Sekcję 'Sieć i internet' w aplikacji Ustawienia (domyślnie)"
     IDS_TRAY_REPLACENETWORK_1   "Centrum sieci i udostępniania w Panelu sterowania"
     IDS_TRAY_REPLACENETWORK_2   "Połączenia sieciowe w Panelu sterowania"
