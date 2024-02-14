@@ -83,7 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "工作列圖示大小"
     IDS_TB_ICONSIZE_1           "小"
     IDS_TB_ICONSIZE_0           "大 (預設)"
-    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
+    IDS_TB_ALTIMPL_NOTICE       "關於 ExplorerPatcher 工作列實現的重要通知(網頁)"
 
     IDS_TRAY                    "系統通知區域"
 
@@ -432,8 +432,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "設定匯出完成。"
     IDS_ABOUT_RESET             "復原預設設定"
 
-    IDS_UNINSTALL               "Uninstall"
-    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
+    IDS_UNINSTALL               "解除安裝"
+    IDS_UNINSTALL_UNINSTALL     "解除安裝 ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "重新啟動檔案總管"
 END
