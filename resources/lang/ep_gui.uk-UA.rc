@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Стиль панелі завдань"
     IDS_TB_STYLE_0              "Windows 11 (системний)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Більше налаштувань (система)"
     IDS_TB_CUSTOMIZETRAYICONS   "Налаштувати піктограми області сповіщень"
     IDS_TB_CUSTOMIZESYSTEMICONS "Налаштувати системні піктограми області сповіщень"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Розмір піктограм"
     IDS_TB_ICONSIZE_1           "Малий"
     IDS_TB_ICONSIZE_0           "Великий (системний)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "Трей"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Зберегти поточні налаштування"
     IDS_ABOUT_EXPORT_SUCCESS    "Налаштування успішно збережені."
     IDS_ABOUT_RESET             "Відновити налаштування за замовчуванням"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Перезавантажити Провідник"
 END

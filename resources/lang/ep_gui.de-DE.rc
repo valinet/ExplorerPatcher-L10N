@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Taskleistenstil"
     IDS_TB_STYLE_0              "Windows 11 (Standard)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Weitere Taskleistenoptionen in der Einstellungen-App"
     IDS_TB_CUSTOMIZETRAYICONS   "Benachrichtigungsbereichssymbole anpassen"
     IDS_TB_CUSTOMIZESYSTEMICONS "Anpassen der Systemsymbole im Benachrichtigungsbereich"
@@ -68,9 +69,9 @@ BEGIN
     IDS_TB_PRIMARYTBALIGN       "Primäre Ausrichtung der Taskleiste"
     IDS_TB_TBALIGN_0            "Am Bildschirmrand (Standard)"
     IDS_TB_TBALIGN_1            "Zentriert"
-    IDS_TB_TBALIGN_5            "Zentriert, am Bildschirmrand, wenn es voll ist"
+    IDS_TB_TBALIGN_5            "Zentriert, am Bildschirmrand, wenn sie voll ist"
     IDS_TB_TBALIGN_3            "Zentriert mit Start-Taste"
-    IDS_TB_TBALIGN_7            "Zentriert mit der Starttaste, am Bildschirmrand, wenn es voll ist"
+    IDS_TB_TBALIGN_7            "Zentriert mit der Starttaste, am Bildschirmrand, wenn sie voll ist"
     IDS_TB_SECONDARYTBALIGN     "Ausrichtung der sekundären Taskleiste(n)"
     IDS_TB_PRIMARYTBGLOM        "Kombinierung der Taskleistensymbole in der primären Taskleiste"
     IDS_TB_GLOM_0_D             "Immer kombinieren (Standard)"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Größe der Taskleistensymbole"
     IDS_TB_ICONSIZE_1           "Klein"
     IDS_TB_ICONSIZE_0           "Groß (Standard)"
+    IDS_TB_ALTIMPL_NOTICE       "Wichtiger Hinweis zur Taskleisten-Implementierung von ExplorerPatcher (online)"
 
     IDS_TRAY                    "Systemablage"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Aktuelle Einstellungen exportieren"
     IDS_ABOUT_EXPORT_SUCCESS    "Die Einstellungen wurden erfolgreich exportiert."
     IDS_ABOUT_RESET             "Standardeinstellungen wiederherstellen"
+
+    IDS_UNINSTALL               "Deinstallieren"
+    IDS_UNINSTALL_UNINSTALL     "Deinstalliere ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Explorer neustarten"
 END
