@@ -1,4 +1,4 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_FRENCH, SUBLANG_FRENCH
@@ -41,6 +41,7 @@ BEGIN
     IDS_TB_STYLE                "Style de la barre des tâches"
     IDS_TB_STYLE_0              "Windows 11 (par défaut)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Plus d'options de la barre des tâches dans l'application MS-Paramètres"
     IDS_TB_CUSTOMIZETRAYICONS   "Personnaliser les icônes de la zone de notification"
     IDS_TB_CUSTOMIZESYSTEMICONS "Personnaliser les icônes système dans la zone de notification"
@@ -83,6 +84,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Taille des icônes de la barre des tâches"
     IDS_TB_ICONSIZE_1           "Petite"
     IDS_TB_ICONSIZE_0           "Grande (par défaut)"
+    IDS_TB_ALTIMPL_NOTICE       "Avis important concernant l'implémentation de la barre des tâches d'ExplorerPatcher (en ligne)"
 
     IDS_TRAY                    "Zone de notifications"
 
@@ -260,7 +262,7 @@ BEGIN
 
     IDS_WEATHER_SHOW            "Afficher la météo dans la barre des tâches"
     IDS_WEATHER_LOC             "Emplacement"
-    IDS_WEATHER_LOC_PROMPT      "Rechercher la ville ou le code postal : \nLe programme recherche la météo de *l'endroit que vous avez tapé* sur Google. \nLaisser vide pour la valeur par défaut (votre emplacement actuel)."
+    IDS_WEATHER_LOC_PROMPT      "Rechercher la ville ou le code postal : Le programme recherche la météo de *l'endroit que vous avez tapé* sur Google. Laisser vide pour la valeur par défaut (votre emplacement actuel)."
     IDS_WEATHER_LOC_DEFAULT     "Emplacement actuel (par défaut)"
     IDS_WEATHER_LAYOUT          "Disposition"
     IDS_WEATHER_LAYOUT_0        "Icône et description (par défaut)"
@@ -287,7 +289,7 @@ BEGIN
     IDS_WEATHER_TEMPUNIT_0      "Celsius (par défaut)"
     IDS_WEATHER_TEMPUNIT_1      "Fahrenheit"
     IDS_WEATHER_LANG            "Langue"
-    IDS_WEATHER_LANG_PROMPT     "Tapez le code court de la langue dans laquelle vous souhaitez afficher les données météo. \nPar exemple, essayez ""fr"", ""en"", ""ro"", ""de"", etc. \nLaissez vide pour la valeur par défaut (langue de MS-Windows)."
+    IDS_WEATHER_LANG_PROMPT     "Tapez le code court de la langue dans laquelle vous souhaitez afficher les données météo. Par exemple, essayez ""fr"", ""en"", ""ro"", ""de"", etc. Laissez vide pour la valeur par défaut (langue de Windows)."
     IDS_WEATHER_LANG_DEFAULT    "Langue du système (par défaut)"
     IDS_WEATHER_COLORSCHEME     "Schéma de couleurs"
     IDS_WEATHER_COLORSCHEME_0   "Suivre les paramètres du système (par défaut)"
@@ -430,6 +432,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Exporter les paramètres actuels"
     IDS_ABOUT_EXPORT_SUCCESS    "Les paramètres ont été exportés avec succès."
     IDS_ABOUT_RESET             "Restaurer les paramètres par défaut"
+
+    IDS_UNINSTALL               "Désinstaller"
+    IDS_UNINSTALL_UNINSTALL     "Désinstaller ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Redémarrer l'Explorateur Windows"
 END
