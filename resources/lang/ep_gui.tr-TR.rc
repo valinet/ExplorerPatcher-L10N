@@ -1,7 +1,7 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_TURKISH, SUBLANG_TURKISH
+LANGUAGE LANG_TURKISH, SUBLANG_TURKISH_TURKEY
 
 STRINGTABLE
 BEGIN
@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Görev Çubuğu stili"
     IDS_TB_STYLE_0              "Windows 11 (varsayılan)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Ayarlar uygulamasında daha fazla Görev Çubuğu ayarı"
     IDS_TB_CUSTOMIZETRAYICONS   "Bildirim sekmesindeki simgeleri özelleştir"
     IDS_TB_CUSTOMIZESYSTEMICONS "Bildirim sekmesindeki sistem simgelerini özelleştir"
@@ -70,7 +71,7 @@ BEGIN
     IDS_TB_TBALIGN_1            "Merkezlenmiş"
     IDS_TB_TBALIGN_5            "Merkezlenmiş, doluysa ekranın kenarında"
     IDS_TB_TBALIGN_3            "Başlat tuşuyla merkezlenmiş"
-    IDS_TB_TBALIGN_7            "Başlat tuşuyla merkezlenmiş, doluysa ekranın kenarında
+    IDS_TB_TBALIGN_7            "Başlat tuşuyla merkezlenmiş, doluysa ekranın kenarında"
     IDS_TB_SECONDARYTBALIGN     "İkincil görev çubuğu/çubukları hizalaması"
     IDS_TB_PRIMARYTBGLOM        "Birincil Görev Çubuğu'nda simgelerini grupla"
     IDS_TB_GLOM_0_D             "Her zaman grupla (varsayılan)"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Görev çubuğu simge boyutu"
     IDS_TB_ICONSIZE_1           "Küçük"
     IDS_TB_ICONSIZE_0           "Büyük (varsayılan)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "Sistem Tepsisi"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Ayarları dışa aktar"
     IDS_ABOUT_EXPORT_SUCCESS    "Ayarlar başarıyla dışa aktarıldı"
     IDS_ABOUT_RESET             "Ayarları varsayılan duruma geri getir"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Dosya Gezgini'ni yeniden başlat"
 END
