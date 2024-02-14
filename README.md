@@ -38,7 +38,7 @@ We would like to thank the following people for their contributions in translati
 | Chinese (Traditional) | @snowlinouo, @Corporation001                    |
 | Dutch                 | @GewoonIraj                                     |
 | French                | @corentios                                      |
-| German                | @lukinator01                                    |
+| German                | @lukinator01, @NotOfficer                       |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |

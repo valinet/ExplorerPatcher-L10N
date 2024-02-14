@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "작업 표시줄 스타일"
     IDS_TB_STYLE_0              "Windows 11(기본값)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "[설정] 앱의 더 많은 작업 표시줄 옵션"
     IDS_TB_CUSTOMIZETRAYICONS   "알림 영역 아이콘 사용자 지정"
     IDS_TB_CUSTOMIZESYSTEMICONS "알림 영역의 시스템 아이콘 사용자 지정"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "작업 표시줄 아이콘 크기"
     IDS_TB_ICONSIZE_1           "작게"
     IDS_TB_ICONSIZE_0           "크게(기본값)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "시스템 트레이"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "현재 설정 내보내기"
     IDS_ABOUT_EXPORT_SUCCESS    "설정을 성공적으로 내보냈습니다."
     IDS_ABOUT_RESET             "기본값 설정 복원"
+
+    IDS_UNINSTALL               "제거"
+    IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher 제거"
 
     IDS_FOOTER_RESTART          "[파일 탐색기] 다시 시작"
 END

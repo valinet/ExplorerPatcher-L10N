@@ -40,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Gaya taskbar"
     IDS_TB_STYLE_0              "Windows 11 (default)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Pengaturan taskbar lainnya di aplikasi Pengaturan"
     IDS_TB_CUSTOMIZETRAYICONS   "Sesuaikan ikon area pemberitahuan"
     IDS_TB_CUSTOMIZESYSTEMICONS "Aktifkan atau nonaktifkan ikon sistem"
@@ -82,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Ukuran tombol taskbar"
     IDS_TB_ICONSIZE_1           "Kecil"
     IDS_TB_ICONSIZE_0           "Besar (default)"
+    IDS_TB_ALTIMPL_NOTICE       "Pemberitahuan penting mengenai implementasi taskbar ExplorerPatcher (online)"
 
     IDS_TRAY                    "Baki sistem"
 
@@ -429,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Ekspor pengaturan saat ini"
     IDS_ABOUT_EXPORT_SUCCESS    "Pengaturan berhasil diekspor."
     IDS_ABOUT_RESET             "Atur ulang pengaturan ke default"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Mulai ulang File Explorer"
 END

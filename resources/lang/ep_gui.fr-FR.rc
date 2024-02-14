@@ -31,7 +31,6 @@ BEGIN
 
     IDS_CRASH_TITLE             "Malheureusement, l'Explorateur de fichiers a cessé de fonctionner :("
     IDS_CRASH_BODY              "Il semble que l'Explorateur de fichiers se soit fermé de manière inattendue %1$s en moins de %2$d secondes à chaque démarrage. Cela pourrait indiquer un problème causé par ExplorerPatcher, qui pourrait ne pas être conscient des changements récents dans Windows, par exemple lors de l'exécution sur une nouvelle version du système d'exploitation.\nVoici quelques recommandations :\n• Si une version mise à jour est disponible, vous pouvez <A HREF=""%3$s"">mettre à jour ExplorerPatcher et redémarrer l'Explorateur de fichiers</A>.\n• Sur GitHub, vous pouvez <A HREF=""%4$s"">voir les versions</A>, <A HREF=""%5$s"">vérifier l'état actuel</A>, <A HREF=""%6$s"">discuter</A> ou <A HREF=""%7$s"">examiner les derniers problèmes</A>.\n• Si vous soupçonnez que cela n'est pas causé par ExplorerPatcher, veuillez désinstaller toutes les extensions de shell récemment installées ou des utilitaires similaires.\n• Si aucune solution n'est disponible pour le moment, vous pouvez <A HREF=""%8$s"">désinstaller ExplorerPatcher</A>, puis le réinstaller ultérieurement lorsque la correction est publiée sur GitHub. Rassurez-vous que même si vous désinstallez, votre configuration du programme sera préservée.\n\nJe suis désolé pour les désagréments que cela pourrait causer ; je fais de mon mieux pour essayer de maintenir ce programme à jour et fonctionnel.\n\nExplorerPatcher est désactivé jusqu'au prochain redémarrage de l'Explorateur de fichiers, afin de vous permettre d'effectuer des tâches de maintenance et de prendre les actions nécessaires."
-
     IDS_CRASH_ONCE              "une fois"
     IDS_CRASH_MULTIPLE          "%d fois"
     IDS_CRASH_DISMISS           "Ignorer"
@@ -41,6 +40,7 @@ BEGIN
     IDS_TB_STYLE                "Style de la barre des tâches"
     IDS_TB_STYLE_0              "Windows 11 (par défaut)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
     IDS_TB_MORE                 "Plus d'options de la barre des tâches dans l'application Paramètres"
     IDS_TB_CUSTOMIZETRAYICONS   "Personnaliser les icônes de la zone de notification"
     IDS_TB_CUSTOMIZESYSTEMICONS "Personnaliser les icônes système dans la zone de notification"
@@ -83,6 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Taille des icônes de la barre des tâches"
     IDS_TB_ICONSIZE_1           "Petite"
     IDS_TB_ICONSIZE_0           "Grande (par défaut)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "Zone de noti. système"
 
@@ -430,6 +431,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Exporter les paramètres actuels"
     IDS_ABOUT_EXPORT_SUCCESS    "Les paramètres ont été exportés avec succès."
     IDS_ABOUT_RESET             "Restaurer les paramètres par défaut"
+
+    IDS_UNINSTALL               "Désinstaller"
+    IDS_UNINSTALL_UNINSTALL     "Désinstaller ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Redémarrer l'Explorateur de fichiers"
 END
