@@ -83,7 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Görev çubuğu simge boyutu"
     IDS_TB_ICONSIZE_1           "Küçük"
     IDS_TB_ICONSIZE_0           "Büyük (varsayılan)"
-    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
+    IDS_TB_ALTIMPL_NOTICE       "ExplorerPatcher'in Görev Çubuğu geliştirmesine ilişkin önemli bildirim (çevrimiçi)"
 
     IDS_TRAY                    "Sistem Tepsisi"
 
@@ -197,7 +197,7 @@ BEGIN
     IDS_START_APPLIST_0         "Görünsün"
     IDS_START_APPLIST_3         "Sakla"
     IDS_START_APPLIST_1         "Devredışı"
-    IDS_START_NOTICE            "ÖNEMLİ, MUTLAKA OKUYUN: Bu özelliğe ilişkin tebliğ (çevrimiçi)"
+    IDS_START_NOTICE            "ÖNEMLİ, MUTLAKA OKUYUN: Bu özelliğe ilişkin bildirim (çevrimiçi)"
     IDS_START_WIN10_NOTICE      "Bazı ayarlar eski Windows 10 sürümlerinde mevcut olmayabilir."
 
     IDS_AT                      "Pencere Değiştirici"
@@ -432,8 +432,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Ayarlar başarıyla dışa aktarıldı"
     IDS_ABOUT_RESET             "Ayarları varsayılan duruma geri getir"
 
-    IDS_UNINSTALL               "Uninstall"
-    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
+    IDS_UNINSTALL               "Kaldır"
+    IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher'i kaldır"
 
     IDS_FOOTER_RESTART          "Dosya Gezgini'ni yeniden başlat"
 END
