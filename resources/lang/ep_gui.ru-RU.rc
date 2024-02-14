@@ -83,7 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Размер значков панели задач"
     IDS_TB_ICONSIZE_1           "Маленький"
     IDS_TB_ICONSIZE_0           "Большой (по умолчанию)"
-    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
+    IDS_TB_ALTIMPL_NOTICE       "Важное уведомление по поводу панели задач в ExplorerPatcher'е (онлайн)"
 
     IDS_TRAY                    "Трей"
 
@@ -103,13 +103,13 @@ BEGIN
     IDS_TRAY_REPLACENETWORK_0   "Раздел Сеть в приложении Параметры ПК (по умолчанию)"
     IDS_TRAY_REPLACENETWORK_1   "Центр управления сетями и общим доступом в Панели управления"
     IDS_TRAY_REPLACENETWORK_2   "Сетевые подключения в Панели управления"
-    IDS_TRAY_SYSICONBEHAVIOR    "When clicking a system icon in the system tray, open:"
+    IDS_TRAY_SYSICONBEHAVIOR    "При нажатии на системную иконку в области уведомлений открыть:"
     IDS_TRAY_NETWORK            "Сеть"
     IDS_TRAY_NETWORK_6          "Параметры ПК"
     IDS_TRAY_NETWORK_5          "Стиль Windows 11 WiFi"
     IDS_TRAY_NETWORK_0          "Стиль Windows 10 (по умолчанию)"
     IDS_TRAY_NETWORK_2          "Стиль Windows 8"
-    IDS_TRAY_NETWORK_1          "Network section in the Settings app"
+    IDS_TRAY_NETWORK_1          "Раздел ""Сеть и интернет"" в приложении настроек"
     IDS_TRAY_SOUND              "Звук"
     IDS_TRAY_SOUND_1            "Стиль Windows 10 (по умолчанию)"
     IDS_TRAY_SOUND_0            "Стиль Windows 7"
@@ -432,8 +432,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Настройки успешно экспортированы."
     IDS_ABOUT_RESET             "Восстановить настройки по умолчанию"
 
-    IDS_UNINSTALL               "Uninstall"
-    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
+    IDS_UNINSTALL               "Удалить"
+    IDS_UNINSTALL_UNINSTALL     "Удалить ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Перезапустить Проводник"
 END
