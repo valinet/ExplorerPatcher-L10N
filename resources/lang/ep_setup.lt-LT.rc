@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_LITHUANIAN, SUBLANG_LITHUANIAN
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Ar tikrai norite pašalinti ExplorerPatcher iš jūsų kompiuterio?"
+    IDS_SETUP_INSTALL_LOGOFF    "Kad programa būtų sėkmingai įdiegta, būsite automatiškai atjungti iš Windows paskyros. ExplorerPatcher bus paruoštas naudojimui kai prisijungsite iš naujo.\n\nAr norite tęsti?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Kad programa būtų sėkmingai pašalinta, būsite automatiškai atjungti iš Windows paskyros.\n\nAr norite tęsti?"
+    IDS_SETUP_UNINSTALL_RESTART "Paleiskite kompiuterį iš naujo, kad šalinimas būtų užbaigtas.\n\nAr norite jį paleisti iš naujo dabar?"
+    IDS_SETUP_UNINSTALL_FINISH  "Šalinimas baigtas. Ačiū, kad naudojote ExplorerPatcher."
+    IDS_SETUP_FAILED            "Įvyko klaida diegiant ExplorerPatcher.\nTai tikriausiai įvyko dėl atsarginių failų iš praėjusių programos versijų nesustabdyto naudojimo. Atrakinus failus ši problema turėtų išsispręsti.\n\nNesklandumų šalinimo veiksmai:\n• Uždarykite ir vėl atidarykite ""Properties"" dialogą, jei jis šiuo metu atvertas.\n• Užbaikite ir paleiskite iš naujo visus ""explorer.exe"" procesus.\n• Jei užregistravote ExplorerPatcher kaip apvalkalo plėtinį, paleiskite kompiuterį iš naujo.\n• Galų gale, perkraukite kompiuterį iš naujo ir bandykite dar kartą."
+END

@@ -37,11 +37,15 @@ We would like to thank the following people for their contributions in translati
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Chinese (Traditional) | @snowlinouo, @Corporation001                    |
 | Dutch                 | @GewoonIraj                                     |
-| French                | @corentios                                      |
+| French                | @corentios, @Need74                             |
 | German                | @lukinator01, @NotOfficer                       |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
 | Korean                | @MuscularPuky                                   |
+| Lithuanian            | @Kass401                                        |
+| Polish                | @BestiaPL                                       |
 | Romanian              | @21124637                                       |
+| Russian               | @the-aLeXiS                                     |
+| Turkish               | @Akif9748                                       |
 | Ukrainian             | @AyzekUorren                                    |
