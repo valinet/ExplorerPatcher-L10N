@@ -83,7 +83,7 @@ BEGIN
     IDS_TB_ICONSIZE             "작업 표시줄 아이콘 크기"
     IDS_TB_ICONSIZE_1           "작게"
     IDS_TB_ICONSIZE_0           "크게(기본값)"
-    IDS_TB_ALTIMPL_NOTICE       "ExplorerPatcher의 작업 표시줄 구현에 따른 중요 공지(온라인)"
+    IDS_TB_ALTIMPL_NOTICE       "ExplorerPatcher의 작업 표시줄 구현에 관한 중요 공지(온라인)"
 
     IDS_TRAY                    "시스템 트레이"
 
