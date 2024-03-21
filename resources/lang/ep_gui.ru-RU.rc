@@ -98,7 +98,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_0   "Выключено"
     IDS_TRAY_SHOWDESKTOPBTN_2   "Скрыто"
     IDS_TRAY_SKINICONS          "Применить стиль Windows 11 к значкам в трее"
-    IDS_TRAY_OVERFLOWSTYLE      "Hidden icons popup style"
+    IDS_TRAY_OVERFLOWSTYLE      "Всплывающее окно со скрытыми иконками"
     IDS_TRAY_OVERFLOWSTYLE_0    "Windows 10 (по умолчанию)"
     IDS_TRAY_OVERFLOWSTYLE_1    "Windows 11"
     IDS_TRAY_REPLACENETWORK_L1  "Щелчок правой кнопкой по значку сети и выбор Открыть 'Параметры сети и Интернет'"
