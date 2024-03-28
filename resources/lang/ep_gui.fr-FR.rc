@@ -87,8 +87,8 @@ BEGIN
 
     IDS_TRAY                    "Zone de notifications"
 
-    IDS_TRAY_SKINMENUS          "Habillage des menus contextuels de la barre des tâches et de la zone de notifications"
-    IDS_TRAY_CENTERMENUS        "Centrer les menus contextuels des icônes de la zone de notification"
+    IDS_TRAY_SKINMENUS          "Agrandissement des menus contextuels de la barre des tâches et de la zone de notifications"
+    IDS_TRAY_CENTERMENUS        "Centrer les menus contextuels de la zone de notification"
     IDS_TRAY_FLYOUTMENUS        "Comportement du volet pour les menus contextuels des icônes de la zone de notifications"
     IDS_TRAY_TOUCHKB            "Afficher le bouton du clavier tactile"
     IDS_TRAY_SHOWSECONDS        "Afficher les secondes dans l'horloge"
@@ -98,7 +98,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_0   "Désactivé"
     IDS_TRAY_SHOWDESKTOPBTN_2   "Masqué"
     IDS_TRAY_SKINICONS          "Appliquer le style Windows 11 aux icônes de la zone de notifications système"
-    IDS_TRAY_OVERFLOWSTYLE      "Hidden icons popup style"
+    IDS_TRAY_OVERFLOWSTYLE      "Style des icônes cachées"
     IDS_TRAY_OVERFLOWSTYLE_0    "Windows 10 (par défaut)"
     IDS_TRAY_OVERFLOWSTYLE_1    "Windows 11"
     IDS_TRAY_REPLACENETWORK_L1  "Le choix 'Ouvrir les paramètres du réseau et de l'Internet' par un clic avec le bouton droit sur"
