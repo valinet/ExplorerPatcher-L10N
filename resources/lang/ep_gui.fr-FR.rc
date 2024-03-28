@@ -87,7 +87,7 @@ BEGIN
 
     IDS_TRAY                    "Zone de notifications"
 
-    IDS_TRAY_SKINMENUS          "Agrandissement des menus contextuels de la barre des tâches et de la zone de notifications"
+    IDS_TRAY_SKINMENUS          "Agrandissement du menu contextuel de la barre des tâches et des menus contextuels de la zone de notifications"
     IDS_TRAY_CENTERMENUS        "Centrer les menus contextuels des icônes de la zone de notification"
     IDS_TRAY_FLYOUTMENUS        "Comportement du volet pour les menus contextuels des icônes de la zone de notifications"
     IDS_TRAY_TOUCHKB            "Afficher le bouton du clavier tactile"
