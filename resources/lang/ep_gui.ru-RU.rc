@@ -41,6 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (по умолчанию)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
+    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
     IDS_TB_MORE                 "Больше настроек панели задач в Параметры ПК"
     IDS_TB_CUSTOMIZETRAYICONS   "Настроить Значки области уведомлений"
     IDS_TB_CUSTOMIZESYSTEMICONS "Настроить системные значки панели уведомлений"

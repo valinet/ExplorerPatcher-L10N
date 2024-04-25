@@ -41,6 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11(기본값)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10(ExplorerPatcher)"
+    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
     IDS_TB_MORE                 "[설정] 앱에서 더 많은 작업 표시줄 옵션"
     IDS_TB_CUSTOMIZETRAYICONS   "알림 영역 아이콘 사용자 지정"
     IDS_TB_CUSTOMIZESYSTEMICONS "알림 영역의 시스템 아이콘 사용자 지정"

@@ -41,6 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (預設)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
+    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
     IDS_TB_MORE                 "「設定」中的工作列"
     IDS_TB_CUSTOMIZETRAYICONS   "管理軟體通知區域圖示"
     IDS_TB_CUSTOMIZESYSTEMICONS "管理系統通知區域圖示"

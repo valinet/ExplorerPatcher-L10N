@@ -40,6 +40,8 @@ BEGIN
     IDS_TB_STYLE                "Užduočių juostos stilius"
     IDS_TB_STYLE_0              "Windows 11 (numatytasis)"
     IDS_TB_STYLE_1              "Windows 10"
+    IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
+    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
     IDS_TB_MORE                 "Daugiau užduočių juostos nustatymų rasite Nustatymuose"
     IDS_TB_CUSTOMIZETRAYICONS   "Tinkinti pranešimų skyriaus piktogramas"
     IDS_TB_CUSTOMIZESYSTEMICONS "Tinkinti sistemos piktogramas pranešimų skyriuje"

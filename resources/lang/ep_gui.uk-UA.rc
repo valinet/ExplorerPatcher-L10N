@@ -41,6 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (системний)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
+    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
     IDS_TB_MORE                 "Більше налаштувань (система)"
     IDS_TB_CUSTOMIZETRAYICONS   "Налаштувати піктограми області сповіщень"
     IDS_TB_CUSTOMIZESYSTEMICONS "Налаштувати системні піктограми області сповіщень"
