@@ -41,7 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (default)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
+    IDS_TB_WIN10_UNAVAILABLE    "Taskbar Windows 10 tidak tersedia di versi Windows ini."
     IDS_TB_MORE                 "Pengaturan taskbar lainnya di aplikasi Pengaturan"
     IDS_TB_CUSTOMIZETRAYICONS   "Sesuaikan ikon area pemberitahuan"
     IDS_TB_CUSTOMIZESYSTEMICONS "Aktifkan atau nonaktifkan ikon sistem"
