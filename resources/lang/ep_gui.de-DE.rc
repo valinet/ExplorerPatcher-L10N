@@ -99,7 +99,7 @@ BEGIN
     IDS_TRAY_SHOWDESKTOPBTN_0   "Deaktiviert"
     IDS_TRAY_SHOWDESKTOPBTN_2   "Ausgeblendet"
     IDS_TRAY_SKINICONS          "Windows 11-Stil auf Taskleistensymbole anwenden"
-    IDS_TRAY_OVERFLOWSTYLE      "Hidden icons popup style"
+    IDS_TRAY_OVERFLOWSTYLE      "Popup-Stil für versteckte Symbole"
     IDS_TRAY_OVERFLOWSTYLE_0    "Windows 10 (Standard)"
     IDS_TRAY_OVERFLOWSTYLE_1    "Windows 11"
     IDS_TRAY_REPLACENETWORK_L1  "Auswahl von 'Netzwerk- und Interneteinstellungen öffnen' beim Rechtsklick auf das"
