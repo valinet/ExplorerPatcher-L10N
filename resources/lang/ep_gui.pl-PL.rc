@@ -92,7 +92,7 @@ BEGIN
     IDS_TRAY_CENTERMENUS        "Wyśrodkuj ikony menu menu kontekstowego"
     IDS_TRAY_FLYOUTMENUS        "Wysuwanie menu zasobnika z ikony menu kontekstowego"
     IDS_TRAY_TOUCHKB            "Pokaż przycisk Klawiatury ekranowej"
-    IDS_TRAY_SHOWSECONDS        "Pokasuj sekundy w zegarze"
+    IDS_TRAY_SHOWSECONDS        "Pokazuj sekundy w zegarze"
     IDS_TRAY_CCBTN              "Przycisk Centrum sterowania"
     IDS_TRAY_SHOWDESKTOPBTN     "Przycisk Pokaż pulpit"
     IDS_TRAY_SHOWDESKTOPBTN_1   "Włączony (domyślnie)"
