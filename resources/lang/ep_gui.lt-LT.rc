@@ -84,6 +84,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Užduočių juostos piktogramų dydis"
     IDS_TB_ICONSIZE_1           "Mažas"
     IDS_TB_ICONSIZE_0           "Didelis (numatytasis)"
+    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
 
     IDS_TRAY                    "Sistemos juostelė"
 
@@ -422,6 +423,9 @@ BEGIN
     IDS_ABOUT_EXPORT            "Eksportuoti dabartinius nustatymus"
     IDS_ABOUT_EXPORT_SUCCESS    "Nustatymai eksportuoti teisingai."
     IDS_ABOUT_RESET             "Atkurti numatytuosius nustatymus"
+
+    IDS_UNINSTALL               "Uninstall"
+    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Paleisti Failų Naršyklę iš naujo"
 END
