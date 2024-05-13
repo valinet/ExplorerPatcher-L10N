@@ -425,6 +425,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "設定のエクスポートに成功しました。"
     IDS_ABOUT_RESET             "既定の設定を復元"
 
+    IDS_MAINTENANCE             "Settings and uninstall"
+
     IDS_UNINSTALL               "アンインストール"
     IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher をアンインストール"
 

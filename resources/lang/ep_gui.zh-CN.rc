@@ -425,6 +425,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "设置导出完成。"
     IDS_ABOUT_RESET             "恢复默认设置"
 
+    IDS_MAINTENANCE             "Settings and uninstall"
+
     IDS_UNINSTALL               "卸载"
     IDS_UNINSTALL_UNINSTALL     "卸载 ExplorerPatcher"
 

@@ -425,6 +425,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "設定匯出完成。"
     IDS_ABOUT_RESET             "復原預設設定"
 
+    IDS_MAINTENANCE             "Settings and uninstall"
+
     IDS_UNINSTALL               "解除安裝"
     IDS_UNINSTALL_UNINSTALL     "解除安裝 ExplorerPatcher"
 

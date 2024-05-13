@@ -425,6 +425,8 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Ayarlar başarıyla dışa aktarıldı"
     IDS_ABOUT_RESET             "Ayarları varsayılan duruma geri getir"
 
+    IDS_MAINTENANCE             "Settings and uninstall"
+
     IDS_UNINSTALL               "Kaldır"
     IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher'i kaldır"
 
