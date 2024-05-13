@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "업데이트를 확인하지 않음"
     IDS_UPDATES_PREFER_STAGING  "가능할 경우 프리릴리스 버전 받기(권장하지 않음)"
     IDS_UPDATES_DOWNGRADES      "서버의 최신 버전이 오래됐더라도 제안받기(권장하지 않음)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "업데이트 서버:"
     IDS_UPDATES_RELEASES        "릴리스"
     IDS_UPDATES_RELEASES_PROMPT "GitHub의 릴리스 API를 준수하는 리소스를 제공하는 URL을 입력하세요. 자신만의 업데이트 서버를 구성하는 방법을 알아보려면 위키를 참조해주세요."

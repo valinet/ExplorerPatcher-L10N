@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Nu verificați pentru actualizări"
     IDS_UPDATES_PREFER_STAGING  "Primiți versiuni pre-lansare, dacă sunt disponibile (nu este recomandat)"
     IDS_UPDATES_DOWNGRADES      "Sugerați cea mai recentă versiune pe server, chiar dacă este mai veche (nu este recomandată)"
+	IDS_UPDATES_USELOCAL        "Compilează local actualizările înainte de a le instala"
     IDS_UPDATES_UPDATESERVERS   "Actualizați serverele:"
     IDS_UPDATES_RELEASES        "Lansări"
     IDS_UPDATES_RELEASES_PROMPT "Introdu o adresă URL care servește resurse care aderă la API-ul de lansări GitHub. Pentru a afla cum să vă configurați propriul server de actualizare, vă rugăm să consultați wiki."

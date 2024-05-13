@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Не перевіряти наявність оновлень"
     IDS_UPDATES_PREFER_STAGING  "Використовувати попередні версії, якщо вони доступні (не рекомендується)"
     IDS_UPDATES_DOWNGRADES      "Пропонувати останню версію на сервері, навіть якщо вона старіша (не рекомендується)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Сервери для отримання оновлень:"
     IDS_UPDATES_RELEASES        "Стабільні версії"
     IDS_UPDATES_RELEASES_PROMPT "Введіть URL-адресу, яка використовується\nдля отримання оновлень, згідно з вимог API GitHub."

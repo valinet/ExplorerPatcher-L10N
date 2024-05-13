@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Не проверять обновления"
     IDS_UPDATES_PREFER_STAGING  "Получать предварительные версии, если они доступны (не рекомендуется)"
     IDS_UPDATES_DOWNGRADES      "Предлагать последнюю версию с сервера, даже если она старее (не рекомендуется)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Серверы обновлений:"
     IDS_UPDATES_RELEASES        "Выпуски"
     IDS_UPDATES_RELEASES_PROMPT "Введите URL-адрес, который обслуживает ресурсы, соответствующие API-интерфейсу выпусков GitHub. Чтобы узнать, как настроить собственный сервер обновлений, обратитесь к вики."

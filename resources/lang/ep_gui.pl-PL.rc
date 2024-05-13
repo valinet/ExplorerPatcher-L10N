@@ -383,6 +383,7 @@ BEGIN
     IDS_UPDATES_PREFER_STAGING  "Pobieraj wersje testowe, jeżeli są dostępne (niezalecane)"
     IDS_UPDATES_DOWNGRADES      "Proponuj najnowszą wersję z serwera, nawet jeśli jest starsza (niezalecane)"
     IDS_UPDATES_UPDATESERVERS   "Serwery aktualizacji:"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_RELEASES        "Wydania"
     IDS_UPDATES_RELEASES_PROMPT "Wpisz adres URL obsługujący zasoby zgodne z API GitHub. Aby dowiedzieć się, jak skonfigurować własny serwer aktualizacji, zapoznaj się w wiki."
     IDS_UPDATES_STAGING         "Wersje testowe"

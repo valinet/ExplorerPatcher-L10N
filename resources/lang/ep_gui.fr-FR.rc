@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Ne pas vérifier la présence de mises à jour"
     IDS_UPDATES_PREFER_STAGING  "Recevoir des préversions, si disponibles (non recommandé)"
     IDS_UPDATES_DOWNGRADES      "Suggérer la dernière version sur le serveur, même si elle est plus ancienne (non recommandé)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Serveurs de mise à jour :"
     IDS_UPDATES_RELEASES        "Versions stables"
     IDS_UPDATES_RELEASES_PROMPT "Saisissez une URL qui propose des ressources conformes à l'API de versions de GitHub. Pour apprendre à configurer votre propre serveur de mise à jour, veuillez consulter le wiki."

@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Niet controleren op updates"
     IDS_UPDATES_PREFER_STAGING  "Voorkeur geven aan pre-releaseversies, indien beschikbaar (niet aanbevolen)"
     IDS_UPDATES_DOWNGRADES      "De nieuwste versie op de server voorstellen, zelfs als deze ouder is (niet aanbevolen)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Update-servers:"
     IDS_UPDATES_RELEASES        "Releases"
     IDS_UPDATES_RELEASES_PROMPT "Typ een URL die bronnen serveert volgens de GitHub-releases API. Raadpleeg de wiki voor informatie over het configureren van uw eigen update-server."

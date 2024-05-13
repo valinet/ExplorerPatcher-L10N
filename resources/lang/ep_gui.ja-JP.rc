@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "アップデートを確認しない"
     IDS_UPDATES_PREFER_STAGING  "プレリリースのバージョンを含める (非推奨)"
     IDS_UPDATES_DOWNGRADES      "古いバージョンでも、サーバー上の最新バージョンを提案する (非推奨)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "アップデート サーバー:"
     IDS_UPDATES_RELEASES        "リリース"
     IDS_UPDATES_RELEASES_PROMPT "GitHub のリリース API に準拠したリソースを提供する URL を指定します。独自のアップデート サーバーを設定する方法については、Wiki をご参照ください。"
