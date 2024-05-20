@@ -399,7 +399,7 @@ BEGIN
     IDS_ADV_LEARN               "En savoir plus"
     IDS_ADV_CONSOLE             "Activer la console"
     IDS_ADV_MEMCHECK            "Afficher les fuites de mémoire"
-    IDS_ADV_AUTOHIDE            "Double-clic sur barre des tâches active en dissimulation automatique (ne fonctionne qu'avec barre verrouillée)"
+    IDS_ADV_AUTOHIDE            "Double-cliquer sur barre des tâches active la dissimulation automatique (ne fonctionne qu'avec barre verrouillée)"
     IDS_ADV_PAINTDESKTOPVERSION "Afficher les informations sur la version de Windows sur le bureau"
     IDS_ADV_CLASSICTHEME        "Activer des atténuations avancées pour un rendu correct avec le thème classique"
     IDS_ADV_SYSLISTVIEW32       "Activer SysListView32 pour les vues de l'Explorateur"
