@@ -50,7 +50,7 @@ BEGIN
     IDS_TB_POSTOP               "En haut"
     IDS_TB_POSLEFT              "À gauche"
     IDS_TB_POSRIGHT             "À droite"
-    IDS_TB_SECONDARYTBPOS       "Emplacement sur l'écran(s) de la(des) barre(s) des tâches secondaire(s)"
+    IDS_TB_SECONDARYTBPOS       "Emplacement sur l'écran(s) de la (des) barre(s) des tâches secondaire(s)"
     IDS_TB_EXTRABTN             "Le bouton supplémentaire devrait être"
     IDS_TB_EXTRABTN_0           "Masqué (par défaut)"
     IDS_TB_EXTRABTN_2           "Affiché et ouvrir Cortana"
