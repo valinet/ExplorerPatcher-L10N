@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Jangan periksa pembaruan"
     IDS_UPDATES_PREFER_STAGING  "Terima juga versi pra-rilis, jika tersedia (tidak disarankan)"
     IDS_UPDATES_DOWNGRADES      "Sarankan versi terbaru di server, meskipun versi yang lebih lama (tidak disarankan)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Server pembaruan:"
     IDS_UPDATES_RELEASES        "Rilis"
     IDS_UPDATES_RELEASES_PROMPT "Ketikkan URL yang menyajikan sumber daya API rilis GitHub. Untuk mempelajari cara mengatur server pembaruan Anda sendiri, konsultasikan pada wiki."
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "Ekspor pengaturan saat ini"
     IDS_ABOUT_EXPORT_SUCCESS    "Pengaturan berhasil diekspor."
     IDS_ABOUT_RESET             "Atur ulang pengaturan ke default"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "Uninstall"
     IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"

@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Не проверять обновления"
     IDS_UPDATES_PREFER_STAGING  "Получать предварительные версии, если они доступны (не рекомендуется)"
     IDS_UPDATES_DOWNGRADES      "Предлагать последнюю версию с сервера, даже если она старее (не рекомендуется)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Серверы обновлений:"
     IDS_UPDATES_RELEASES        "Выпуски"
     IDS_UPDATES_RELEASES_PROMPT "Введите URL-адрес, который обслуживает ресурсы, соответствующие API-интерфейсу выпусков GitHub. Чтобы узнать, как настроить собственный сервер обновлений, обратитесь к вики."
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "Экспортировать текущие настройки"
     IDS_ABOUT_EXPORT_SUCCESS    "Настройки успешно экспортированы."
     IDS_ABOUT_RESET             "Восстановить настройки по умолчанию"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "Удалить"
     IDS_UNINSTALL_UNINSTALL     "Удалить ExplorerPatcher"

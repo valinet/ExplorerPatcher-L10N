@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "不檢查更新"
     IDS_UPDATES_PREFER_STAGING  "接收測試版更新 (不建議)"
     IDS_UPDATES_DOWNGRADES      "接收伺服器上最新的版本，忽略本機版本(不建議)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "更新伺服器 :"
     IDS_UPDATES_RELEASES        "穩定版"
     IDS_UPDATES_RELEASES_PROMPT "輸入一個支援 GitHub 穩定版 API 的網址。如需自建更新伺服器，請查閱軟體 Wiki。"
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "匯出設定"
     IDS_ABOUT_EXPORT_SUCCESS    "設定匯出完成。"
     IDS_ABOUT_RESET             "復原預設設定"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "解除安裝"
     IDS_UNINSTALL_UNINSTALL     "解除安裝 ExplorerPatcher"

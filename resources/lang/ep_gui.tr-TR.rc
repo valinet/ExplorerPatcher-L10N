@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Güncelleştirmeleri kontrol etme"
     IDS_UPDATES_PREFER_STAGING  "Varsa Önizleme sürümleri alın (önerilmez)"
     IDS_UPDATES_DOWNGRADES      "Daha eski olsa bile sunucudaki en son sürümü öner (önerilmez)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Güncelleştirme sunucuları:"
     IDS_UPDATES_RELEASES        "Yayınlar"
     IDS_UPDATES_RELEASES_PROMPT "GitHub'ın yayın API'sine bağlı kalarak kaynaklara hizmet veren bir URL yazın. Kendi güncelleme sunucunuzu nasıl yapılandıracağınızı öğrenmek için lütfen wiki'ye bakın."
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "Ayarları dışa aktar"
     IDS_ABOUT_EXPORT_SUCCESS    "Ayarlar başarıyla dışa aktarıldı"
     IDS_ABOUT_RESET             "Ayarları varsayılan duruma geri getir"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "Kaldır"
     IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher'i kaldır"

@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Netikrinti, ar yra atnaujinimų"
     IDS_UPDATES_PREFER_STAGING  "Gauti išankstines versijas, jei jos prieinamos (nerekomenduojama)"
     IDS_UPDATES_DOWNGRADES      "Siūlyti naujausią versiją serveryje, net jei ji ir senesnė (nerekomenduojama)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "Atnaujinimų serveriai:"
     IDS_UPDATES_RELEASES        "Išleistos"
     IDS_UPDATES_RELEASES_PROMPT "Įveskite URL kuris teikia resursus pagal GitHub sklaidos API. Jei norite sukurti savo atnaujinimų serverį, daugiau informacijos rasite programos vikyje."
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "Eksportuoti dabartinius nustatymus"
     IDS_ABOUT_EXPORT_SUCCESS    "Nustatymai eksportuoti teisingai."
     IDS_ABOUT_RESET             "Atkurti numatytuosius nustatymus"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "Uninstall"
     IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"

@@ -382,6 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "不检查更新"
     IDS_UPDATES_PREFER_STAGING  "接收测试版更新(不推荐)"
     IDS_UPDATES_DOWNGRADES      "接收服务器上最新的版本，忽略本地版本(不推荐)"
+    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
     IDS_UPDATES_UPDATESERVERS   "更新服务器:"
     IDS_UPDATES_RELEASES        "稳定版"
     IDS_UPDATES_RELEASES_PROMPT "输入一个支持 GitHub release API 的网址。如需自建更新服务器，请查阅软件 Wiki。"
@@ -423,6 +424,8 @@ BEGIN
     IDS_ABOUT_EXPORT            "导出设置"
     IDS_ABOUT_EXPORT_SUCCESS    "设置导出完成。"
     IDS_ABOUT_RESET             "恢复默认设置"
+
+    IDS_MAINTENANCE             "Settings and uninstall"
 
     IDS_UNINSTALL               "卸载"
     IDS_UNINSTALL_UNINSTALL     "卸载 ExplorerPatcher"
