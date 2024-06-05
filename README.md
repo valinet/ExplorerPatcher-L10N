@@ -22,10 +22,11 @@ to [compile ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/wiki/Com
 translations in action. If you are not able to do so, please mention it in your pull request and we will test and fix
 the translation files for you.
 
-Things to consider:
-
-* In `.rc` files, please make sure that the double quotes `"` are represented as double double quotes `""`.
-* Please also make sure that the `.rc` files are in UTF-8 encoding with CRLF (`\r\n`) line endings.
+Please make sure that the `.rc` files:
+* Are in UTF-8 encoding **with BOM**.
+* Have CRLF (`\r\n`) line endings.
+* Have double quotes `"` represented as double double quotes `""`.
+* Are properly formatted in the same way as the base English texts.
 
 ## Acknowledgements
 
@@ -34,10 +35,17 @@ We would like to thank the following people for their contributions in translati
 | Language              | Contributor(s)                                  |
 |-----------------------|-------------------------------------------------|
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
-| Chinese (Traditional) | @snowlinouo                                     |
+| Chinese (Traditional) | @snowlinouo, @Corporation001                    |
 | Dutch                 | @GewoonIraj                                     |
+| French                | @corentios, @Need74                             |
+| German                | @lukinator01, @NotOfficer                       |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
+| Korean                | @MuscularPuky                                   |
+| Lithuanian            | @Kass401                                        |
+| Polish                | @BestiaPL                                       |
 | Romanian              | @21124637                                       |
+| Russian               | @the-aLeXiS                                     |
+| Turkish               | @Akif9748                                       |
 | Ukrainian             | @AyzekUorren                                    |
