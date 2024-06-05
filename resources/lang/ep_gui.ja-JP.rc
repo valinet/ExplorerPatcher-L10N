@@ -1,11 +1,11 @@
-﻿#include "resources/resource.h"
+#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
 
 STRINGTABLE
 BEGIN
-    IDS_UPDATES_CHECKING_T      "アップデートの確認中…"
+    IDS_UPDATES_CHECKING_T      "アップデートを確認中…"
     IDS_UPDATES_AVAILABLE_T     "バージョン %d.%d.%d.%d が利用可能です"
     IDS_UPDATES_AVAILABLE_T_U   "新しいバージョンが利用可能です"
     IDS_UPDATES_AVAILABLE_B     "アップデートするには、タスク バーを右クリックして ""プロパティ""、""アップデート"" の順に選択してください。アップデートの詳細情報は、ここをクリックしてください。"
@@ -382,7 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "アップデートを確認しない"
     IDS_UPDATES_PREFER_STAGING  "プレリリースのバージョンを含める (非推奨)"
     IDS_UPDATES_DOWNGRADES      "古いバージョンでも、サーバー上の最新バージョンを提案する (非推奨)"
-    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
+    IDS_UPDATES_USELOCAL        "アップデートをインストールする前にローカルでビルドする"
     IDS_UPDATES_UPDATESERVERS   "アップデート サーバー:"
     IDS_UPDATES_RELEASES        "リリース"
     IDS_UPDATES_RELEASES_PROMPT "GitHub のリリース API に準拠したリソースを提供する URL を指定します。独自のアップデート サーバーを設定する方法については、Wiki をご参照ください。"
@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "設定のエクスポートに成功しました。"
     IDS_ABOUT_RESET             "既定の設定を復元"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "設定とアンインストール"
 
     IDS_UNINSTALL               "アンインストール"
     IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher をアンインストール"
