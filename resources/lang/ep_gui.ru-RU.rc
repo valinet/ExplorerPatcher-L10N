@@ -367,7 +367,7 @@ BEGIN
     IDS_OTHER_PWRBTNACTION_64   "Спящий режим"
     IDS_OTHER_PWRBTNACTION_2    "Выключить (по умолчанию)"
     IDS_OTHER_PWRBTNACTION_4    "Перезагрузка"
-    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Enable logon, logoff, and shutdown sounds"
+    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Включить звуки входа, завершения сеанса и завершения работы"
     IDS_OTHER_NOREDIRECT        "Запретить перенаправление следующих ссылок панели управления в приложение «Настройки»:"
     IDS_OTHER_NOREDIRECT_SYSTEM "Система / О системе"
     IDS_OTHER_NOREDIRECT_PROGRAMS "Программы и компоненты"
@@ -382,7 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Не проверять обновления"
     IDS_UPDATES_PREFER_STAGING  "Получать предварительные версии, если они доступны (не рекомендуется)"
     IDS_UPDATES_DOWNGRADES      "Предлагать последнюю версию с сервера, даже если она старее (не рекомендуется)"
-    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
+    IDS_UPDATES_USELOCAL        "Собирать обновления локально перед установкой"
     IDS_UPDATES_UPDATESERVERS   "Серверы обновлений:"
     IDS_UPDATES_RELEASES        "Выпуски"
     IDS_UPDATES_RELEASES_PROMPT "Введите URL-адрес, который обслуживает ресурсы, соответствующие API-интерфейсу выпусков GitHub. Чтобы узнать, как настроить собственный сервер обновлений, обратитесь к вики."
@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Настройки успешно экспортированы."
     IDS_ABOUT_RESET             "Восстановить настройки по умолчанию"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Настройки и удаление"
 
     IDS_UNINSTALL               "Удалить"
     IDS_UNINSTALL_UNINSTALL     "Удалить ExplorerPatcher"
