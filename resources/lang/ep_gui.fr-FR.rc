@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Les paramètres ont été exportés avec succès."
     IDS_ABOUT_RESET             "Restaurer les paramètres par défaut"
 
-    IDS_MAINTENANCE             "Paramètres et désinstaller"
+    IDS_MAINTENANCE             "Désinstaller && Paramètres"
 
     IDS_UNINSTALL               "Désinstaller"
     IDS_UNINSTALL_UNINSTALL     "Désinstaller ExplorerPatcher"
