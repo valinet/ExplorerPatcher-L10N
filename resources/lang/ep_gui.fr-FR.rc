@@ -80,8 +80,8 @@ BEGIN
     IDS_TB_GLOM_1               "Combiner lorsque la barre est pleine"
     IDS_TB_GLOM_2_D             "Ne jamais combiner (par défaut)"
     IDS_TB_GLOM_2               "Ne jamais combiner"
-    IDS_TB_SECONDARYTBGLOM      "Combinaison des boutons dans la (des) barre(s) des tâches secondaire(s)"
-    IDS_TB_ICONSIZE             "Taille des boutons dans la (des) barre(s) des tâches"
+    IDS_TB_SECONDARYTBGLOM      "Combinaison des boutons dans la(les) barre(s) des tâches secondaire(s)"
+    IDS_TB_ICONSIZE             "Taille des boutons dans la(les) barre(s) des tâches"
     IDS_TB_ICONSIZE_1           "Petite"
     IDS_TB_ICONSIZE_0           "Grande (par défaut)"
     IDS_TB_ALTIMPL_NOTICE       "Avis important concernant l’implémentation de la barre des tâches d’ExplorerPatcher (en ligne)"
@@ -135,9 +135,9 @@ BEGIN
     IDS_EXP                     "Explorateur Windows"
 
     IDS_EXP_SHEXT_L1            "Pour que les paramètres marqués avec (**) fonctionnent également dans les boîtes de dialogue d’ouverture et"
-    IDS_EXP_SHEXT_L2            "d’enregistrement de fichiers, enregistrez l’utilitaire comme extension de shell en utilisant l’option ci-dessous."
+    IDS_EXP_SHEXT_L2            "d’enregistrement de fichiers, enregistrer l’utilitaire comme extension du shell en utilisant l’option ci-dessous."
     IDS_EXP_SHEXT_LEARN         "En savoir plus"
-    IDS_EXP_SHEXT_REGISTER      "Enregistrer en tant qu’extension de shell"
+    IDS_EXP_SHEXT_REGISTER      "Enregistrer en tant qu’extension du shell"
     IDS_EXP_DISABLECTXMENU      "Désactiver le menu contextuel simplifié de Windows 11"
     IDS_EXP_LEGACYFTDIALOG      "Toujours utiliser la boîte de dialogue de transfert de fichiers classique"
     IDS_EXP_CLASSICDRIVEGROUP   "Utiliser des regroupements de lecteurs classiques dans ce PC"
@@ -348,7 +348,8 @@ BEGIN
     IDS_OTHER                   "Autres"
 
     IDS_OTHER_REMEMBERLAST      "Ouvrir ExplorerPatcher sur l’onglet de la dernière section utilisée"
-    IDS_OTHER_CLOCKFLYOUT       "Ouvrir le volet calendrier/horloge en appuyant sur Win+C au lieu de Microsoft Teams"
+    IDS_OTHER_CLOCKFLYOUT       "Le raccourci Win+C ouvre le volet « Calendrier/Horloge » au lieu de Microsoft Teams
+"
     IDS_OTHER_TOOLBARSEPARATORS "Afficher des séparateurs entre les barres d’outils de la barre des tâches"
     IDS_OTHER_WINXPROPERTIES    "Ajouter un raccourci vers les paramètres du programme dans le menu Win+X"
     IDS_OTHER_DONTUSEPOWERSHELL "Afficher l’invite de commandes au lieu de PowerShell dans le menu Win+X"
@@ -367,7 +368,8 @@ BEGIN
     IDS_OTHER_PWRBTNACTION_64   "Mettre en hibernation"
     IDS_OTHER_PWRBTNACTION_2    "Arrêter (par défaut)"
     IDS_OTHER_PWRBTNACTION_4    "Redémarrer"
-    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Enable logon, logoff, and shutdown sounds"
+    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Activer les sons de connexion, de déconnexion et d'arrêt
+"
     IDS_OTHER_NOREDIRECT        "Empêcher la redirection des liens du Panneau de configuration suivants vers l’application MS-Paramètres :"
     IDS_OTHER_NOREDIRECT_SYSTEM "Page Système / À propos"
     IDS_OTHER_NOREDIRECT_PROGRAMS "Programmes et fonctionnalités"
