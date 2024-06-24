@@ -41,7 +41,7 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (Standard)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taskbar is not available in this version of Windows."
+    IDS_TB_WIN10_UNAVAILABLE    "Die Windows 10-Taskleiste ist in dieser Windows-Version nicht mehr verfügbar."
     IDS_TB_MORE                 "Weitere Taskleistenoptionen in der Einstellungen-App"
     IDS_TB_CUSTOMIZETRAYICONS   "Benachrichtigungsbereichssymbole anpassen"
     IDS_TB_CUSTOMIZESYSTEMICONS "Anpassen der Systemsymbole im Benachrichtigungsbereich"
@@ -259,7 +259,7 @@ BEGIN
     IDS_AT_SWS_SCROLLWHEEL_0    "Nie (Standard)"
     IDS_AT_SWS_SCROLLWHEEL_1    "Wenn sich der Cursor über dem Umschalter befindet"
     IDS_AT_SWS_SCROLLWHEEL_2    "Immer"
-    IDS_AT_SWS_LEARN            "Erfahren Sie mehr über Simple Window Switcher"
+    IDS_AT_SWS_LEARN            "Erfahren Sie mehr über den einfachen Fensterumschalter"
 
     IDS_WEATHER                 "Wetter"
 
@@ -367,7 +367,7 @@ BEGIN
     IDS_OTHER_PWRBTNACTION_64   "Ruhezustand"
     IDS_OTHER_PWRBTNACTION_2    "Herunterfahren (Standard)"
     IDS_OTHER_PWRBTNACTION_4    "Neu starten"
-    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Enable logon, logoff, and shutdown sounds"
+    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Anmelde-, Abmelde- und Herunterfahren-Sounds aktivieren"
     IDS_OTHER_NOREDIRECT        "Verhindern Sie, dass die folgenden Links zur Systemsteuerung auf die Einstellungen-App umgeleitet werden:"
     IDS_OTHER_NOREDIRECT_SYSTEM "System-/Info-Seite"
     IDS_OTHER_NOREDIRECT_PROGRAMS "Programme und Funktionen"
@@ -382,7 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Nicht nach Updates suchen"
     IDS_UPDATES_PREFER_STAGING  "Vorabversionen erhalten, falls verfügbar (nicht empfohlen)"
     IDS_UPDATES_DOWNGRADES      "Die neueste Version erhalten, auch wenn diese älter ist (nicht empfohlen)"
-    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
+    IDS_UPDATES_USELOCAL        "Updates vor der Installation lokal erstellen"
     IDS_UPDATES_UPDATESERVERS   "Server aktualisieren:"
     IDS_UPDATES_RELEASES        "Veröffentlichungen"
     IDS_UPDATES_RELEASES_PROMPT "Geben Sie eine URL ein, die Ressourcen bereitstellt, die der API für Veröffentlichungen von GitHub entsprechen. Um zu erfahren, wie Sie Ihren eigenen Update-Server konfigurieren, konsultieren Sie bitte das Wiki."
@@ -399,14 +399,14 @@ BEGIN
     IDS_ADV_LEARN               "Erfahren Sie mehr"
     IDS_ADV_CONSOLE             "Konsole aktivieren"
     IDS_ADV_MEMCHECK            "Speicherlecks dumpen"
-    IDS_ADV_AUTOHIDE            "Doppelklick auf die Taskleiste, um das automatische Ausblenden zu aktivieren (funktioniert nur, wenn gesperrt)"
+    IDS_ADV_AUTOHIDE            "Doppelklick auf die Taskleiste, um das automatische Ausblenden zu aktivieren (nur, wenn gesperrt)"
     IDS_ADV_PAINTDESKTOPVERSION "Zeigt Windows-Build-Informationen auf dem Desktop an"
     IDS_ADV_CLASSICTHEME        "Fortgeschrittene Abschwächungen für korrektes Rendering mit klassischem Thema aktivieren"
     IDS_ADV_SYSLISTVIEW32       "SysListView32 für Explorer-Ansichten aktivieren"
     IDS_ADV_NOPROPERTIES        "Das Kontextmenü der Taskleiste nicht ändern (z. B. den Eintrag ""Eigenschaften"" nicht anzeigen)"
     IDS_ADV_SYMBOLS             "Symbol-Download aktivieren"
     IDS_ADV_PINNEDITEMS         "Angeheftete Elemente dienen als Schnellstart (nicht mit aktiven Apps gruppieren)"
-    IDS_ADV_REMOVEEXTRAGAP      "Wenn in der Taskleiste Schaltflächenbeschriftungen angezeigt werden, entfernen Sie die zusätzliche Lücke um angeheftete Elemente"
+    IDS_ADV_REMOVEEXTRAGAP      "Wird in der Taskleiste Schaltflächenbeschriftungen angezeigt, die Lücken um angeheftete Elemente entfernen"
     IDS_ADV_XAMLSOUNDS          "UI-Sounds in den XAML-Ansichten des Explorers aktivieren"
 
     IDS_ABOUT                   "Über"
@@ -425,10 +425,10 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Die Einstellungen wurden erfolgreich exportiert."
     IDS_ABOUT_RESET             "Standardeinstellungen wiederherstellen"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Einstellungen und Deinstallation"
 
     IDS_UNINSTALL               "Deinstallieren"
-    IDS_UNINSTALL_UNINSTALL     "Deinstalliere ExplorerPatcher"
+    IDS_UNINSTALL_UNINSTALL     "ExplorerPatcher deinstallieren"
 
     IDS_FOOTER_RESTART          "Explorer neustarten"
 END
