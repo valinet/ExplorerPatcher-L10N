@@ -289,7 +289,7 @@ BEGIN
     IDS_WEATHER_UPDATEFREQ_3600 "Co godzinę"
     IDS_WEATHER_UPDATEFREQ_7200 "Co 2 godziny"
     IDS_WEATHER_TEMPUNIT        "Jednostka temperatury"
-    IDS_WEATHER_TEMPUNIT_0      "Celsius (domyślna)"
+    IDS_WEATHER_TEMPUNIT_0      "Celsjusz (domyślna)"
     IDS_WEATHER_TEMPUNIT_1      "Fahrenheit"
     IDS_WEATHER_LANG            "Język"
     IDS_WEATHER_LANG_PROMPT     "Wpisz krótki kod języka, w którym pogoda ma być wyświetlana. Np. spróbuj ""en"", ""ro"", ""de"", ""fr"", itd. Pozostaw puste pole, aby użyć domyślnego języka systemu Windows."
@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Ustawienia zostały wyeksportowane prawidłowo."
     IDS_ABOUT_RESET             "Przywróć ustawienia domyślne"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Ustawienia i deinstalacja"
 
     IDS_UNINSTALL               "Odinstaluj"
     IDS_UNINSTALL_UNINSTALL     "Odinstaluj ExplorerPatcher"
