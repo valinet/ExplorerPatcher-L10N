@@ -394,6 +394,7 @@ BEGIN
     IDS_UPDATES_INSTALL         "Mettre à jour le programme et redémarrer l’Explorateur Windows"
     IDS_UPDATES_CHANGES         "Consulter les modifications des dernières versions"
     IDS_UPDATES_LEARN           "En savoir plus"
+    IDS_UPDATES_USELOCAL        "Créez des mises à jour localement avant de les installer"
 
     IDS_ADV                     "Avancé"
 
@@ -427,7 +428,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Les paramètres ont été exportés avec succès."
     IDS_ABOUT_RESET             "Restaurer les paramètres par défaut"
 
-    IDS_MAINTENANCE             "Paramètres && Désinst."
+    IDS_MAINTENANCE             "Paramètres && Désinstall."
 
     IDS_UNINSTALL_UNINSTALL     "Désinstaller ExplorerPatcher"
 
