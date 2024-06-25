@@ -149,7 +149,7 @@ BEGIN
     IDS_EXP_CTRLINTF_3          "Windows 11 Araç çubuğu (Boşluksuz, klasik adres çubuğu)"
     IDS_EXP_CTRLINTF_4          "Windows 11 Araç çubuğu (klasik adres çubuğu)"
     IDS_EXP_NEWWINDOWS          "Aşağıdaki ayarlar yeni oluşturulan Dosya Gezgini pencerelerinde etkili olur:"
-    IDS_EXP_IMMERSIVEMENUS      "Windows 10 içerik menüleri (sağ-tık) görüntülerken etkileyici menüler kullan" 
+    IDS_EXP_IMMERSIVEMENUS      "Windows 10 içerik menüleri (sağ tık) görüntülerken etkileyici menüler kullan" 
     IDS_EXP_DISABLENAVBAR       "Navigasyon çubuğunu devre dışı bırak"
     IDS_EXP_DISABLESEARCHBAR    "Modern arama çubuğunu devre dışı bırak"
     IDS_EXP_SHRINKADDRESSBAR    "Adres çubuğunu kısalt"
