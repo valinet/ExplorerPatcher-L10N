@@ -201,7 +201,7 @@ BEGIN
     IDS_START_APPLIST_0         "Afficher"
     IDS_START_APPLIST_3         "Masquer"
     IDS_START_APPLIST_1         "Désactiver"
-    IDS_START_NOTICE            "IMPORTANT, À LIRE IMPÉRATIVEMENT : Avis concernant cette fonctionnalité (en ligne)"
+    IDS_START_NOTICE            "IMPORTANT, À LIRE IMPÉRATIVEMENT : avis concernant cette fonctionnalité (en ligne)"
     IDS_START_WIN10_NOTICE      "Certaines fonctionnalités pourraient ne pas être disponibles dans les anciennes versions de Windows 10."
 
     IDS_AT                      "Basculeur Alt+Tab"
@@ -265,7 +265,7 @@ BEGIN
 
     IDS_WEATHER_SHOW            "Afficher la météo dans la barre des tâches"
     IDS_WEATHER_LOC             "Emplacement"
-    IDS_WEATHER_LOC_PROMPT      "Rechercher la ville ou le code postal : Le programme recherche la météo de *l’endroit que vous avez tapé* sur Google. Laisser vide pour la valeur par défaut (votre emplacement actuel)."
+    IDS_WEATHER_LOC_PROMPT      "Rechercher la ville ou le code postal : le programme recherche la météo de *l’endroit que vous avez tapé* sur Google. Laisser vide pour la valeur par défaut (votre emplacement actuel)."
     IDS_WEATHER_LOC_DEFAULT     "Emplacement actuel (par défaut)"
     IDS_WEATHER_LAYOUT          "Disposition"
     IDS_WEATHER_LAYOUT_0        "Icône et description (par défaut)"
