@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Pengaturan berhasil diekspor."
     IDS_ABOUT_RESET             "Atur ulang pengaturan ke default"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Pengaturan dan uninstall"
 
     IDS_UNINSTALL               "Uninstall"
     IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"

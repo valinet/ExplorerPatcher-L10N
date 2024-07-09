@@ -348,8 +348,7 @@ BEGIN
     IDS_OTHER                   "Autres"
 
     IDS_OTHER_REMEMBERLAST      "Ouvrir ExplorerPatcher sur l’onglet de la dernière section utilisée"
-    IDS_OTHER_CLOCKFLYOUT       "Le raccourci Win+C ouvre le volet « Calendrier/Horloge » au lieu de Microsoft Teams
-"
+    IDS_OTHER_CLOCKFLYOUT       "Le raccourci Win+C ouvre le volet « Calendrier/Horloge » au lieu de Microsoft Teams"
     IDS_OTHER_TOOLBARSEPARATORS "Afficher des séparateurs entre les barres d’outils de la barre des tâches"
     IDS_OTHER_WINXPROPERTIES    "Ajouter un raccourci vers les paramètres du programme dans le menu Win+X"
     IDS_OTHER_DONTUSEPOWERSHELL "Afficher l’invite de commandes au lieu de PowerShell dans le menu Win+X"
@@ -368,8 +367,7 @@ BEGIN
     IDS_OTHER_PWRBTNACTION_64   "Mettre en hibernation"
     IDS_OTHER_PWRBTNACTION_2    "Arrêter (par défaut)"
     IDS_OTHER_PWRBTNACTION_4    "Redémarrer"
-    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Activer les sons de connexion, de déconnexion et d'arrêt
-"
+    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Activer les sons de connexion, de déconnexion et d'arrêt"
     IDS_OTHER_NOREDIRECT        "Empêcher la redirection des liens du Panneau de configuration suivants vers l’application MS-Paramètres :"
     IDS_OTHER_NOREDIRECT_SYSTEM "Page Système / À propos"
     IDS_OTHER_NOREDIRECT_PROGRAMS "Programmes et fonctionnalités"
@@ -384,7 +382,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Ne pas vérifier la présence de mises à jour"
     IDS_UPDATES_PREFER_STAGING  "Recevoir des préversions, si disponibles (non recommandé)"
     IDS_UPDATES_DOWNGRADES      "Suggérer la dernière version sur le serveur, même si elle est plus ancienne (non recommandé)"
-    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
+    IDS_UPDATES_USELOCAL        "Créez des mises à jour localement avant de les installer"
     IDS_UPDATES_UPDATESERVERS   "Serveurs de mise à jour :"
     IDS_UPDATES_RELEASES        "Versions stables"
     IDS_UPDATES_RELEASES_PROMPT "Saisissez une URL qui propose des ressources conformes à l’API de versions de GitHub. Pour apprendre à configurer votre propre serveur de mise à jour, veuillez consulter le wiki."
@@ -394,7 +392,6 @@ BEGIN
     IDS_UPDATES_INSTALL         "Mettre à jour le programme et redémarrer l’Explorateur Windows"
     IDS_UPDATES_CHANGES         "Consulter les modifications des dernières versions"
     IDS_UPDATES_LEARN           "En savoir plus"
-    IDS_UPDATES_USELOCAL        "Créez des mises à jour localement avant de les installer"
 
     IDS_ADV                     "Avancé"
 
@@ -430,6 +427,7 @@ BEGIN
 
     IDS_MAINTENANCE             "Paramètres && Désinstall."
 
+    IDS_UNINSTALL               "Désinstaller"
     IDS_UNINSTALL_UNINSTALL     "Désinstaller ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Redémarrer l’Explorateur Windows"
