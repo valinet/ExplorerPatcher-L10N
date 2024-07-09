@@ -1,2 +1,2 @@
 ﻿* text=auto eol=crlf
-*.rc text=auto charset=utf-8-sig
+*.rc text=auto eol=crlf charset=utf-8-sig
