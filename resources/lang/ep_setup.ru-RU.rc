@@ -5,6 +5,7 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_RUSSIAN_RUSSIA
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
     IDS_SETUP_UNINSTALL_PROMPT  "Вы действительно хотите удалить ExplorerPatcher с вашего ПК?"
     IDS_SETUP_INSTALL_LOGOFF    "Для завершения установки произойдёт автоматический выход из системы. ExplorerPatcher будет готов после повторного входа.\n\nХотите продолжить?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Для завершения удаления произойдёт автоматический выход из системы.\n\nХотите продолжить?"

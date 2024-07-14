@@ -5,6 +5,7 @@ LANGUAGE LANG_ROMANIAN, SUBLANG_ROMANIAN_ROMANIA
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
     IDS_SETUP_UNINSTALL_PROMPT  "Sigur doriți să dezinstalați ExplorerPatcher?"
     IDS_SETUP_INSTALL_LOGOFF    "Pentru a finaliza instalarea, veți fi deconectat(ă) de la Windows. ExplorerPatcher va fi gata de utilizare atunci când vă veți conecta înapoi.\n\nDoriți să continuați?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Pentru a finaliza dezinstalarea, veți fi deconectat(ă) de la Windows.\n\nDoriți să continuați?"

@@ -5,6 +5,7 @@ LANGUAGE LANG_LITHUANIAN, SUBLANG_LITHUANIAN
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
     IDS_SETUP_UNINSTALL_PROMPT  "Ar tikrai norite pašalinti ExplorerPatcher iš jūsų kompiuterio?"
     IDS_SETUP_INSTALL_LOGOFF    "Kad programa būtų sėkmingai įdiegta, būsite automatiškai atjungti iš Windows paskyros. ExplorerPatcher bus paruoštas naudojimui kai prisijungsite iš naujo.\n\nAr norite tęsti?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Kad programa būtų sėkmingai pašalinta, būsite automatiškai atjungti iš Windows paskyros.\n\nAr norite tęsti?"

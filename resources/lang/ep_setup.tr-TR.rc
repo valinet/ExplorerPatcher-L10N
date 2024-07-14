@@ -5,6 +5,7 @@ LANGUAGE LANG_TURKISH, SUBLANG_TURKISH_TURKEY
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
     IDS_SETUP_UNINSTALL_PROMPT  "ExplorerPatcher'i bilgisayarınızdan kaldırmak istediğinizden emin misiniz?"
     IDS_SETUP_INSTALL_LOGOFF    "Yüklemek için Windows oturumunuz otomatik olarak kapatılacaktır. Tekrar oturum açtığınızda ExplorerPatcher kullanıma hazır olacak.\n\nDevam etmek istiyor musunuz?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Kaldırma işlemini tamamlamak için Windows oturumunuz otomatik olarak kapatılacaktır.\n\Devam etmek istiyor musunuz?"

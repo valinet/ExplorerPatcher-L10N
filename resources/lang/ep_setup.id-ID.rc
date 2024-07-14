@@ -5,6 +5,7 @@ LANGUAGE LANG_INDONESIAN, SUBLANG_INDONESIAN_INDONESIA
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Silakan jalankan file setup versi %1$s pada perangkat %1$s. File setup ini hanya untuk perangkat %2$s."
     IDS_SETUP_UNINSTALL_PROMPT  "Apakah Anda yakin ingin meng-uninstal ExplorerPatcher dari komputer Anda?"
     IDS_SETUP_INSTALL_LOGOFF    "Untuk meng-instal, Anda akan secara otomatis keluar dari Windows. ExplorerPatcher akan siap digunakan saat Anda masuk kembali.\n\nLanjutkan?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Untuk menyelesaikan proses uninstal, Anda akan keluar secara otomatis dari Windows.\n\Lanjutkan?"

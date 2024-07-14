@@ -5,6 +5,7 @@ LANGUAGE LANG_DUTCH, SUBLANG_DUTCH
 
 STRINGTABLE
 BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
     IDS_SETUP_UNINSTALL_PROMPT  "Weet je zeker dat je ExplorerPatcher van je pc wilt verwijderen?"
     IDS_SETUP_INSTALL_LOGOFF    "Om te installeren, wordt je automatisch afgemeld bij Windows. ExplorerPatcher is klaar voor gebruik wanneer je opnieuw aanmeldt.\n\nWil je doorgaan?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Om deinstallatie te voltooien, wordt je automatisch afgemeld bij Windows.\n\nWil je doorgaan?"
