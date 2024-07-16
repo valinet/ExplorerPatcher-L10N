@@ -9,7 +9,7 @@ BEGIN
     IDS_UPDATES_AVAILABLE_T     "%d.%d.%d.%d sürümü mevcut"
     IDS_UPDATES_AVAILABLE_T_U   "Yeni sürüm mevcut"
     IDS_UPDATES_AVAILABLE_B     "Bu güncelleme hakkında daha fazla bilgi edinmek için burayı tıklayın."
-    IDS_UPDATES_AVAILABLE_A     "Update now"
+    IDS_UPDATES_AVAILABLE_A     "Şimdi güncelle"
     IDS_UPDATES_ISLATEST_T      "Güncelleme mevcut değil"
     IDS_UPDATES_ISLATEST_B      "Daha sonra kontrol edin."
     IDS_UPDATES_CHECKFAILED_T   "Güncelleştirmeler kontrol edilemiyor"
