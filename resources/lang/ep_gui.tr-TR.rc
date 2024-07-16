@@ -15,7 +15,7 @@ BEGIN
     IDS_UPDATES_CHECKFAILED_T   "Güncelleştirmeler kontrol edilemiyor"
     IDS_UPDATES_CHECKFAILED_B   "İnternete bağlı olduğunuzdan ve uzak sunucunun çevrimiçi olduğundan emin olun."
     IDS_UPDATES_DOWNLOADING_T   "Güncellemeler indiriliyor ve kuruluyor…"
-    IDS_UPDATES_DOWNLOADING_0   "Preparing…"
+    IDS_UPDATES_DOWNLOADING_0   "Hazırlanıyor…"
     IDS_UPDATES_SUCCESS_T       "Güncelleme başarılı"
     IDS_UPDATES_DLFAILED_T      "Güncelleme başarısız"
     IDS_UPDATES_DLFAILED_B      "Bu güncelleştirmeyi yüklemeye çalışırken vazgeçildi veya bir hata oluştu."
