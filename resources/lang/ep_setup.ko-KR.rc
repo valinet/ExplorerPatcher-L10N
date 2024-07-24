@@ -5,7 +5,7 @@ LANGUAGE LANG_KOREAN, SUBLANG_KOREAN
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
+    IDS_SETUP_UNSUPPORTED_ARCH  "%1$s 기기에서는 설치 파일의 %1$s 버전을 실행해주세요. 이 설치 파일은 %2$s 기기 전용입니다."
     IDS_SETUP_UNINSTALL_PROMPT  "이 PC에서 ExplorerPatcher를 제거하시겠어요?"
     IDS_SETUP_INSTALL_LOGOFF    "설치하려면 Windows에서 자동으로 로그아웃해야 합니다. 다시 로그인하면 ExplorerPatcher를 사용할 수 있습니다.\n\n계속할까요?"
     IDS_SETUP_UNINSTALL_LOGOFF  "제거를 완료하려면 Windows에서 자동으로 로그아웃해야 합니다.\n\n계속할까요?"
