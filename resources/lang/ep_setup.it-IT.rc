@@ -1,0 +1,14 @@
+#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN_IT
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "Sei sicuro di voler disinstallare ExplorerPatcher?"
+    IDS_SETUP_INSTALL_LOGOFF    "Per completare l'installazione, è necessario disconettersi dall'account di Windows e accedere nuovamente per utilizzare ExplorerPatcher.\n\nDisconettersi ora?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Per completare la disinstallazione, è necessario disconnettersi dall'account di Windows.\n\nDisconettersi ora?"
+    IDS_SETUP_UNINSTALL_RESTART "Per completare la disinstallazione, è necessario riavviare il computer.\n\nVuoi riavviare ora?"
+    IDS_SETUP_UNINSTALL_FINISH  "Disinstallazione completata. Grazie per aver utilizzato ExplorerPatcher."
+    IDS_SETUP_FAILED            "Si è verificato un errore durante la configurazione di ExplorerPatcher.\nMolto probabilmente il problema è dovuto ad alcune vecchie versioni dei file di backup; l'eliminazione di questi file dovrebbe risolvere il problema.\n\nCome rimuoverli：\n• Chiudi e riapri l'interfaccia delle impostazioni di ExplorerPatcher (finestra delle proprietà).\n• Termina e riavvia tutti i processi explorer.exe.\n• Se il plug-in ""Registration for Shell Extensions"" è abilitato, è necessario riavviare il computer.\n• Se tutto ciò non funziona, riavvia il computer e riprova."
+END
