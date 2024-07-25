@@ -6,12 +6,12 @@ LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN_IT
 STRINGTABLE
 BEGIN
     IDS_UPDATES_CHECKING_T      "Sto controllando gli aggiornamenti…"
-    IDS_UPDATES_AVAILABLE_T     "Version %d.%d.%d.%d is available"
+    IDS_UPDATES_AVAILABLE_T     "La versione %d.%d.%d.%d è disponibile"
     IDS_UPDATES_AVAILABLE_T_U   "Nuova Versione disponibile"
-    IDS_UPDATES_AVAILABLE_B     "Puoi aggiornare cliccando con il pulsante destro del mouse sulla barra delle applicazion, scegliendo ""Proprietà"", poi ""Aggiornamenti"". Clicca qui per scoprire di più su questo aggiornamento."
-    IDS_UPDATES_ISLATEST_T      "Nessun aggironamento disponibile"
+    IDS_UPDATES_AVAILABLE_B     "Puoi aggiornare cliccando con il pulsante destro del mouse sulla barra delle applicazioni, scegliendo ""Proprietà"", poi ""Aggiornamenti"". Clicca qui per scoprire di più su questo aggiornamento."
+    IDS_UPDATES_ISLATEST_T      "Nessun aggiornamento disponibile"
     IDS_UPDATES_ISLATEST_B      "Controlla più tardi."
-    IDS_UPDATES_CHECKFAILED_T   "Impossiblile controllare aggiornamenti"
+    IDS_UPDATES_CHECKFAILED_T   "Impossibile controllare gli aggiornamenti"
     IDS_UPDATES_CHECKFAILED_B   "Assicurati di essere connesso a Internet e che il server remoto sia online."
     IDS_UPDATES_DOWNLOADING_T   "Download e installazione degli aggiornamenti…"
     IDS_UPDATES_SUCCESS_T       "Aggiornamento Completato!"
