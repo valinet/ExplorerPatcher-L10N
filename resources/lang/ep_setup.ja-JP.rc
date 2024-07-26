@@ -5,7 +5,7 @@ LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNSUPPORTED_ARCH  "%1$s デバイスでは %1$s バージョンのセットアップ ファイルを実行してください。このセットアップ ファイルは %2$s デバイス専用です。"
+    IDS_SETUP_UNSUPPORTED_ARCH  "%1$s デバイスでは %1$s 版のセットアップ ファイルを実行してください。このセットアップ ファイルは %2$s デバイス専用です。"
     IDS_SETUP_UNINSTALL_PROMPT  "お使いの PC から ExplorerPatcher を削除してもよろしいですか?"
     IDS_SETUP_INSTALL_LOGOFF    "インストールを完了するために、自動的に Windows からサインアウトされます。再度サインインすると、ExplorerPatcher を使用できるようになります。\n\n続行しますか?"
     IDS_SETUP_UNINSTALL_LOGOFF  "アンインストールを完了するために、自動的に Windows からサインアウトされます。\n\n続行しますか?"
