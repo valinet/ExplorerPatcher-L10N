@@ -5,7 +5,7 @@ LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
+    IDS_SETUP_UNSUPPORTED_ARCH  "目前的安裝檔僅適用於 %2$s 的裝置。在此 %1$s 裝置上，請使用 %1$s 版本的安裝檔安裝。"
     IDS_SETUP_UNINSTALL_PROMPT  "您確定要從電腦中移除 ExplorerPatcher 嗎？"
     IDS_SETUP_INSTALL_LOGOFF    "要完成安裝，您將被自動登出 Windows 帳戶，重新登入後即可使用 ExplorerPatcher。\n\n您想要現在登出帳戶嗎?"
     IDS_SETUP_UNINSTALL_LOGOFF  "要完成移除，您將被自動登出 Windows 帳戶。\n\n您想要現在登出帳戶嗎?"
