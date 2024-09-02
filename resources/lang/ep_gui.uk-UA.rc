@@ -369,7 +369,7 @@ BEGIN
     IDS_OTHER_PWRBTNACTION_64   "Сплячий режим"
     IDS_OTHER_PWRBTNACTION_2    "Завершити роботу (системний)"
     IDS_OTHER_PWRBTNACTION_4    "Перезавантажити"
-    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Enable logon, logoff, and shutdown sounds"
+    IDS_OTHER_LOGONLOGOFFSHUTDOWNSOUNDS "Увімкнути звуки входу, виходу та вимкнення"
     IDS_OTHER_NOREDIRECT        "Заборонити перенаправлення до Налаштувань:"
     IDS_OTHER_NOREDIRECT_SYSTEM "Система / Сторінка про систему"
     IDS_OTHER_NOREDIRECT_PROGRAMS "Програми"
@@ -384,7 +384,7 @@ BEGIN
     IDS_UPDATES_POLICY_2        "Не перевіряти наявність оновлень"
     IDS_UPDATES_PREFER_STAGING  "Використовувати попередні версії, якщо вони доступні (не рекомендується)"
     IDS_UPDATES_DOWNGRADES      "Пропонувати останню версію на сервері, навіть якщо вона старіша (не рекомендується)"
-    IDS_UPDATES_USELOCAL        "Build updates locally before installing"
+    IDS_UPDATES_USELOCAL        "Зібрати оновлення локально перед встановленням"
     IDS_UPDATES_UPDATESERVERS   "Сервери для отримання оновлень:"
     IDS_UPDATES_RELEASES        "Стабільні версії"
     IDS_UPDATES_RELEASES_PROMPT "Введіть URL-адресу, яка використовується\nдля отримання оновлень, згідно з вимог API GitHub."
@@ -400,7 +400,7 @@ BEGIN
     IDS_ADV_DISCLAIMER          "Використовуйте ці опції лише після ознайомлення з документацією."
     IDS_ADV_LEARN               "Дізнатися більше"
     IDS_ADV_CONSOLE             "Увімкнути консоль"
-    IDS_ADV_MEMCHECK            "Dump memory leaks"
+    IDS_ADV_MEMCHECK            "Перевірити витоки пам'яті"
     IDS_ADV_AUTOHIDE            "Двічі натисніть на панелі завдань(увімкнути автоприховування)"
     IDS_ADV_PAINTDESKTOPVERSION "Показати інформацію про збірку Windows на робочому столі"
     IDS_ADV_CLASSICTHEME        "Увімкніть розширені функції для коректного рендерингу класичної теми"
@@ -427,10 +427,10 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Налаштування успішно збережені."
     IDS_ABOUT_RESET             "Відновити налаштування за замовчуванням"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Налаштування та видалення"
 
-    IDS_UNINSTALL               "Uninstall"
-    IDS_UNINSTALL_UNINSTALL     "Uninstall ExplorerPatcher"
+    IDS_UNINSTALL               "Видалення"
+    IDS_UNINSTALL_UNINSTALL     "Видалити ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Перезавантажити Провідник"
 END
