@@ -78,7 +78,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Sempre combinar (padrão)"
     IDS_TB_GLOM_0               "Sempre combinar"
     IDS_TB_GLOM_1               "Combinar quando a barra de tarefas estiver cheia"
-    IDS_TB_GLOM_2_D             "Nunca combinar (padrão)"
     IDS_TB_GLOM_2               "Nunca combinar"
     IDS_TB_SECONDARYTBGLOM      "Combinar ícones da barra de tarefas na(s) barra(s) de tarefas secundária(s)"
     IDS_TB_ICONSIZE             "Tamanho dos ícones da barra de tarefas"
