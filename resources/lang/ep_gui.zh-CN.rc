@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "始终合并(默认)"
     IDS_TB_GLOM_0               "始终合并"
     IDS_TB_GLOM_1               "当任务栏被占满时合并"
-    IDS_TB_GLOM_2_D             "从不合并(默认)"
     IDS_TB_GLOM_2               "从不合并"
     IDS_TB_SECONDARYTBGLOM      "副屏任务栏合并图标"
     IDS_TB_ICONSIZE             "任务栏图标大小"

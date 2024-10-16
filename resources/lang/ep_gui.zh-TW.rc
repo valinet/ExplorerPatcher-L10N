@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "總是合併 (預設)"
     IDS_TB_GLOM_0               "總是合併"
     IDS_TB_GLOM_1               "當工作列被佔滿時合併"
-    IDS_TB_GLOM_2_D             "永不合併 (預設)"
     IDS_TB_GLOM_2               "永不合併"
     IDS_TB_SECONDARYTBGLOM      "副螢幕工作列合併圖示"
     IDS_TB_ICONSIZE             "工作列圖示大小"

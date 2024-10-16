@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Selalu kombinasikan (default)"
     IDS_TB_GLOM_0               "Selalu kombinasikan"
     IDS_TB_GLOM_1               "Kombinasikan bila taskbar penuh"
-    IDS_TB_GLOM_2_D             "Jangan kombinasikan (default)"
     IDS_TB_GLOM_2               "Jangan kombinasikan"
     IDS_TB_SECONDARYTBGLOM      "Gabungkan tombol taskbar di layar lainnya"
     IDS_TB_ICONSIZE             "Ukuran tombol taskbar"

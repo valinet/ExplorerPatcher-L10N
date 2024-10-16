@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Mindig (alapértelmezett)"
     IDS_TB_GLOM_0               "Mindig"
     IDS_TB_GLOM_1               "Összevonás ha a tálca megtelt"
-    IDS_TB_GLOM_2_D             "Soha (alapértelmezett)"
     IDS_TB_GLOM_2               "Soha"
     IDS_TB_SECONDARYTBGLOM      "Tálcaikonok összevonása az másodlagos tálcán/tálcákon"
     IDS_TB_ICONSIZE             "Tálcaikonok mérete"

@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Immer kombinieren (Standard)"
     IDS_TB_GLOM_0               "Immer kombinieren"
     IDS_TB_GLOM_1               "Kombinieren, wenn die Taskleiste voll ist"
-    IDS_TB_GLOM_2_D             "Nicht kombinieren (Standard)"
     IDS_TB_GLOM_2               "Nicht kombinieren"
     IDS_TB_SECONDARYTBGLOM      "Kombinierung der Taskleistensymbole in sekundären Taskleiste(n)"
     IDS_TB_ICONSIZE             "Größe der Taskleistensymbole"

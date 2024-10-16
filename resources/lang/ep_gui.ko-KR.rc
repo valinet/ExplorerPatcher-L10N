@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "항상 합치기(기본값)"
     IDS_TB_GLOM_0               "항상 합치기"
     IDS_TB_GLOM_1               "작업 표시줄이 꽉 찼을 때 합치기"
-    IDS_TB_GLOM_2_D             "합치지 않음(기본값)"
     IDS_TB_GLOM_2               "합치지 않음"
     IDS_TB_SECONDARYTBGLOM      "보조 작업 표시줄에서 작업 표시줄 아이콘 합치기"
     IDS_TB_ICONSIZE             "작업 표시줄 아이콘 크기"

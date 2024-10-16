@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Zawsze połącz (domyślnie)"
     IDS_TB_GLOM_0               "Zawsze połącz"
     IDS_TB_GLOM_1               "Zawsze połącz, jeżeli pasek zadań jest pełny"
-    IDS_TB_GLOM_2_D             "Nigdy nie łącz (domyślnie)"
     IDS_TB_GLOM_2               "Nigdy nie łącz"
     IDS_TB_SECONDARYTBGLOM      "Połącz ikony na dodatkowym pasku zadań"
     IDS_TB_ICONSIZE             "Wielkość ikon na pasku zadań"
