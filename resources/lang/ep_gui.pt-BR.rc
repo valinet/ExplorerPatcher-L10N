@@ -134,8 +134,8 @@ BEGIN
 
     IDS_EXP                     "Explorador de Arquivos"
 
-    IDS_EXP_SHEXT_L1            "Para que as configurações marcadas com (**) funcionem também nas caixas de diálogo Abrir ou Salvar arquivo, registre"
-    IDS_EXP_SHEXT_L2            "este utilitário como extensão de shell usando a opção abaixo."
+    IDS_EXP_SHEXT_L1            "Para que as configurações marcadas com (**) funcionem também nas caixas de diálogo Abrir ou Salvar"
+    IDS_EXP_SHEXT_L2            "arquivo, registre este utilitário como extensão de shell usando a opção abaixo."
     IDS_EXP_SHEXT_LEARN         "Saiba mais"
     IDS_EXP_SHEXT_REGISTER      "Registrar como extensão de shell"
     IDS_EXP_DISABLECTXMENU      "Desabilitar o menu de contexto do Windows 11"
