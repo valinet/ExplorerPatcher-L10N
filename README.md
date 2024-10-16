@@ -45,6 +45,7 @@ We would like to thank the following people for their contributions in translati
 | Korean                | @MuscularPuky                                   |
 | Lithuanian            | @Kass401                                        |
 | Polish                | @BestiaPL                                       |
+| Portuguese (Brazil)   | @thiagojramos                                   |
 | Romanian              | @21124637                                       |
 | Russian               | @the-aLeXiS                                     |
 | Turkish               | @Akif9748                                       |
