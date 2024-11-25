@@ -1,4 +1,4 @@
-﻿#include "resources/resource.h"
+#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
@@ -6,10 +6,10 @@ LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
 STRINGTABLE
 BEGIN
     IDS_SETUP_UNSUPPORTED_ARCH  "Bitte führen Sie die %1$s Version der Setup-Datei auf %1$s Geräten aus. Diese Setup-Datei ist nur für %2$s Geräte."
-    IDS_SETUP_UNINSTALL_PROMPT  "Bist du dir sicher, ExplorerPatcher vom PC zu entfernen?"
-    IDS_SETUP_INSTALL_LOGOFF    "Bei der Installation werden Sie automatisch von Windows abgemeldet. ExplorerPatcher ist einsatzbereit, wenn Sie sich erneut anmelden.\n\nWollen sie fortfahren?"
-    IDS_SETUP_UNINSTALL_LOGOFF  "Zum Abschluss der Deinstallation, werden Sie automatisch von Windows abgemeldet.\n\nWollen sie fortfahren?"
+    IDS_SETUP_UNINSTALL_PROMPT  "Sind Sie sich sicher, ExplorerPatcher vom PC zu entfernen?"
+    IDS_SETUP_INSTALL_LOGOFF    "Bei der Installation werden Sie automatisch von Windows abgemeldet. ExplorerPatcher ist einsatzbereit, wenn Sie sich erneut anmelden.\n\nWollen Sie fortfahren?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Zum Abschluss der Deinstallation werden Sie automatisch von Windows abgemeldet.\n\nWollen Sie fortfahren?"
     IDS_SETUP_UNINSTALL_RESTART "Bitte starten Sie den PC neu, um die Deinstallation abzuschließen.\n\nMöchten Sie jetzt neu starten?"
     IDS_SETUP_UNINSTALL_FINISH  "Deinstallation abgeschlossen. Vielen Dank, dass Sie den ExplorerPatcher verwendet haben."
-    IDS_SETUP_FAILED            "Bei der Installation von ExplorerPatcher ist ein Fehler aufgetreten.\nDies wird höchstwahrscheinlich dadurch verursacht, dass eine oder mehrere der Sicherungsdateien eines früheren Updates noch verwendet werden. Das Freigeben der Dateien sollte dieses Problem beheben.\n\nSchritte zur Fehlerbehebung:\n• Schließen Sie den Dialog „Eigenschaften“ und öffnen Sie ihn erneut, wenn es derzeit geöffnet ist.\n• Beenden Sie alle „explorer.exe“-Prozesse und starten Sie „explorer.exe“ neu.\n• Wenn Sie ExplorerPatcher als Shell-Erweiterung registriert haben, wird dieses Problem wahrscheinlich durch einen Neustart des PCs behoben.\n• Starten Sie abschließend den PC neu und versuchen Sie es erneut."
+    IDS_SETUP_FAILED            "Bei der Installation von ExplorerPatcher ist ein Fehler aufgetreten.\nDies wird höchstwahrscheinlich dadurch verursacht, dass eine oder mehrere der Sicherungsdateien eines früheren Updates noch verwendet werden. Das Freigeben der Dateien sollte dieses Problem beheben.\n\nSchritte zur Fehlerbehebung:\n• Schließen Sie den Dialog „Eigenschaften“ und öffnen Sie ihn erneut, wenn er derzeit geöffnet ist.\n• Beenden Sie alle „explorer.exe“-Prozesse und starten Sie „explorer.exe“ neu.\n• Wenn Sie ExplorerPatcher als Shell-Erweiterung registriert haben, wird dieses Problem wahrscheinlich durch einen Neustart des PCs behoben.\n• Starten Sie abschließend den PC neu und versuchen Sie es erneut."
 END
