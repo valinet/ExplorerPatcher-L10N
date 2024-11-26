@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Toujours combiner (par défaut)"
     IDS_TB_GLOM_0               "Toujours combiner"
     IDS_TB_GLOM_1               "Combiner lorsque la barre est pleine"
-    IDS_TB_GLOM_2_D             "Ne jamais combiner (par défaut)"
     IDS_TB_GLOM_2               "Ne jamais combiner"
     IDS_TB_SECONDARYTBGLOM      "Combinaison des boutons dans la(les) barre(s) des tâches secondaire(s)"
     IDS_TB_ICONSIZE             "Taille des boutons dans la(les) barre(s) des tâches"

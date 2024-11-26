@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Her zaman grupla (varsayılan)"
     IDS_TB_GLOM_0               "Her zaman grupla"
     IDS_TB_GLOM_1               "Görev çubuğu doluysa grupla"
-    IDS_TB_GLOM_2_D             "Asla gruplama (varsayılan)"
     IDS_TB_GLOM_2               "Asla gruplama"
     IDS_TB_SECONDARYTBGLOM      "İkincil görev çubuğu/çubukları'nda simgelerini grupla"
     IDS_TB_ICONSIZE             "Görev çubuğu simge boyutu"

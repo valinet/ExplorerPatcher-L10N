@@ -80,7 +80,6 @@ BEGIN
     IDS_TB_GLOM_0_D             "Altijd combineren (standaard)"
     IDS_TB_GLOM_0               "Altijd combineren"
     IDS_TB_GLOM_1               "Combineren wanneer taakbalk vol is"
-    IDS_TB_GLOM_2_D             "Nooit combineren (standaard)"
     IDS_TB_GLOM_2               "Nooit combineren"
     IDS_TB_SECONDARYTBGLOM      "Combineer pictogrammen op secundaire taakbalk(en)"
     IDS_TB_ICONSIZE             "Pictogramgrootte in de taakbalk"
