@@ -9,7 +9,7 @@ BEGIN
     IDS_UPDATES_AVAILABLE_T     "Версія %d.%d.%d.%d доступна"
     IDS_UPDATES_AVAILABLE_T_U   "Нова версія доступна"
     IDS_UPDATES_AVAILABLE_B     "Натисніть тут, щоб дізнатися більше про це оновлення."
-    IDS_UPDATES_AVAILABLE_A     "Update now"
+    IDS_UPDATES_AVAILABLE_A     "Оновити зараз"
     IDS_UPDATES_ISLATEST_T      "Оновлень немає"
     IDS_UPDATES_ISLATEST_B      "Будь ласка, перевірте пізніше."
     IDS_UPDATES_CHECKFAILED_T   "Неможливо перевірити наявність оновлень"
@@ -85,7 +85,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Розмір піктограм"
     IDS_TB_ICONSIZE_1           "Малий"
     IDS_TB_ICONSIZE_0           "Великий (системний)"
-    IDS_TB_ALTIMPL_NOTICE       "Попередження щодо встновлення ExplorerPatcher (онлайн)"
+    IDS_TB_ALTIMPL_NOTICE       "Попередження щодо реалізації рішення ExplorerPatcher (онлайн)"
 
     IDS_TRAY                    "Трей"
 
