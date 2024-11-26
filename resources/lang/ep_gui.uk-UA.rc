@@ -426,7 +426,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Налаштування успішно збережені."
     IDS_ABOUT_RESET             "Відновити налаштування за замовчуванням"
 
-    IDS_MAINTENANCE             "Налаштування та видалення"
+    IDS_MAINTENANCE             "Керування"
 
     IDS_UNINSTALL               "Видалення"
     IDS_UNINSTALL_UNINSTALL     "Видалити ExplorerPatcher"
