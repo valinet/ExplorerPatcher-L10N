@@ -14,8 +14,8 @@ BEGIN
     IDS_UPDATES_ISLATEST_B      "Будь ласка, перевірте пізніше."
     IDS_UPDATES_CHECKFAILED_T   "Неможливо перевірити наявність оновлень"
     IDS_UPDATES_CHECKFAILED_B   "Переконайтесь що підключення до інтернету активне, та сервер оновлень доступний."
-    IDS_UPDATES_DOWNLOADING_T   "Завантаження та інсталяція оновлень…"
-    IDS_UPDATES_DOWNLOADING_0   "Preparing…"
+    IDS_UPDATES_DOWNLOADING_T   "Завантаження та встановлення оновлень…"
+    IDS_UPDATES_DOWNLOADING_0   "Встановлення…"
     IDS_UPDATES_SUCCESS_T       "Оновлення успішно завершено"
     IDS_UPDATES_DLFAILED_T      "Помилка при оновленні"
     IDS_UPDATES_DLFAILED_B      "Запит було відхилено чи виникла помилка під час спроби встановити це оновлення."
@@ -85,7 +85,7 @@ BEGIN
     IDS_TB_ICONSIZE             "Розмір піктограм"
     IDS_TB_ICONSIZE_1           "Малий"
     IDS_TB_ICONSIZE_0           "Великий (системний)"
-    IDS_TB_ALTIMPL_NOTICE       "Important notice regarding ExplorerPatcher's taskbar implementation (online)"
+    IDS_TB_ALTIMPL_NOTICE       "Попередження щодо встновлення ExplorerPatcher (онлайн)"
 
     IDS_TRAY                    "Трей"
 
