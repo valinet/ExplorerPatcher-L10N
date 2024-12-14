@@ -5,7 +5,7 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_HUNGARIAN_HUNGARY
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNSUPPORTED_ARCH  "Please run the %1$s version of the setup file on %1$s devices. This setup file is only for %2$s devices."
+    IDS_SETUP_UNSUPPORTED_ARCH  "Az eszköze %1$s architektúrájú, ezért kérjük, hogy a telepítő %1$s-ra/re készített verzióját futtassa. Ez a telepítő %2$s eszközökre készült."
     IDS_SETUP_UNINSTALL_PROMPT  "Biztosan el akarja távolítani az ExplorerPatchert a számítógépről?"
     IDS_SETUP_INSTALL_LOGOFF    "A telepítéshez ki fogjuk jelentkeztetni a Windowsból. Az ExplorerPatcher használatra kész lesz, amikor újra bejelentkezik.\n\nFolytatja?"
     IDS_SETUP_UNINSTALL_LOGOFF  "Az eltávolítás befejezéséhez ki fogjuk jelentkeztetni a Windowsból.\n\nFolytatja?"
