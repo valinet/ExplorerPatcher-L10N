@@ -36,6 +36,7 @@ We would like to thank the following people for their contributions in translati
 |-----------------------|-------------------------------------------------|
 | Chinese (Simplified)  | @zetaloop, @FrzMtrsprt, @Yukari316              |
 | Chinese (Traditional) | @snowlinouo, @Corporation001                    |
+| Czech                 | @9hb, @andrewz1986, @Panzimy                    |
 | Dutch                 | @GewoonIraj                                     |
 | French                | @corentios, @Need74                             |
 | German                | @lukinator01, @NotOfficer                       |
