@@ -1,4 +1,4 @@
-#include "resources/resource.h"
+﻿#include "resources/resource.h"
 #include "winres.h"
 
 LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
