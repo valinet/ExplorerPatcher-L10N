@@ -7,7 +7,7 @@ BEGIN
     IDS_UPDATES_CHECKING_T      "Comprobando actualizaciones..."
     IDS_UPDATES_AVAILABLE_T     "Versión %d.%d.%d.%d disponible"
     IDS_UPDATES_AVAILABLE_T_U   "Nueva versión disponible"
-    IDS_UPDATES_AVAILABLE_B     "Haga clic aquí para obtener más información sobre esta actualización."
+    IDS_UPDATES_AVAILABLE_B     "Haz clic aquí para obtener más información sobre esta actualización."
     IDS_UPDATES_AVAILABLE_A     "Actualizar Ahora"
 	IDS_UPDATES_ISLATEST_T      "No hay actualizaciones disponibles"
     IDS_UPDATES_ISLATEST_B      "Inténtalo de nuevo más tarde."
