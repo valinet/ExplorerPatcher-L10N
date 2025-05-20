@@ -1,7 +1,8 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_ES
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MODERN
+
 STRINGTABLE
 BEGIN
     IDS_UPDATES_CHECKING_T      "Comprobando actualizaciones..."
@@ -79,15 +80,15 @@ BEGIN
 	IDS_TB_GLOM_0_D             "Siempre combinar (predeterminado)"
 	IDS_TB_GLOM_0               "Siempre combinar"
 	IDS_TB_GLOM_1               "Combinar cuando la barra de tareas esté llena"
-	IDS_TB_GLOM_2_D             "Nunca combinar (predeterminado)"
 	IDS_TB_GLOM_2               "Nunca combinar"
 	IDS_TB_SECONDARYTBGLOM      "Combinar iconos de la barra de tareas secundaria"
 	IDS_TB_ICONSIZE             "Tamaño del icono de la barra de tareas"
 	IDS_TB_ICONSIZE_1           "Pequeño"
 	IDS_TB_ICONSIZE_0           "Grande (predeterminado)"
+	IDS_TB_ALTIMPL_NOTICE       "Aviso importante sobre la implementación de la barra de tareas de ExplorerPatcher (en línea)"
 
 	IDS_TRAY                    "Bandeja del sistema"
-	
+
 	IDS_TRAY_SKINMENUS          "Menús estilizados de la barra de tareas y bandeja"
 	IDS_TRAY_CENTERMENUS        "Centrar menús emergentes del icono en la bandeja"
 	IDS_TRAY_FLYOUTMENUS        "Comportamiento de superposición para menús emergentes del icono en la bandeja"
@@ -133,9 +134,9 @@ BEGIN
 	IDS_TRAY_LANGSWITCHER_4     "Windows 10 (sin animación)"
 
 	IDS_EXP                     "Explorador de Archivos"
-	
-	IDS_EXP_SHEXT_L1            "Para que las opciones marcadas con (**) funcionen también en los cuadros de diálogo Abrir o Guardar archivo, registre"
-	IDS_EXP_SHEXT_L2            "este programa como extensión shell usando la opción de abajo."
+
+	IDS_EXP_SHEXT_L1            "Para que las opciones marcadas con (**) funcionen también en los cuadros de diálogo Abrir o Guardar archivo,"
+	IDS_EXP_SHEXT_L2            "registre este programa como extensión shell usando la opción de abajo."
 	IDS_EXP_SHEXT_LEARN         "Más información"
 	IDS_EXP_SHEXT_REGISTER      "Registrar como extensión de shell"
 	IDS_EXP_DISABLECTXMENU      "Desactivar el menú contextual de Windows 11"
@@ -175,7 +176,7 @@ BEGIN
 	IDS_START_MAXFREQAPPS_6     "6 (predeterminado)"
 	IDS_START_MAXFREQAPPS_99999 "Ilimitado"
 	IDS_START_MONITOROVERRIDE_L1 "Al usar varios monitores, abrir el Menú Inicio en este monitor cuando se presione la tecla Windows"
-	IDS_START_MONITOROVERRIDE_L2 "en el teclado:"
+	IDS_START_MONITOROVERRIDE_L2 "en el teclado"
 	IDS_START_MONITOROVERRIDE_1 "Monitor principal (predeterminado)"
 	IDS_START_MONITOROVERRIDE_0 "Monitor donde está el cursor"
 	IDS_START_MONITOROVERRIDE_2 "Monitor #2"
@@ -205,7 +206,7 @@ BEGIN
 	IDS_START_WIN10_NOTICE      "Es posible que algunos ajustes no estén disponibles en versiones anteriores de Windows 10."
 
 	IDS_AT                      "Alt Tab"
-	
+
 	IDS_AT_STYLE                "Estilo del Cambio de Ventana (Alt+Tab)"
 	IDS_AT_STYLE_0_W11          "Windows 11 (predeterminado)"
 	IDS_AT_STYLE_0_W10          "Windows 10 (predeterminado)"
@@ -262,7 +263,7 @@ BEGIN
 	IDS_AT_SWS_LEARN            "Más información sobre el Cambio de Ventana Simple"
 
 	IDS_WEATHER                 "Tiempo "
-	
+
 	IDS_WEATHER_SHOW            "Mostrar el tiempo  en la barra de tareas"
 	IDS_WEATHER_LOC             "Ubicación"
 	IDS_WEATHER_LOC_PROMPT      "Escribe el nombre de la ciudad o código postal; el programa buscará ""tiempo en /* lo que escribiste */"" en Google. Déjalo en blanco para el valor predeterminado (ubicación actual)."
@@ -318,7 +319,7 @@ BEGIN
 	IDS_WEATHER_CLEAR_WAIT      "Espera..."
 	IDS_WEATHER_CLEAR_SUCCESS   "Datos del widget de tiempo limpiados con éxito."
 	IDS_WEATHER_CLEAR_FAILED    "Ocurrió un error al limpiar los datos."
-	
+
 	IDS_SP                      "Resaltado"
 
 	IDS_SP_HIDEICON             "Ocultar el icono ""Más información sobre esta imagen"""
@@ -344,7 +345,7 @@ BEGIN
 	IDS_SP_UPDATEFREQ_43200     "Cada 12 horas"
 	IDS_SP_UPDATEFREQ_86400     "Una vez al día"
 	IDS_SP_MOREOPTIONS          "Mostrar más opciones"
-	
+
 	IDS_OTHER                   "Otros"
 
 	IDS_OTHER_REMEMBERLAST      "Recordar la última sección utilizada en esta ventana"
