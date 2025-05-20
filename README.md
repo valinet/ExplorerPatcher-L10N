@@ -49,5 +49,6 @@ We would like to thank the following people for their contributions in translati
 | Portuguese (Brazil)   | @thiagojramos                                   |
 | Romanian              | @21124637                                       |
 | Russian               | @the-aLeXiS                                     |
+| Spanish (Spain)       | @AlejandroMartiGisbert                          |
 | Turkish               | @Akif9748                                       |
 | Ukrainian             | @AyzekUorren                                    |

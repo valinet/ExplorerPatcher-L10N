@@ -1,0 +1,15 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MODERN
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "Por favor, ejecute la versión %1$s del archivo de instalación en %1$s dispositivos. Este archivo de instalación es solo para dispositivos %2$s ."
+    IDS_SETUP_UNINSTALL_PROMPT  "¿Desea desinstalar ExplorerPatcher de tu ordenador?"
+    IDS_SETUP_INSTALL_LOGOFF    "Para instalar, se cerrará tu sesión automáticamente en Windows. ExplorerPatcher estará listo para usarse cuando vuelvas a iniciar sesión.\n\n¿Desea continuar?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Para completar la desinstalación, se cerrará tu sesión automáticamente en Windows.\n\n¿Desea continuar?"
+    IDS_SETUP_UNINSTALL_RESTART "Por favor, reinicie el PC para finalizar la desinstalación.\n\n¿Desea reiniciar ahora?"
+    IDS_SETUP_UNINSTALL_FINISH  "Desinstalación completada. Gracias por usar ExplorerPatcher."
+    IDS_SETUP_FAILED            "Ha ocurrido un error al ejecutar ExplorerPatcher.\nEsto probablemente se deba al uso de uno o más archivos de copia de seguridad de una actualización anterior. Desbloquear estos archivos debería solucionar el problema.\n\nPasos para solucionar problemas:\n• Cierre y vuelva a abrir la ventana de ""Propiedades"" si está abierta.\n• Cierre y reinicie todos los procesos ""explorer.exe"".\n• Si registraste ExplorerPatcher como una extensión de shell, reiniciar el PC probablemente lo solucionará.\n• Finalmente, reinicie el PC y pruebe de nuevo."
+END
