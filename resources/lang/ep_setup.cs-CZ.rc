@@ -5,11 +5,11 @@ LANGUAGE LANG_CZECH, SUBLANG_CZECH_CZECH_REPUBLIC
 
 STRINGTABLE
 BEGIN
-    IDS_SETUP_UNSUPPORTED_ARCH  "Na %1$s zařízeních prosím spusťte %1$s verzi instalátoru. Tento instalátor je pouze pro %2$s zařízení."
-    IDS_SETUP_UNINSTALL_PROMPT  "Jste si jistí, že chcete odstranit ExplorerPatcher z vašeho PC?"
-    IDS_SETUP_INSTALL_LOGOFF    "Kvůli instalaci budete automaticky odhlášení z Windows. ExplorerPatcher bude připraven k použití, až se znovu přihlásíte.\n\nPřejete si pokračovat?"
-    IDS_SETUP_UNINSTALL_LOGOFF  "Pro dokončení odinstalace budete automaticky odhlášení z Windows.\n\nPřejete si pokračovat?"
-    IDS_SETUP_UNINSTALL_RESTART "Pro dokončení odinstalace prosím restartujte PC.\n\nPřejete si restart provést teď?"
-    IDS_SETUP_UNINSTALL_FINISH  "Odinstalace byla dokončena. Děkujeme za používání ExplorerPatcheru."
-    IDS_SETUP_FAILED            "Při servisování ExplorerPatcheru se vyskytla chyba. \nNejspíše k tomu došlo proto, že zůstal používán jeden nebo více záložních souborů předchozí aktualizace. Odemčení těchto souborů by problém mělo vyřešit.\n\nKroky k odstranění problému:\n• Zavřete a znovu otevřete dialog „Vlastnosti“, pokud je momentálně otevřený.\n• Ukončete a restartujte všechny procesy""explorer.exe"".\n• Pokud jste ExplorerPatcher zaregistrovali jako rozšíření prostředí Windows, tak problém pravděpodobně vyřeší restart PC.\n• Nakonec restartujte PC a zkuste to znovu."
+    IDS_SETUP_UNSUPPORTED_ARCH  "Prosím spusťte %1$s verzi instalačního souboru na %1$s zařízeních. Tento instalační soubor je určen pouze pro %2$s zařízení."
+    IDS_SETUP_UNINSTALL_PROMPT  "Opravdu chcete odebrat ExplorerPatcher z Vašeho počítače?"
+    IDS_SETUP_INSTALL_LOGOFF    "Pro dokončení instalace budete automaticky odhlášeni z Windowsu. ExplorerPatcher bude připraven k použití, až se znovu přihlásíte.\n\nChcete pokračovat?"
+    IDS_SETUP_UNINSTALL_LOGOFF  "Pro dokončení odinstalace budete automaticky odhlášeni z Windowsu.\n\nChcete pokračovat?"
+    IDS_SETUP_UNINSTALL_RESTART "Pro dokončení odinstalace je nutné restartovat počítač.\n\nChcete ho restartovat nyní?"
+    IDS_SETUP_UNINSTALL_FINISH  "Odinstalace byla dokončena. Děkujeme za používání aplikace ExplorerPatcher."
+    IDS_SETUP_FAILED            "Při obsluze nástroje ExplorerPatcher došlo k chybě.\nBude to pravděpodobně způsobeno tím, že se stále používá jeden nebo více záložních souborů z předchozí aktualizace. Odblokování těch souborů by mělo problém vyřešit.\n\nKroky k řešení problému:\n• Zavřete a znovu otevřete dialogové okno „Vlastnosti", pokud je právě otevřené.\n• Ukončete a restartujte všechny procesy "explorer.exe".\n• Pokud jste zaregistrovali ExplorerPatcher jako rozšíření shellu, pak restartování počítače pravděpodobně problém vyřeší.\n• Nakonec restartujte počítač a zkuste to znovu."
 END
