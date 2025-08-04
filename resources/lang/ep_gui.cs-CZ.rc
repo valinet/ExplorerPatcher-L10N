@@ -124,7 +124,7 @@ BEGIN
     IDS_TRAY_CLOCK_1            "Windows 7"
     IDS_TRAY_CLOCK_2_W10        "Centrum akcí"
     IDS_TRAY_BATTERY            "Baterie"
-    IDS_TRAY_BATTERY_0          "Windows 10 rozbalovací nabídka (výchozí) (DOČASNĚ NEFUNKČNÍ)"
+    IDS_TRAY_BATTERY_0          "Windows 10 rozbalovací nabídka (výchozí)"
     IDS_TRAY_BATTERY_1          "Windows 7"
     IDS_TRAY_LANGSWITCHER       "Styl přepínače jazyků"
     IDS_TRAY_LANGSWITCHER_0     "Windows 11 (výchozí)"
