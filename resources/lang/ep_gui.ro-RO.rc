@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (implicit)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (implementare furnizată de ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Bara de activități în stil Windows 10 nu este disponibilă momentan în această versiune de Windows."
     IDS_TB_MORE                 "Mai multe opțiuni ale barei de activități în aplicația Setări"
     IDS_TB_CUSTOMIZETRAYICONS   "Particularizați pictogramele din zona de notificare"
     IDS_TB_CUSTOMIZESYSTEMICONS "Particularizați pictogramele de sistem din zona de notificare"

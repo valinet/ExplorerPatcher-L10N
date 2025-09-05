@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (默认)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 任务栏在当前 Windows 版本中不再可用。"
     IDS_TB_MORE                 "设置 - 任务栏选项"
     IDS_TB_CUSTOMIZETRAYICONS   "管理软件托盘图标"
     IDS_TB_CUSTOMIZESYSTEMICONS "管理系统托盘图标"

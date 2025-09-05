@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (padrão)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "A barra de tarefas do Windows 10 não está disponível nesta versão do Windows."
     IDS_TB_MORE                 "Mais opções da barra de tarefas no aplicativo Configurações"
     IDS_TB_CUSTOMIZETRAYICONS   "Personalizar ícones da área de notificação"
     IDS_TB_CUSTOMIZESYSTEMICONS "Personalizar ícones do sistema na área de notificação"

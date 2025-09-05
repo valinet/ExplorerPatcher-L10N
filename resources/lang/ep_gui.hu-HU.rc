@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (alapértelmezett)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "A Windows 10-es tálca nem elérhető ezen a Windows verzión."
     IDS_TB_MORE                 "További tálcaopciók a Beállítások alkalmazásban"
     IDS_TB_CUSTOMIZETRAYICONS   "Értesítési területen megjelenő ikonok testreszabása"
     IDS_TB_CUSTOMIZESYSTEMICONS "Értesítési területen megjelenő rendszerikonok testreszabása"

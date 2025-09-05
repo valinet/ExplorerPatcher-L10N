@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (既定)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 タスク バーはこのバージョンの Windows では利用できません。"
     IDS_TB_MORE                 "設定アプリ内のタスク バーの設定"
     IDS_TB_CUSTOMIZETRAYICONS   "通知領域のアイコンをカスタマイズ"
     IDS_TB_CUSTOMIZESYSTEMICONS "通知領域のシステム アイコンをカスタマイズ"

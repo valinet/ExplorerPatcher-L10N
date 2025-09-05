@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (Standard)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Die Windows 10-Taskleiste ist in dieser Windows-Version nicht mehr verfügbar."
     IDS_TB_MORE                 "Weitere Taskleistenoptionen in der Einstellungen-App"
     IDS_TB_CUSTOMIZETRAYICONS   "Benachrichtigungsbereichssymbole anpassen"
     IDS_TB_CUSTOMIZESYSTEMICONS "Anpassen der Systemsymbole im Benachrichtigungsbereich"

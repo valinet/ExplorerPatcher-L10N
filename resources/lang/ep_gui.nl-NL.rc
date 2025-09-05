@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (standaard)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 taakbalk is niet beschikbaar in deze versie van Windows."
     IDS_TB_MORE                 "Meer taakbalkopties in de Instellingen-app"
     IDS_TB_CUSTOMIZETRAYICONS   "Aanpassen van pictogrammen in het meldingsgebied"
     IDS_TB_CUSTOMIZESYSTEMICONS "Aanpassen van systeempictogrammen in het meldingsgebied"

@@ -43,7 +43,6 @@ BEGIN
     IDS_TB_STYLE_0              "Windows 11 (dvýchozí)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"
-    IDS_TB_WIN10_UNAVAILABLE    "Windows 10 hlavní panel není v této verzi systému Windows k dispozici."
     IDS_TB_MORE                 "Další možnosti hlavního panelu v Nastavení"
     IDS_TB_CUSTOMIZETRAYICONS   "Přizpůsobte si ikony v oznamovací oblasti"
     IDS_TB_CUSTOMIZESYSTEMICONS "Přizpůsobte si systémové ikony v oznamovací oblasti"
