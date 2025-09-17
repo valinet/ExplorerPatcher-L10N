@@ -86,7 +86,7 @@ BEGIN
     IDS_TB_ICONSIZE_0           "Velké (výchozí)"
     IDS_TB_ALTIMPL_NOTICE       "Důležité upozornění týkající se implementace hlavního panelu ExplorerPatcher (online)"
 
-    IDS_TRAY                    "Systémová lišta (taskbar)"
+    IDS_TRAY                    "Systémová lišta"
 
     IDS_TRAY_SKINMENUS          "Vzhled hlavního panelu a vyskakovacích nabídek na hlavním panelu"
     IDS_TRAY_CENTERMENUS        "Vyskakovací nabídky ikony na středovém panelu"
