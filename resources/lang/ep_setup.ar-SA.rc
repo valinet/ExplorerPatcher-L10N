@@ -1,0 +1,15 @@
+#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_ARABIC, SUBLANG_ARABIC_SAUDI_ARABIA
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNSUPPORTED_ARCH  "يرجى تشغيل إصدار %1$s من ملف الإعداد على أجهزة %1$s. ملف الإعداد هذا مخصص فقط لأجهزة %2$s."
+    IDS_SETUP_UNINSTALL_PROMPT  "هل أنت متأكد من أنك تريد إزالة ExplorerPatcher من جهاز الكمبيوتر الخاص بك؟"
+    IDS_SETUP_INSTALL_LOGOFF    "من أجل التثبيت، سيتم تسجيل خروجك تلقائيًا من Windows. سيكون ExplorerPatcher جاهزًا للاستخدام عند تسجيل الدخول مرة أخرى.\n\nهل تريد المتابعة؟"
+    IDS_SETUP_UNINSTALL_LOGOFF  "لإكمال عملية إلغاء التثبيت، سيتم تسجيل خروجك تلقائيًا من Windows.\n\nهل تريد المتابعة؟"
+    IDS_SETUP_UNINSTALL_RESTART "يرجى إعادة تشغيل جهاز الكمبيوتر لإكمال عملية إلغاء التثبيت.\n\nهل تريد إعادة التشغيل الآن؟"
+    IDS_SETUP_UNINSTALL_FINISH  "اكتملت إزالة التثبيت. شكرًا لاستخدامك ExplorerPatcher."
+    IDS_SETUP_FAILED            "حدث خطأ أثناء خدمة ExplorerPatcher.\nمن المرجح أن يكون سبب هذا هو أن ملفًا أو أكثر من الملفات الاحتياطية من تحديث سابق لا يزال قيد الاستخدام. يجب أن يؤدي إلغاء قفل الملفات إلى حل هذه المشكلة.\n\nخطوات استكشاف الأخطاء وإصلاحها:\n• أغلق مربع حوار ""خصائص"" وأعد فتحه إذا كان مفتوحًا حاليًا.\n• أوقف وأعد تشغيل جميع عمليات ""explorer.exe"".\n• إذا قمت بتسجيل ExplorerPatcher كملحق shell، فمن المحتمل أن تؤدي إعادة تشغيل الكمبيوتر إلى حل هذه المشكلة.\n• أخيرًا، أعد تشغيل الكمبيوتر وحاول مرة أخرى."
+END
