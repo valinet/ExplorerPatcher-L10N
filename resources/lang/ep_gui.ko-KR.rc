@@ -134,7 +134,7 @@ BEGIN
 
     IDS_EXP                     "파일 탐색기"
 
-    IDS_EXP_SHEXT_L1            "(**) 표시된 설정이 열기 및 저장 파일 대화 상자에서도 잘 작동하려면,"
+    IDS_EXP_SHEXT_L1            "(**) 표시된 설정이 파일 열기 및 저장 대화 상자에서도 잘 작동하려면,"
     IDS_EXP_SHEXT_L2            "아래 옵션을 사용해 이 유틸리티를 셸 확장으로 등록하세요."
     IDS_EXP_SHEXT_LEARN         "자세히 알아보기"
     IDS_EXP_SHEXT_REGISTER      "셸 확장으로 등록"
@@ -243,7 +243,7 @@ BEGIN
     IDS_AT_SWS_PADDING          "창 여백"
     IDS_AT_SWS_PADDING_20       "20 pt (기본값)"
     IDS_AT_SWS_PADDING_0        "없음"
-    IDS_AT_SWS_SHOWDELAY        "표시 지연"
+    IDS_AT_SWS_SHOWDELAY        "표시 지연 시간"
     IDS_AT_SWS_SHOWDELAY_0      "없음"
     IDS_AT_SWS_SHOWDELAY_25     "25 ms"
     IDS_AT_SWS_SHOWDELAY_50     "50 ms"
