@@ -40,6 +40,7 @@ We would like to thank the following people for their contributions in translati
 | Dutch                 | @GewoonIraj                                     |
 | French                | @corentios, @Need74                             |
 | German                | @lukinator01, @NotOfficer                       |
+| Greek                 | @KonVetsos                                      |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
