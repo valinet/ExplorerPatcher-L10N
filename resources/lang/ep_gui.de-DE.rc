@@ -9,7 +9,7 @@ BEGIN
     IDS_UPDATES_AVAILABLE_T     "Version %d.%d.%d.%d ist verfügbar."
     IDS_UPDATES_AVAILABLE_T_U   "Neue Version verfügbar"
     IDS_UPDATES_AVAILABLE_B     "Klicken Sie hier, um mehr über dieses Update zu erfahren."
-    IDS_UPDATES_AVAILABLE_A     "Jetzt updaten"
+    IDS_UPDATES_AVAILABLE_A     "Jetzt aktualisieren"
     IDS_UPDATES_ISLATEST_T      "Keine neue Version verfügbar"
     IDS_UPDATES_ISLATEST_B      "Bitte versuchen Sie es später nochmal."
     IDS_UPDATES_CHECKFAILED_T   "Es kann nicht nach Updates gesucht werden."
