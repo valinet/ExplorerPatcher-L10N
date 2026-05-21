@@ -32,7 +32,7 @@ BEGIN
     IDS_SYM_FAILEDALL_B         "Für diesen Build konnten keine Symbole heruntergeladen werden. Dies kann daran liegen, dass der aktuelle BS-Build zu aktuell ist oder die Internetverbindung nicht verfügbar oder instabil ist."
 
     IDS_CRASH_TITLE             "Bedauerlicherweise ist der Explorer abgestürzt. :("
-    IDS_CRASH_BODY              "Es scheint, dass der Explorer beim Starten jedes Mal unerwartet %1$s in weniger als %2$d Sekunden bei jedem Start geschlossen wird. Dies könnte auf ein durch ExplorerPatcher verursachtes Problem hinweisen, das möglicherweise keine Kenntnis von den letzten Änderungen in Windows hat, wenn es beispielsweise auf einem neuen Betriebssystem-Build ausgeführt wird.\nHier ein paar Empfehlungen:\n• Wenn eine neue Version verfügbar ist, können Sie <A HREF=""%3$s"">den ExplorerPatcher updaten und den Explorer neu starten</A>.\n• Auf GitHub können Sie <A HREF=""%4$s"">die letzten Veröffentlichungen ansehen</A>, <A HREF=""%5$s"">den aktuellen Status prüfen</A>, <A HREF=""%6$s"">diskutieren</A> oder <A HREF=""%7$s"">sehen Sie sich die zuletzt gemeldeten Fehler an</A>.\n• Wenn Sie vermuten, dass dies nicht durch ExplorerPatcher verursacht wird, deinstallieren Sie bitte alle kürzlich installierten Shell-Erweiterungen oder ähnliche Dienstprogramme.\n• Wenn derzeit kein Fix verfügbar ist, können Sie den, <A HREF=""%8$s"">ExplorerPatcher deinstallieren</A>, und ihn später neu installieren, wenn ein Fix auf GitHub veröffentlicht wird. Seien Sie versichert, dass Ihre Programmkonfiguration auch bei einer Deinstallation erhalten bleibt.\n\nEs tut mir leid für die Unannehmlichkeiten, die dadurch entstehen könnten. Ich gebe mein Bestes, um dieses Programm auf dem neuesten Stand zu halten und funktionsfähig zu halten.\n\nExplorerPatcher ist bis zum nächsten Neustart des Explorers deaktiviert, damit Sie Wartungsaufgaben durchführen und die erforderlichen Maßnahmen ergreifen können."
+    IDS_CRASH_BODY              "Es scheint, dass der Explorer beim Starten jedes Mal unerwartet %1$s in weniger als %2$d Sekunden bei jedem Start geschlossen wird. Dies könnte auf ein durch ExplorerPatcher verursachtes Problem hinweisen, das möglicherweise keine Kenntnis von den letzten Änderungen in Windows hat, wenn es beispielsweise auf einem neuen Betriebssystem-Build ausgeführt wird.\nHier sind ein paar Empfehlungen:\n• Wenn eine neue Version verfügbar ist, können Sie <A HREF=""%3$s"">den ExplorerPatcher aktualisieren und den Explorer neu starten</A>.\n• Auf GitHub können Sie <A HREF=""%4$s"">die letzten Veröffentlichungen ansehen</A>, <A HREF=""%5$s"">den aktuellen Status prüfen</A>, <A HREF=""%6$s"">diskutieren</A> oder <A HREF=""%7$s"">sehen Sie sich die zuletzt gemeldeten Fehler an</A>.\n• Wenn Sie vermuten, dass dies nicht durch ExplorerPatcher verursacht wird, deinstallieren Sie bitte alle kürzlich installierten Shell-Erweiterungen oder ähnliche Dienstprogramme.\n• Wenn derzeit kein Fix verfügbar ist, können Sie den, <A HREF=""%8$s"">ExplorerPatcher deinstallieren</A>, und ihn später neu installieren, wenn ein Fix auf GitHub veröffentlicht wird. Seien Sie versichert, dass Ihre Programmkonfiguration auch bei einer Deinstallation erhalten bleibt.\n\nEs tut mir leid für die Unannehmlichkeiten, die dadurch entstehen könnten. Ich gebe mein Bestes, um dieses Programm auf dem neuesten Stand zu halten und funktionsfähig zu halten.\n\nExplorerPatcher ist bis zum nächsten Neustart des Explorers deaktiviert, damit Sie Wartungsaufgaben durchführen und die erforderlichen Maßnahmen ergreifen können."
     IDS_CRASH_ONCE              "einmal"
     IDS_CRASH_MULTIPLE          "%d mal"
     IDS_CRASH_DISMISS           "Schließen"
@@ -159,7 +159,7 @@ BEGIN
     IDS_EXP_TITLEBAR_1          "Titel ausblenden, Symbol anzeigen"
     IDS_EXP_TITLEBAR_2          "Symbol ausblenden, Titel anzeigen"
     IDS_EXP_TITLEBAR_3          "Symbol und Titel ausblenden"
-    IDS_EXP_MICA                "Glimmer-Effekt auf die Navigationsleiste von Windows 7-Explorer-Fenstern anwenden"
+    IDS_EXP_MICA                "Mica-Effekt auf die Navigationsleiste von Windows 7-Explorer-Fenstern anwenden"
 
     IDS_START                   "Startmenü"
 
@@ -220,7 +220,7 @@ BEGIN
     IDS_AT_SWS_THEME            "Theme"
     IDS_AT_SWS_THEME_0          "Standard"
     IDS_AT_SWS_THEME_1          "Acryl"
-    IDS_AT_SWS_THEME_2          "Glimmer (immer undurchsichtig)"
+    IDS_AT_SWS_THEME_2          "Mica (immer undurchsichtig)"
     IDS_AT_SWS_OPACITY          "Deckkraft"
     IDS_AT_SWS_OPACITY_100      "Undurchsichtig"
     IDS_AT_SWS_OPACITY_95       "95 % (Standard)"
@@ -357,7 +357,7 @@ BEGIN
     IDS_OTHER_DISABLEWINF       "Hotkey Win+F (Feedback-Hub) deaktivieren"
     IDS_OTHER_DISABLERC         "Abgerundete Ecken für Anwendungsfenster deaktivieren"
     IDS_OTHER_DISABLEAEROSNAP   "Quadranten beim Einrasten von Fenstern deaktivieren"
-    IDS_OTHER_SNAPASSISTSTYLE   "Schnapphilfe-Stil"
+    IDS_OTHER_SNAPASSISTSTYLE   "Andockhilfe-Stil"
     IDS_OTHER_SNAPASSISTSTYLE_0 "Windows 11 (Standard)"
     IDS_OTHER_SNAPASSISTSTYLE_3 "Windows 10"
     IDS_OTHER_PWRBTNACTION      "Standardaktion im Alt+F4-Dialog auf dem Desktop"
