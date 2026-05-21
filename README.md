@@ -46,7 +46,7 @@ We would like to thank the following people for their contributions in translati
 | Japanese              | @creeper-0910, @reindex-ot, @Rukoto, @Amrsatrio |
 | Korean                | @MuscularPuky                                   |
 | Lithuanian            | @Kass401                                        |
-| Polish                | @BestiaPL                                       |
+| Polish                | @BestiaPL, @sefinek                             |
 | Portuguese (Brazil)   | @thiagojramos                                   |
 | Romanian              | @21124637                                       |
 | Russian               | @the-aLeXiS                                     |
