@@ -1,0 +1,14 @@
+﻿#include "resources/resource.h"
+#include "winres.h"
+
+LANGUAGE LANG_ARABIC, SUBLANG_ARABIC_SAUDI_ARABIA
+
+STRINGTABLE
+BEGIN
+    IDS_SETUP_UNINSTALL_PROMPT  "هل أنت متأكد من إزالة ExplorerPatcher من جهازك؟"
+    IDS_SETUP_INSTALL_LOGOFF    "يجب تسجيل الخروج لإكمال تثبيت ExplorerPatcher، وسيكون جاهز بعد تسجيل الدخول.\n\nهل تريد تسجيل الخروج الآن؟"
+    IDS_SETUP_UNINSTALL_LOGOFF  "يجب تسجيل الخروج لإكمال إزالة ExplorerPatcher.\n\nهل تريد تسجيل الخروج الآن؟"
+    IDS_SETUP_UNINSTALL_RESTART "من فضلك أعد تشغيل الجهاز لإكمال إزالةExplorerPatcher.\n\nهل تريد إعادة التشغيل الآن؟"
+    IDS_SETUP_UNINSTALL_FINISH  "تمت الإزالة، شكراً لاستخدامك ExplorerPatcher."
+    IDS_SETUP_FAILED            "حصل خطأ أثناء خدمة ExplorerPatcher.\nممكن أن يكون بسبب ملف من ملفات التحديث السابق لايزال مستخدم، وفتح القفل على الملف مطلوب.\n\nخطوات الحل:\n• أغلق نافذة الخصائص وافتحها.\n• أنهِ أي مهمة باسم ""explorer.exe"" أو ""مستكشف Windows"" وافتحها لاحقاً.\n• إذا سجلت ExplorerPatcher كامتداد للنظام، حاول إعادة تشغيل جهازك.\n• أعد تشغيل الجهاز وحاول مرة ثانية كحل أخير."
+END
