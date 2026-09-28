@@ -425,7 +425,7 @@ BEGIN
     IDS_ABOUT_EXPORT_SUCCESS    "Instellingen zijn succesvol geëxporteerd."
     IDS_ABOUT_RESET             "Herstel standaardinstellingen"
 
-    IDS_MAINTENANCE             "Settings and uninstall"
+    IDS_MAINTENANCE             "Instellingen en Verwijdering"
 
     IDS_UNINSTALL               "Deïnstalleren"
     IDS_UNINSTALL_UNINSTALL     "Verwijder ExplorerPatcher"
